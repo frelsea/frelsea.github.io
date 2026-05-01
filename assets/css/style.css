@@ -66,6 +66,7 @@ a.link:after{
 a:hover, a:focus{
 	color:#60606e;
 	text-decoration: none;
+	outline: none;
 }
 a:hover:after{
 	width: 50%;
