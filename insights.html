@@ -1,13 +1,15 @@
+---
+---
 <!DOCTYPE html>
 <html>
 <head>
-	<title>About Us - Frelsea - Maritime Consultants</title>
+	<title>Insights - Frelsea - Maritime Consultants</title>
 	<!-- META TAGS -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 	<meta name="author" content="">
-	<meta name="description" content="Frelsea is a maritime consulting agency that brings innovative solutions to ship owners and operators all around the world.">
+	<meta name="description" content="Market commentary, S&P transactions, freight rate analysis, and fleet investment insight from Frelsea.">
 
 	<!-- STYLES -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -40,7 +42,6 @@
 					<div class="line"></div>
 					<div class="line"></div>
 				</div>
-				
 			</div>
 		</div>
 	</header>
@@ -48,57 +49,95 @@
 	<!-- HERO SECTION  -->
 	<div class="site-hero_2">
 		<div class="page-title">
-			<div class="big-title montserrat-text uppercase">about us</div>
-			<div class="small-title montserrat-text uppercase">home / about</div>
+			<div class="big-title montserrat-text uppercase">insights</div>
+			<div class="small-title montserrat-text uppercase">home / insights</div>
 		</div>
 	</div>
 
 	<section>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-6">
-					<div class="section-title" style="text-align:left;float:left;width:100%;margin-bottom:0">
-						<span>about us</span>
-						<p class="montserrat-text uppercase">Expertise. Network. Results.</p>
+
+				<!-- MAIN POSTS COLUMN -->
+				<div class="col-md-9 col-sm-12">
+
+					{% for post in site.posts %}
+					<div class="blog_post{% unless forloop.first %} wow fadeInUp{% endunless %}">
+						<div class="post_info">
+							<div class="post_date montserrat-text uppercase">{{ post.date | date: "%B %d, %Y" }}</div>
+						</div>
+						<h4 class="montserrat-text uppercase" style="margin:15px 0 10px">{{ post.title }}</h4>
+						<p>{{ post.excerpt | strip_html | truncate: 300 }}</p>
+						<a href="{{ post.url }}" class="link montserrat-text uppercase">continue reading <i class="icon ion-arrow-right-c"></i></a>
+					</div>
+					{% endfor %}
+
+					<!-- pagination -->
+					<div class="blog_pagination wow fadeInUp">
+						<a href="" class="page">
+							<i class="icon ion-arrow-left-c prev"></i>
+							<span>previous</span>
+						</a>
+						<span class="divisor">/</span>
+						<a href="" class="page">
+							<span>next</span>
+							<i class="icon ion-arrow-right-c next"></i>
+						</a>
 					</div>
 
-					<p>Frelsea is a boutique maritime consultancy offering expertise in ship management, technical operations, corporate structuring, and strategic advisory for shipowners. We operate through a core leadership backed by a network of trusted professionals in shipbuilding, engineering, naval architecture, and finance, enabling us to deliver tailored solutions across disciplines.</p>
-				</div>
-				<div class="col-md-6">
-					<div class="section-title" style="text-align:left;float:left;width:100%;margin-bottom:0">
-						<span>what we do</span>
-						<p class="montserrat-text uppercase">Technical, Commercial & Strategic Advisory</p>
-					</div>
+				</div><!-- end main col -->
 
-					<p>We support shipowners in navigating technical, commercial, and strategic challenges. Our services cover pre-purchase inspections, technical consulting, drydock and refit project management, corporate structuring, capital strategy, fleet acquisitions, and investment advisory. Whether optimizing existing operations or planning for growth, we provide solutions designed around your objectives.</p>
-				</div>
-			</div>
-		</div>
+				<!-- SIDEBAR -->
+				<div class="col-md-3">
+					<div class="sidebar">
+
+						<div class="widget">
+							<div class="widget_title">recent posts</div>
+							{% for post in site.posts limit:5 %}
+							<div class="related_post">
+								<a href="{{ post.url }}" class="post_title montserrat-text uppercase">{{ post.title }}</a>
+								<div class="post_date">{{ post.date | date: "%d %B %Y" }}</div>
+							</div>
+							{% endfor %}
+						</div>
+
+						<div class="widget wow fadeInUp">
+							<div class="widget_title">topics</div>
+							<ul class="list_2">
+								<li><a href="">Tanker S&amp;P Market</a></li>
+								<li><a href="">Freight Rates</a></li>
+								<li><a href="">Fleet Investment</a></li>
+								<li><a href="">Technical Management</a></li>
+								<li><a href="">Regulatory</a></li>
+							</ul>
+						</div>
+
+					</div>
+				</div><!-- end sidebar -->
+
+			</div><!-- end row -->
+		</div><!-- end container -->
 	</section>
 
-
-	<!-- Contact -->
+	<!-- CTA -->
 	<section class="green-section wow fadeInUp" style="padding:50px 0">
 		<div class="container">
 			<div class="col-md-12 col-sm-12">
-				<div class="row" styl="text-align:center">
+				<div class="row" style="text-align:center">
 					<span class="white-text montserrat-text uppercase" style="font-size:30px;display:block;">
 						Let's work together
 					</span>
-					<a href="contact.html" class="btn white" style="margin-top:30px"><span>get in touch</span></a>
+					<a href="contact.html" class="btn white animsition-link" style="margin-top:30px"><span>get in touch</span></a>
 				</div>
 			</div>
 		</div>
 	</section>
-
 
 	<!-- FOOTER -->
 	<footer class="main-footer wow fadeInUp">
 		<div class="container">
 			<div class="col-md-8 col-sm-12">
-				
 			</div>
-
 			<div class="col-md-4 col-sm-12" style="text-align:right">
 				<div class="row">
 					<div class="uppercase gray-text">
@@ -112,7 +151,6 @@
 	<!-- SCRIPTS -->
 	<script type="text/javascript" src="assets/js/jquery-2.1.4.min.js"></script>
 	<script type="text/javascript" src="assets/js/smoothScroll.js"></script>
-	<script type="text/javascript" src="assets/js/jquery.flexslider.js"></script>
 	<script type="text/javascript" src="assets/js/jquery.animsition.min.js"></script>
 	<script type="text/javascript" src="assets/js/wow.min.js"></script>
 	<script type="text/javascript" src="assets/js/main.js"></script>
@@ -120,11 +158,6 @@
 	$(window).load(function(){
 		new WOW().init();
 	});
-		$(window).on('load', function() {
-    window.scrollTo(0, 0);
-});
-
 	</script>
-	
 </body>
 </html>

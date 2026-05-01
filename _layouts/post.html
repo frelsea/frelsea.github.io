@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{ page.title }} - Frelsea - Maritime Consultants</title>
+	<!-- META TAGS -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico">
+	<meta name="author" content="">
+	<meta name="description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
+
+	<!-- STYLES -->
+	<link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/assets/css/ionicons.min.css">
+	<link rel="stylesheet" href="/assets/css/animsition.min.css">
+	<link rel="stylesheet" href="/assets/css/animate.css">
+	<link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body class="animsition">
+	<!-- HEADER  -->
+	<header class="main-header">
+		<div class="container">
+			<div class="logo">
+				<a href="/"><img src="/assets/img/logo.png" alt="logo"></a>
+			</div>
+			<div class="menu">
+				<!-- desktop navbar -->
+				<nav class="desktop-nav">
+					<ul class="first-level">
+						<li><a href="/" class="animsition-link">Home</a></li>
+						<li><a href="/about.html" class="animsition-link">About Us</a></li>
+						<li><a href="/insights.html" class="animsition-link">Insights</a></li>
+						<li><a href="/contact.html" class="animsition-link">Contact Us</a></li>
+					</ul>
+				</nav>
+				<!-- mobile navbar -->
+				<nav class="mobile-nav"></nav>
+				<div class="menu-icon">
+					<div class="line"></div>
+					<div class="line"></div>
+					<div class="line"></div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<!-- HERO SECTION  -->
+	<div class="site-hero_2">
+		<div class="page-title">
+			<div class="big-title montserrat-text uppercase">{{ page.title }}</div>
+			<div class="small-title montserrat-text uppercase">home / insights / article</div>
+		</div>
+	</div>
+
+	<section>
+		<div class="container">
+			<div class="row">
+
+				<!-- MAIN ARTICLE COLUMN -->
+				<div class="col-md-9 col-sm-12">
+					<div class="single_post">
+						<div class="post_title">
+							<h4 class="montserrat-text uppercase">{{ page.title }}</h4>
+							<span class="post_date">{{ page.date | date: "%d %B %Y" }}</span>
+						</div>
+						{{ content }}
+					</div>
+
+					<div class="pages_pagination">
+						<a href="/insights.html" class="all animsition-link"><i class="icon ion-grid"></i></a>
+						{% if page.next %}
+						<a href="{{ page.next.url }}" class="prev animsition-link"><i class="icon ion-arrow-left-c"></i></a>
+						{% endif %}
+						{% if page.previous %}
+						<a href="{{ page.previous.url }}" class="next animsition-link"><i class="icon ion-arrow-right-c"></i></a>
+						{% endif %}
+					</div>
+				</div><!-- end main col -->
+
+				<!-- SIDEBAR -->
+				<div class="col-md-3">
+					<div class="sidebar">
+
+						<div class="widget">
+							<div class="widget_title">recent posts</div>
+							{% for post in site.posts limit:5 %}
+							<div class="related_post">
+								<a href="{{ post.url }}" class="post_title montserrat-text uppercase">{{ post.title }}</a>
+								<div class="post_date">{{ post.date | date: "%d %B %Y" }}</div>
+							</div>
+							{% endfor %}
+						</div>
+
+						<div class="widget wow fadeInUp">
+							<div class="widget_title">topics</div>
+							<ul class="list_2">
+								<li><a href="/insights.html">Tanker S&amp;P Market</a></li>
+								<li><a href="/insights.html">Freight Rates</a></li>
+								<li><a href="/insights.html">Fleet Investment</a></li>
+								<li><a href="/insights.html">Technical Management</a></li>
+								<li><a href="/insights.html">Regulatory</a></li>
+							</ul>
+						</div>
+
+					</div>
+				</div><!-- end sidebar -->
+
+			</div><!-- end row -->
+		</div><!-- end container -->
+	</section>
+
+	<!-- CTA -->
+	<section class="green-section wow fadeInUp" style="padding:50px 0">
+		<div class="container">
+			<div class="col-md-12 col-sm-12">
+				<div class="row" style="text-align:center">
+					<span class="white-text montserrat-text uppercase" style="font-size:30px;display:block;">
+						Let's work together
+					</span>
+					<a href="/contact.html" class="btn white animsition-link" style="margin-top:30px"><span>get in touch</span></a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- FOOTER -->
+	<footer class="main-footer wow fadeInUp">
+		<div class="container">
+			<div class="col-md-8 col-sm-12">
+			</div>
+			<div class="col-md-4 col-sm-12" style="text-align:right">
+				<div class="row">
+					<div class="uppercase gray-text">
+						Frelsea &copy; 2025. all rights reserved.
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<!-- SCRIPTS -->
+	<script type="text/javascript" src="/assets/js/jquery-2.1.4.min.js"></script>
+	<script type="text/javascript" src="/assets/js/smoothScroll.js"></script>
+	<script type="text/javascript" src="/assets/js/jquery.animsition.min.js"></script>
+	<script type="text/javascript" src="/assets/js/wow.min.js"></script>
+	<script type="text/javascript" src="/assets/js/main.js"></script>
+	<script type="text/javascript">
+	$(window).load(function(){
+		new WOW().init();
+	});
+	</script>
+</body>
+</html>

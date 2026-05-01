@@ -1,0 +1,14 @@
+title: Frelsea
+description: "Maritime advisory — acquisition, technical management, fleet strategy."
+url: "https://frelsea.com"
+baseurl: ""
+
+# Blog post URLs: /insights/post-title/
+permalink: /insights/:title/
+
+# Files Jekyll should not process or copy to the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .DS_Store
