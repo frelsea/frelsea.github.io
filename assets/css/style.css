@@ -516,7 +516,7 @@ footer.main-footer nav.footer-nav ul li a{
 .site-hero_2{
 	background: url("../img/site-hero2.jpg") no-repeat;
 	background-size: cover;
-	height: 500px;
+	height: 300px;
 	width: 100%;
 	position: relative;
 }
