@@ -61,7 +61,7 @@
 				<!-- MAIN POSTS COLUMN -->
 				<div class="col-md-9 col-sm-12">
 
-					{% for post in site.posts %}
+					{% for post in site.posts limit:6 %}
 					<div class="blog_post{% unless forloop.first %} wow fadeInUp{% endunless %}">
 						<div class="post_info">
 							<div class="post_date montserrat-text uppercase">{{ post.date | date: "%B %d, %Y" }}</div>

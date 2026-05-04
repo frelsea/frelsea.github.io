@@ -4,9 +4,7 @@ title: "Week 06: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 description: "Secondhand markets show steady activity across tanker and bulker segments with VLCC valuations firm and dry bulk transactions spread across multiple tonnage categories."
 date: 2026-02-06
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
-image: 
-  path: /assets/img/benchmarks/2026-w06-sp-benchmarks-tankers.png
-  alt: "Week 06 tanker S&P benchmarks"
+image: /assets/img/benchmarks/2026-w06-sp-benchmarks-tankers.png
 ---
 
 The secondhand markets remained steady through week six, with sustained interest across tanker and dry bulk sectors reflecting balanced supply-demand conditions. Newbuilding deliveries continued at elevated levels, while selective tonnage continued to find new owners at stable pricing throughout the period.
@@ -35,8 +33,3 @@ Demolition activity remained selective during the week, with scrapping decisions
 
 The limited availability of tonnage suitable for immediate scrapping continues, with most available older vessels still generating adequate employment returns under current freight regimes. Only the oldest conventional units without modern compliance features or extensive renovation records appeared to approach breaking thresholds. Regional demolition capacity in South Asia remains constrained, with limited availability for immediate recycling across primary breaker locations.
 
----
-
-**Report compiled from broker sources: Advanced Shipbrokers, Xclusiv, Bancosta, ISM, Star Asia, Gibsons**
-
-Word count: 748

@@ -15,8 +15,6 @@ Very large crude carriers maintained modest activity with a single VLCC committe
 
 Indicative newbuilding prices for tankers held stable during the week. VLCC contracts remained at approximately USD 122 million for Chinese delivery, with Suezmax units priced at USD 81.5 million and MR2 coated units at USD 44.5 million. Newbuilding orders included 2 units of 158,000 dwt tankers for Hyundai Samho at USD 89.5 million each to Greek interests and 4 units of 157,000 dwt at the same price for Greek buyers, all featuring scrubber and ammonia-ready configurations with delivery scheduled for 2028 to 2029.
 
-Demolition prices for tankers remained firm across all regions. India held at USD 430-438 per light displacement tonne, Bangladesh strengthened to USD 445-460, and Pakistan settled around USD 430-440. Turkey remained lower at USD 280 per ldt. Demolition sales included a general cargo vessel (Ghada A, 2,240 ldt) recycled in India and a chemical tanker unit (Bianca, 37,320 dwt, 8,986 ldt) committed to India.
-
 ## Dry Bulk
 
 Secondhand activity in the Capesize segment showed the Aliado, a 177,022 dwt 2005-built Namura vessel, transacted at USD 20 million. In the Kamsarmax category, the CCS Orchid, a 2017-built 81,966 dwt Chinese-yard unit, achieved USD 27.24 million via online auction, while the Spirit of Ho-Ping, an 82,152 dwt 2011 Tsuneishi, sold for USD 19.4 million to Greek interests. The Ultramax segment saw the Ability, a 64,253 dwt 2021 Shin Kurushima vessel, transact at USD 37 million. The Clover, a 61,377 dwt 2013-built Iwagi unit fitted with scrubber, sold for USD 21 million. Supramax units moved modestly, with the Somnath, a 55,707 dwt 2005-built from Oshima, committed to Chinese interests at USD 9 million.
@@ -24,8 +22,6 @@ Secondhand activity in the Capesize segment showed the Aliado, a 177,022 dwt 200
 Handysize vessels recorded steady sales. The Nord Santiago, a 39,475 dwt 2018-built from Jiangmen, transacted at USD 22 million. The Qi Cheng 3, a 38,268 dwt 2012 Jiangsu vessel with Ice Class II notation, sold to Chinese interests at USD 11 million. The DL Lavender, a 35,194 dwt 2014-built South Korean unit, moved to Greek interests at USD 15.8 million.
 
 Newbuilding prices for bulk carriers remained stable. Capesize contracts stayed at USD 72.1 million, with Kamsarmax at USD 36 million, Ultramax at USD 33.9 million, and Handysize at USD 29.8 million. Notable orders included 5 Ultramax units of 63,500 dwt ordered from Chinese yards for 2028-2029 delivery at USD 33.5 million per unit to Swiss interests, and 2 small bulk carriers of 20,000 dwt from Jiangxi for 2027 delivery with LNG fuel capability to Chinese buyers.
-
-Demolition activity in the Capesize sector showed firm momentum. The Jin Jiang, a 2000-built 21,238 ldt Capesize, sold on an as-is China basis at approximately USD 430 per ldt. Supramax units moved steadily, with three MISC-owned vessels, the Puteri Mutiara Satu (28,804 ldt), Puteri Zamrud Satu (28,858 ldt), and Puteri Firu Satu (28,805 ldt), all sold at over USD 11 million each on Malaysia delivery to Bangladeshi yards. Demolition prices firmed across the Indian subcontinent: India held at USD 410-430 per ldt for bulkers, Bangladesh strengthened to USD 410-445, and Pakistan remained at USD 405-425. Turkey continued at lower levels around USD 270 per ldt.
 
 ## Demolition
 

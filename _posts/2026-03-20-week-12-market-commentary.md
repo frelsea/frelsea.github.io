@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Week 12: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – March 2026"
 date: 2026-03-20
 description: "Weekly market summary of S&P transactions, newbuilding contracting, and demolition activity across dry bulk and tanker segments for Week 12."
@@ -13,19 +14,10 @@ Tanker secondhand sales remained active with quality tonnage attracting strong b
 
 Newbuilding tanker order flow reflected continued investment in larger units. VLCC newbuilding prices held at approximately USD 129.2 million per unit, with Suezmax yards quoting around USD 87.7 million and Aframax vessels at USD 75.7 million. MR2 and smaller product tankers remained competitive at USD 49.7 million, supporting volume in the product tanker orderbook.
 
-Demolition markets recorded notable tanker activity with pricing firm across recycling destinations. India quoted USD 410 per ldt, Bangladesh at USD 430–445 per ldt (the higher end reflecting recent transactions including Wantong Summer at USD 433 per ldt), Pakistan at USD 415 per ldt, and Turkey at USD 280 per ldt. The Energia Centaurus, a larger tanker-related vessel, transacted at USD 418 per ldt to Bangladesh, indicating steady demand for larger tonnage recycling.
-
 ## Dry Bulk
 
 Dry bulk secondhand sales showed robust pricing across size categories, with Cape-size leadership and broad participation in smaller classes. Aliado, a 177,000-dwt Capesize built in 2005, sold to Chinese buyers at USD 19 million, establishing baseline for older Cape tonnage. Squireship, a modern 170,000-dwt unit, achieved USD 29.5 million, reflecting the premium for newer hulls. Kamsarmax vessels maintained competitive pricing, with transactions ranging from USD 17.5 million at the low end to USD 28.5 million for modern tonnage including MG Mercury at USD 28.5 million and Gia Inspiration at USD 33.3 million for a 2022-built 85,000-dwt unit. Mid-size operators continued to bid for Ultramax and Supramax tonnage, with Ability trading at USD 37 million and Papa John at USD 13.2 to 13.7 million depending on broker assessment. Handysize vessels showed steady activity, including Sigma Pioneer at USD 8.75 million and Sea Sapphire at USD 8.5 million, while larger Handysize units like Sider Imabari and Pacific Harmony quoted USD 34 million and USD 17 million respectively. A notable en bloc transaction, Jiangsu Dajin OHBS vessels (40K newbuilding class, 2027 delivery), sold for USD 90 million combined, reflecting strong confidence in near-new tonnage.
 
 Newbuilding dry bulk prices remained supportive for yards. Capesize units quoted approximately USD 75 million, with Kamsarmax at USD 36.5 million, Ultramax at USD 34.2 million, and Handysize at USD 29.5 million. These levels maintained competitiveness and sustained newbuilding demand despite second-hand values.
 
-Demolition pricing for dry bulk vessels held steady. India recycling yards quoted USD 390 per ldt for bulkers, Bangladesh at USD 410 per ldt, Pakistan at USD 405 per ldt, and Turkey at USD 270 per ldt. Significant recycling activity included Ocean Amazing at USD 310 per ldt to Bangladesh, indicating seasonal demand fluctuations by destination. Container tonnage, including Kokopo Chief, transacted at USD 465 per ldt to India, showing strong competition for scrap-grade vessels across all yards.
-
----
-
-**Benchmark Reference:**
-- 2026-w12-sp-benchmarks-tankers.png
-- 2026-w12-sp-benchmarks-dry-bulk.png
-- 2026-w12-demo-benchmarks.png
+Demolition pricing for dry bulk vessels held steady. India recycling yards quoted USD 390 per ldt for bulkers, Bangladesh at USD 410 per ldt, Pakistan at USD 405 per ldt, and Turkey at USD 270 per ldt. Significant recycling activity included Ocean Amazing at USD 310 per ldt to Bangladesh, indicating seasonal demand fluctuations by destination.

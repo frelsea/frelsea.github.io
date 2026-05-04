@@ -4,9 +4,7 @@ title: "Week 08: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 date: 2026-02-20
 description: "Market overview of secondhand dry bulk and tanker S&P activity, newbuilding momentum, and demolition pricing for the week ending February 20, 2026."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
-image:
-  path: /assets/img/benchmarks/2026-w08-sp-benchmarks-tankers.png
-  alt: "S&P tanker benchmarks for Week 08"
+image: /assets/img/benchmarks/2026-w08-sp-benchmarks-tankers.png
 ---
 
 The secondhand market accelerated through early February, with dry bulk activity outpacing the prior year by a substantial margin, while tanker transactions continued at firm levels supported by steady inquiry and tight vessel availability. Across all segments, buyers demonstrated confidence in forward earnings streams, committing capital to tonnage at elevated valuations and evidence of structural demand for replacement economics.
@@ -27,8 +25,3 @@ Notable Capesize transactions included Cape Brazil, a 177,897 DWT unit built in 
 
 No demolition transactions were reported during this reporting week.
 
----
-
-**Market Snapshot**
-
-The secondhand market continues to process increased offer flow while prices remain elevated by historical standards. The breadth of participation across vessel sizes suggests an underlying confidence in operational cash flows, offsetting financing costs and moderating ordering appetite for newbuilding tonnage. Tight tonnage lists and period strength in core freight routes are expected to support ongoing secondhand activity in coming weeks.
