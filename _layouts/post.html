@@ -45,10 +45,9 @@
 	</header>
 
 	<!-- HERO SECTION  -->
-	<div class="site-hero_2">
+	<div class="site-hero_2 site-hero_2--slim">
 		<div class="page-title">
-			<div class="big-title montserrat-text uppercase">{{ page.title }}</div>
-			<div class="small-title montserrat-text uppercase">home / insights / article</div>
+			<div class="small-title montserrat-text uppercase"><a href="/" class="animsition-link">home</a> / <a href="/insights/" class="animsition-link">insights</a> / article</div>
 		</div>
 	</div>
 
@@ -60,7 +59,7 @@
 				<div class="col-md-9 col-sm-12">
 					<div class="single_post">
 						<div class="post_title">
-							<h4 class="montserrat-text uppercase">{{ page.title }}</h4>
+							<h1 class="montserrat-text uppercase">{{ page.title }}</h1>
 							<span class="post_date">{{ page.date | date: "%d %B %Y" }}</span>
 						</div>
 						{{ content }}
