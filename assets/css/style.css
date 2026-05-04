@@ -1146,12 +1146,18 @@ footer.main-footer nav.footer-nav ul li a{
 .site-hero_2--slim {
 	height: 160px;
 }
-.site-hero_2--slim .small-title a {
-	color: #60606e;
-	text-decoration: none;
+
+/*post breadcrumb*/
+.post_breadcrumb {
+	font-size: 12px;
+	color: #999999;
+	margin-bottom: 20px;
 }
-.site-hero_2--slim .small-title a:hover {
+.post_breadcrumb a {
 	color: #66ccff;
+}
+.post_breadcrumb a:hover {
+	color: #60606e;
 }
 
 /*single post content headings*/
