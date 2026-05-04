@@ -4,7 +4,6 @@ title: "Week 10: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 date: 2026-03-06
 description: "Active tanker and dry bulk S&P in Week 10, with Suezmax values reaching USD 65 million and broad Kamsarmax and Handysize trading across all buyer segments."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, vlcc, suezmax, aframax, capesize, kamsarmax, ultramax, supramax, handysize]
-image: /assets/img/benchmarks/2026-w10-sp-benchmarks-tankers.png
 ---
 
 Tanker secondhand values moved sharply higher in Week 10 as buyer demand across all wet segments intensified, while dry bulk transaction volumes remained substantial across every size category and demolition pricing held steady in South Asian yards.
@@ -21,6 +20,8 @@ Medium Range tanker activity was also active. A 2020-built Hyundai Mipo pair of 
 
 On the newbuilding front, Performance Shipping ordered two Suezmax vessels of 158,000 dwt at USD 81.5 million each, one at SWS for 2029 delivery and one at CSTC for 2028 delivery, both to be fitted with scrubbers.
 
+![Tanker secondhand vessel benchmark values, week 10 2026](/assets/img/benchmarks/2026-w10-sp-benchmarks-tankers.png)
+
 ## Dry Bulk
 
 Dry bulk S&P activity in Week 10 was broad-based, with buyers from China, Greece, India, Turkey, and elsewhere active across all major size segments. Two Capesize transactions were reported: a 177,947 dwt, 2007-built SWS vessel committed at high USD 23 million, and a 175,607 dwt, 2011-built HHIC Philippines unit with scrubber fitted committed at excess USD 32 million. A spread of this magnitude between the two units reflects both the scrubber premium and the age differential.
@@ -31,8 +32,12 @@ Ultramax transactions included a 2026-built resale of 63,800 dwt at Nantong acqu
 
 Handysize activity was the broadest of any size segment. A 2018-built JNS unit of 39,475 dwt committed at USD 22 million and a 2017-built JNS unit at USD 20.5 million to USD 21 million. A 2016-built Chengxi unit committed at USD 19 million, a 2015-built Jiangsu semi-boxed unit at USD 19.5 million, a 2016-built Namura Japan unit at USD 18.5 million, a 2015-built Shin Kochi logger/semi-boxed unit at USD 16.7 million, a 2014-built Korean unit acquired by Greek interests at USD 15.8 million, a 2013-built Chengxi unit at USD 16 to 17 million, and a 2009-built Japanese unit sold to Turkish interests at USD 8.6 million. Union Maritime placed a newbuilding order for two plus two Capesize vessels of 215,000 dwt at Wuhu, China, for 2028 delivery at USD 75.5 million each.
 
+![Dry bulk secondhand vessel benchmark values, week 10 2026](/assets/img/benchmarks/2026-w10-sp-benchmarks-dry-bulk.png)
+
 ## Demolition
 
 Demolition pricing was stable in Week 10 with no significant movement from the prior week in any sub-continent market. Bulker rates were indicated at USD 390 to 395 per light displacement tonne in India, USD 400 to 410 per ldt in Bangladesh, and USD 405 to 410 per ldt in Pakistan. Turkey quoted USD 270 per ldt for dry tonnage. Tanker demolition continued to command a premium across all destinations: India at USD 410 per ldt, Bangladesh at USD 430 to 435 per ldt, Pakistan at USD 415 to 430 per ldt, and Turkey at USD 280 per ldt.
 
 Reported sales included general cargo vessels and Ro-Ro tonnage sent to India, Pakistan, and Turkey, along with a 37,320 dwt, 2003-built Korean tanker committed to Indian breakers. Transaction volumes remained modest relative to the size of the operating fleet, with owners of commercially active tonnage in both wet and dry segments retaining vessels given current secondhand price levels.
+
+![Demolition benchmark rates by destination, week 10 2026](/assets/img/benchmarks/2026-w10-demo-benchmarks.png)

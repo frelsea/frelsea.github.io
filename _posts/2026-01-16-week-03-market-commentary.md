@@ -16,6 +16,8 @@ LR3 and LR2 trading showed softer valuations. The 158,933 dwt "Eclipse I" (2006,
 
 Newbuilding commitments for tankers included VLCC orders at established price points. Japanese buyers placed a 310,000 dwt VLCC with JMU for 2029 delivery, while Norwegian ownership secured two 306,000 dwt units from Hengli for 2028 delivery. Omani interests contracted three 300,000 dwt VLCCs from Hanwha Ocean for 2028-2029 delivery at USD 129.5 million per unit on scrubber-fitted, dual-fuel ready basis. Smaller newbuilding orders included two 157,000 dwt LR2 tankers from DH Shipbuilding, with Greek buyers committed at USD 85 to USD 86 million each.
 
+![Tanker secondhand vessel benchmark values, week 03 2026](/assets/img/benchmarks/2026-w03-sp-benchmarks-tankers.png)
+
 ## Dry Bulk
 
 Dry bulk secondhand activity spanned all major classes, supported by persistent, if cautious, buyer interest. In the capesize sector, the 181,408 dwt "Mineral Honshu" (2012, Koyo) sold to Chinese interests for USD 37.7 million, with the sistership "KM Osaka" (180,652 dwt, 2012, Koyo) executing at USD 34.8 million. These units established a market level around USD 34 to USD 38 million for modern 2012-built capesize tonnage. The 209,523 dwt "Nord Palladium" (2021, SWS) commanded USD 76.25 million from Chinese ownership, roughly USD 2.5 million above comparable 2020-built newcastlemax pricing a month prior, signaling modest premium appreciation on 2021 construction.
@@ -26,6 +28,10 @@ Ultramax and supramax tonnage showed consistent turnover across all ages. The mo
 
 Newbuilding orders in dry bulk consisted primarily of larger tonnage. Two 210,000 dwt units from Qingdao Beihai committed to Chinese ownership at USD 75 million per unit on methanol and ammonia-ready, scrubber-fitted specifications. Three additional 210,000 dwt newcastlemax units from the same yard proceeded on firm contract with Cosco Shipping. Smaller orders included two supramaxes plus two options (63,500 dwt, Jiangsu Soho Chuangke) valued at USD 33.4 million for the fixed tranche, destined for Chinese ownership.
 
+![Dry bulk secondhand vessel benchmark values, week 03 2026](/assets/img/benchmarks/2026-w03-sp-benchmarks-dry-bulk.png)
+
 ## Demolition
 
 Demolition prices remained stable across South Asian breaking yards with only limited activity reported. India maintained indicative levels of USD 390 per ldt for bulker demolition and USD 405 per ldt for tankers. Bangladesh prices stood at USD 375 per ldt bulkers and USD 410 per ldt tankers, whilst Pakistan quoted USD 400 per ldt bulkers and USD 410 per ldt tankers. Turkish demolition yards remained at a significant discount, quoting USD 270 per ldt across both bulker and tanker segments. Reported sales were sparse: the 28,510 dwt "Sheng Lu" (1994 bulker) and the 13,770 dwt "Dimple" (1992 bulker) completed, with the latter achieving USD 388 per ldt in India, indicating modest pricing within the stated indicative range.
+
+![Demolition benchmark rates by destination, week 03 2026](/assets/img/benchmarks/2026-w03-demo-benchmarks.png)

@@ -4,7 +4,6 @@ title: "Week 06: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 description: "Secondhand markets show steady activity across tanker and bulker segments with VLCC valuations firm and dry bulk transactions spread across multiple tonnage categories."
 date: 2026-02-06
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
-image: /assets/img/benchmarks/2026-w06-sp-benchmarks-tankers.png
 ---
 
 The secondhand markets remained steady through week six, with sustained interest across tanker and dry bulk sectors reflecting balanced supply-demand conditions. Newbuilding deliveries continued at elevated levels, while selective tonnage continued to find new owners at stable pricing throughout the period.
@@ -17,6 +16,8 @@ Mid-range activity remained brisk, with the MR2 "Seaways Grace" and "Seaways Mad
 
 Newbuilding orders in the tanker sector reflected the broader trend toward replacement-driven delivery schedules. Major orders were placed with Chinese and Korean yards, with delivery windows predominantly 2028-2029. Scrubber-fitted specifications and LNG-ready features appeared standard on larger orders, indicating the industry's continued commitment to environmental and fuel flexibility requirements. The overall activity pattern suggested that fleet growth remains disciplined, with incoming tonnage largely offset by aging vessel retirements rather than adding net capacity.
 
+![Tanker secondhand vessel benchmark values, week 06 2026](/assets/img/benchmarks/2026-w06-sp-benchmarks-tankers.png)
+
 ## Dry Bulk
 
 Capesize activity in the sales and purchase market continued at measured pace. The 180,000 dwt "Irene II" 2006-built committed to Chinese interests at USD 21 million represented solid pricing for the segment, while earlier comparable vessels like the 180,000 dwt "Montecristo" 2005-built had traded at USD 20 million. This pricing alignment suggests consistent valuation across similar tonnage and ages. The 174,000 dwt "Robusto" 2006-built committed at USD 19.5 million on a Q2 2026 delivery basis, with the comparable sister "Pompano" having been placed at USD 17 million in December, showing the impact of delivery timing on valuation.
@@ -27,9 +28,12 @@ Ultramax and supramax vessels saw steady engagement, with the 63,000 dwt "Mitsos
 
 Newbuilding commitments across dry bulk remained focused on replacement-driven schedules through 2028, with Chinese and Korean yards receiving orders predominantly in the 82,000 to 205,000 dwt categories. Delivery dates clustered around 2027-2029, suggesting orderbook maturity in coming years. Activity levels indicate that fleet growth remains constrained by balanced newbuilding discipline and continued reliance on older tonnage for marginal capacity.
 
+![Dry bulk secondhand vessel benchmark values, week 06 2026](/assets/img/benchmarks/2026-w06-sp-benchmarks-dry-bulk.png)
+
 ## Demolition
 
 Demolition activity remained selective during the week, with scrapping decisions continuing to reflect current market valuations and age profiles. While headline data on demolition tonnage was limited, the broader fleet age analysis suggests that demolition rates will depend less on current valuations than on future scrapping momentum through 2026-2028. Replacement ratios in MR2, Aframax and Suezmax segments indicate incoming tonnage broadly matches or exceeds aging 21-year-old cohorts, pointing to a structurally balanced approach to fleet management rather than aggressive retirements.
 
 The limited availability of tonnage suitable for immediate scrapping continues, with most available older vessels still generating adequate employment returns under current freight regimes. Only the oldest conventional units without modern compliance features or extensive renovation records appeared to approach breaking thresholds. Regional demolition capacity in South Asia remains constrained, with limited availability for immediate recycling across primary breaker locations.
 
+![Demolition benchmark rates by destination, week 06 2026](/assets/img/benchmarks/2026-w06-demo-benchmarks.png)
