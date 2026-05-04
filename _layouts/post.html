@@ -58,7 +58,7 @@
 							<a href="/" class="animsition-link">home</a> / <a href="/insights/" class="animsition-link">insights</a> / article
 						</div>
 						<div class="post_title">
-							<h1 class="montserrat-text uppercase">{{ page.title }}</h1>
+							<h1 class="montserrat-text">{{ page.title }}</h1>
 							<span class="post_date">{{ page.date | date: "%d %B %Y" }}</span>
 						</div>
 						{{ content }}
@@ -83,7 +83,7 @@
 							<div class="widget_title">recent posts</div>
 							{% for post in site.posts limit:5 %}
 							<div class="related_post">
-								<a href="{{ post.url }}" class="post_title montserrat-text uppercase">{{ post.title }}</a>
+								<a href="{{ post.url }}" class="post_title montserrat-text">{{ post.title }}</a>
 								<div class="post_date">{{ post.date | date: "%d %B %Y" }}</div>
 							</div>
 							{% endfor %}
