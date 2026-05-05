@@ -4,6 +4,7 @@ title: "Week 05: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 date: 2026-01-30
 description: "Market snapshot for Week 05: secondhand tankers reach triple-digit USD millions on structural trade flows, dry bulk S&P accelerates on strong earnings, demolition values holding firm across South Asian markets."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, sales-purchase]
+image: /assets/img/covers/2026-w05-cover.png
 ---
 
 Secondhand tanker values surged to multi-year highs in Week 05 as geopolitical drivers and extended trade routes locked in earnings momentum, while dry bulk S&P activity exploded to a five-year peak despite already elevated price levels.

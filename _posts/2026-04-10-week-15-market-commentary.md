@@ -4,6 +4,7 @@ title: "Week 15: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 date: 2026-04-10
 description: "A scrubber-fitted Suezmax sold at high $60m in Week 15; MR transactions were numerous, dry bulk values held flat, and demolition firmed in Bangladesh."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, lr1, lr2, mr, kamsarmax, ultramax, supramax, handysize]
+image: /assets/img/covers/2026-w15-cover.png
 ---
 
 A scrubber-fitted Suezmax and a series of MR transactions headlined tanker secondhand activity in Week 15, while dry bulk values held flat across all size classes and demolition prices firmed in Bangladesh ahead of the pre-monsoon season.

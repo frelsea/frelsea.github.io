@@ -4,6 +4,7 @@ title: "Week 03: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 date: 2026-01-16
 description: "Week 3 secondhand and newbuilding markets showed broad activity across tankers and dry bulk. VLCC values firmed sharply on geopolitical shifts in crude distribution. Dry bulk capesize S&P steady despite lower freight rates. Demolition prices stable across India, Bangladesh, and Pakistan."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, vlcc, suezmax, aframax, capesize, kamsarmax]
+image: /assets/img/covers/2026-w03-cover.png
 ---
 
 Tanker sales accelerated in week 3, with major portfolio acquisitions alongside individual vessel transactions, while dry bulk activity broadened across all sizes and newbuilding orders continued at established price levels.

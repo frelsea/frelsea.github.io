@@ -4,6 +4,7 @@ title: "Week 07: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 date: 2026-02-13
 description: "Week 7 secondhand market review: Capesize values reach 18-year highs amid freight strength; VLCCs and Suezmaxes firm; demolition constrained by rising asset values."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report, secondary-market, vessel-values]
+image: /assets/img/covers/2026-w07-cover.png
 ---
 
 The secondhand market in Week 7 reflected strengthening fundamentals across both tanker and dry bulk sectors, with freight momentum driving asset prices to cycle highs and limited modern tonnage availability intensifying competition for eco-efficient vessels.

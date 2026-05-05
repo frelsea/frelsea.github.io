@@ -4,6 +4,7 @@ title: "Week 09: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 date: 2026-02-27
 description: "Week 09 saw VLCC values firm to USD 51–52 million for 2006-built units, broad Kamsarmax and Supramax S&P activity, and stable demolition pricing across South Asian yards."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, capesize, kamsarmax, ultramax]
+image: /assets/img/covers/2026-w09-cover.png
 ---
 
 The shipping markets experienced extraordinary volatility in Week 09, with crude tanker values reaching levels unseen since 2020 and dry bulk activity demonstrating broad strength across all vessel sizes. Geopolitical tensions, structural supply constraints and the migration of restricted tonnage back into mainstream markets created a perfect storm driving both freight rates and asset values to multi-year peaks.

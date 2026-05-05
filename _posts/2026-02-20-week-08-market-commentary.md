@@ -4,6 +4,7 @@ title: "Week 08: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 date: 2026-02-20
 description: "Market overview of secondhand dry bulk and tanker S&P activity, newbuilding momentum, and demolition pricing for the week ending February 20, 2026."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
+image: /assets/img/covers/2026-w08-cover.png
 ---
 
 The secondhand market accelerated through early February, with dry bulk activity outpacing the prior year by a substantial margin, while tanker transactions continued at firm levels supported by steady inquiry and tight vessel availability. Across all segments, buyers demonstrated confidence in forward earnings streams, committing capital to tonnage at elevated valuations and evidence of structural demand for replacement economics.

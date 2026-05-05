@@ -4,6 +4,7 @@ title: "Week 14: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 date: 2026-04-03
 description: "Suezmax and LR1 sales headlined tanker S&P in Week 14; Capesize and Handysize values edged higher as Bangladeshi demolition prices firmed post-Eid."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, lr1, mr, kamsarmax, supramax, handysize]
+image: /assets/img/covers/2026-w14-cover.png
 ---
 
 Suezmax and LR1 sales headlined tanker secondhand activity in Week 14, while Capesize and Handysize dry bulk values edged higher week on week and demolition prices across the Indian Subcontinent firmed as Bangladeshi yards returned from the Eid holiday period.

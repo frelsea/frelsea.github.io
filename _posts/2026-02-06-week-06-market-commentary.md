@@ -4,6 +4,7 @@ title: "Week 06: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 description: "Secondhand markets show steady activity across tanker and bulker segments with VLCC valuations firm and dry bulk transactions spread across multiple tonnage categories."
 date: 2026-02-06
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
+image: /assets/img/covers/2026-w06-cover.png
 ---
 
 The secondhand markets remained steady through week six, with sustained interest across tanker and dry bulk sectors reflecting balanced supply-demand conditions. Newbuilding deliveries continued at elevated levels, while selective tonnage continued to find new owners at stable pricing throughout the period.

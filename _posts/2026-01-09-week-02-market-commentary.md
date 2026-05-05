@@ -4,6 +4,7 @@ title: "Week 02: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 date: 2026-01-09
 description: "Week 02 secondhand market activity in dry bulk and tankers, with sales transactions and price assessments across major vessel sizes and shipyard origins."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, bulk-carriers, capesize, panamax, suezmax, vlcc]
+image: /assets/img/covers/2026-w02-cover.png
 ---
 
 The opening week of 2026 delivered mixed momentum across secondhand markets, with tanker activity dominated by large enbloc deals while dry bulk showed selective transactional activity across multiple size segments. Geopolitical shifts in Venezuela sparked renewed interest in compliant mainstream tonnage, particularly Aframaxes and Suezmaxes positioned for legitimate crude flows.

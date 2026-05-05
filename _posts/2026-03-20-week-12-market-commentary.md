@@ -4,6 +4,7 @@ title: "Week 12: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 date: 2026-03-20
 description: "Weekly market summary of S&P transactions, newbuilding contracting, and demolition activity across dry bulk and tanker segments for Week 12."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report, shipping-market, vessels]
+image: /assets/img/covers/2026-w12-cover.png
 ---
 
 The secondhand vessel market recorded steady transaction flow across both dry bulk and tanker segments in Week 12, with price momentum holding firm in the larger bulker classes and continued demand for modern tanker tonnage from Asian shipowners.
