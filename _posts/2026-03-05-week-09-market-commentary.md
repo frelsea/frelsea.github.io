@@ -2,7 +2,7 @@
 layout: post
 title: "Week 09: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – February 2026"
 description: "Explosive market activity across VLCCs, Suezmaxes and dry bulk with geopolitical factors driving prices to multi-year highs."
-date: 2026-02-27
+date: 2026-03-05
 categories: [market-analysis]
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, shipping-markets]
 image: /assets/img/covers/2026-w09-cover.png

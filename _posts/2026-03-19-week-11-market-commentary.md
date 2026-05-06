@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 11: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – March 2026"
-date: 2026-03-13
+date: 2026-03-19
 description: "Middle East conflict disrupted tanker logistics while dry bulk saw moderate activity. Secondhand values remained stable, newbuilding prices steady, demolition markets firmed."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, week-11, 2026]
 image: /assets/img/covers/2026-w11-cover.png

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 12: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – March 2026"
-date: 2026-03-20
+date: 2026-03-26
 description: "Weekly market summary of S&P transactions, newbuilding contracting, and demolition activity across dry bulk and tanker segments for Week 12."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report, shipping-market, vessels]
 image: /assets/img/covers/2026-w12-cover.png

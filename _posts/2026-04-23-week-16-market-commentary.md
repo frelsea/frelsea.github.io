@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 16: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – April 2026"
-date: 2026-04-17
+date: 2026-04-23
 description: "Two Newcastlemaxes sold en bloc at excess $90m and a VLCC changed hands at ~$59m in Week 16; four LR1 deals closed and demolition firmed in Bangladesh."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, lr1, mr, capesize, kamsarmax, ultramax, supramax, handysize]
 image: /assets/img/covers/2026-w16-cover.png

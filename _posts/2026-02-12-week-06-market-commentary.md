@@ -2,7 +2,7 @@
 layout: post
 title: "Week 06: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – February 2026"
 description: "Secondhand markets show steady activity across tanker and bulker segments with VLCC valuations firm and dry bulk transactions spread across multiple tonnage categories."
-date: 2026-02-06
+date: 2026-02-12
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
 image: /assets/img/covers/2026-w06-cover.png
 ---

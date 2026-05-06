@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 10: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – March 2026"
-date: 2026-03-06
+date: 2026-03-12
 description: "Active tanker and dry bulk S&P in Week 10, with Suezmax values reaching USD 65 million and broad Kamsarmax and Handysize trading across all buyer segments."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, vlcc, suezmax, aframax, capesize, kamsarmax, ultramax, supramax, handysize]
 image: /assets/img/covers/2026-w10-cover.png

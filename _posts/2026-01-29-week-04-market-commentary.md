@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 04: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – January 2026"
-date: 2026-01-23
+date: 2026-01-29
 description: "Week 04 secondhand and newbuilding markets for tankers and dry bulk showed moderate activity with Newcastlemax and Capesize sales near USD 74 million and USD 31-35 million respectively, while demolition demand supported older tonnage in Pakistan and India."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, market-report]
 image: /assets/img/covers/2026-w04-cover.png

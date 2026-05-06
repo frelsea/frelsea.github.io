@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 01: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – January 2026"
-date: 2026-01-02
+date: 2026-01-08
 description: "Second-hand valuations held steady week one as traders evaluated geopolitical risks. A VLCC pair sold at $101.6M en bloc, while Capesize and VLGC units transacted across the curve. Demolition activity picked up with multiple vessels scrapped."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
 image: /assets/img/covers/2026-w01-cover.png

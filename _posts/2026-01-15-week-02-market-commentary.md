@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 02: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – January 2026"
-date: 2026-01-09
+date: 2026-01-15
 description: "Week 02 secondhand market activity in dry bulk and tankers, with sales transactions and price assessments across major vessel sizes and shipyard origins."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, bulk-carriers, capesize, panamax, suezmax, vlcc]
 image: /assets/img/covers/2026-w02-cover.png
