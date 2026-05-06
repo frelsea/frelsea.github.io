@@ -29,4 +29,10 @@ Notable Capesize transactions included Cape Brazil, a 177,897 DWT unit built in 
 
 No demolition transactions were reported during this reporting week.
 
+---
+
+**Market Snapshot**
+
+The secondhand market continues to process increased offer flow while prices remain elevated by historical standards. The breadth of participation across vessel sizes suggests an underlying confidence in operational cash flows, offsetting financing costs and moderating ordering appetite for newbuilding tonnage. Tight tonnage lists and period strength in core freight routes are expected to support ongoing secondhand activity in coming weeks.
+
 ![Demolition benchmark rates by destination, week 08 2026](/assets/img/benchmarks/2026-w08-demo-benchmarks.png)

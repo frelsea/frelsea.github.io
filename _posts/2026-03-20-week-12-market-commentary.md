@@ -15,6 +15,8 @@ Tanker secondhand sales remained active with quality tonnage attracting strong b
 
 Newbuilding tanker order flow reflected continued investment in larger units. VLCC newbuilding prices held at approximately USD 129.2 million per unit, with Suezmax yards quoting around USD 87.7 million and Aframax vessels at USD 75.7 million. MR2 and smaller product tankers remained competitive at USD 49.7 million, supporting volume in the product tanker orderbook.
 
+Demolition markets recorded notable tanker activity with pricing firm across recycling destinations. India quoted USD 410 per ldt, Bangladesh at USD 430–445 per ldt (the higher end reflecting recent transactions including Wantong Summer at USD 433 per ldt), Pakistan at USD 415 per ldt, and Turkey at USD 280 per ldt. The Energia Centaurus, a larger tanker-related vessel, transacted at USD 418 per ldt to Bangladesh, indicating steady demand for larger tonnage recycling.
+
 ![Tanker secondhand vessel benchmark values, week 12 2026](/assets/img/benchmarks/2026-w12-sp-benchmarks-tankers.png)
 
 ## Dry Bulk
@@ -23,10 +25,8 @@ Dry bulk secondhand sales showed robust pricing across size categories, with Cap
 
 Newbuilding dry bulk prices remained supportive for yards. Capesize units quoted approximately USD 75 million, with Kamsarmax at USD 36.5 million, Ultramax at USD 34.2 million, and Handysize at USD 29.5 million. These levels maintained competitiveness and sustained newbuilding demand despite second-hand values.
 
+Demolition pricing for dry bulk vessels held steady. India recycling yards quoted USD 390 per ldt for bulkers, Bangladesh at USD 410 per ldt, Pakistan at USD 405 per ldt, and Turkey at USD 270 per ldt. Significant recycling activity included Ocean Amazing at USD 310 per ldt to Bangladesh, indicating seasonal demand fluctuations by destination. Container tonnage, including Kokopo Chief, transacted at USD 465 per ldt to India, showing strong competition for scrap-grade vessels across all yards.
+
 ![Dry bulk secondhand vessel benchmark values, week 12 2026](/assets/img/benchmarks/2026-w12-sp-benchmarks-dry-bulk.png)
-
-## Demolition
-
-Demolition pricing held steady across all South Asian markets in Week 12. India quoted USD 390 per ldt for bulkers and USD 410 per ldt for tankers. Bangladesh held at USD 410 per ldt for bulkers and USD 430–445 per ldt for tankers. Pakistan was assessed at USD 405 per ldt for bulkers and USD 415 per ldt for tankers. Turkey remained substantially lower at USD 270–280 per ldt across both asset classes. Reported activity included the bulk carrier Ocean Amazing sold to Bangladeshi breakers at USD 310 per ldt, and the tanker Wantong Summer achieving USD 433 per ldt to Bangladesh. Vessel availability was constrained across all markets as owners of commercially active tonnage showed limited appetite for recycling at current secondhand price levels.
 
 ![Demolition benchmark rates by destination, week 12 2026](/assets/img/benchmarks/2026-w12-demo-benchmarks.png)
