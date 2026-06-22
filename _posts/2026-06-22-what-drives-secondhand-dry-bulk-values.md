@@ -5,6 +5,22 @@ date: 2026-06-22
 description: "Second-hand bulker prices are anchored to newbuilding cost, tilted by earnings, pressed at the margin by financing, and knocked off course by shocks that fade. How those forces rank, and what the premium over newbuilding tells you about timing a purchase."
 tags: [dry-bulk, s-and-p, newbuilding]
 image: /assets/img/covers/insight-ship-values-cover.png
+key_points:
+  - "Newbuilding (replacement) cost is the long-run anchor for second-hand values, which track it closely over a full cycle at a discount that reflects age."
+  - "Time-charter earnings set the short-run premium over newbuilding, and older ships are more earnings-sensitive than younger ones."
+  - "Higher financing costs compress the premium, but the effect is secondary to earnings and replacement cost."
+  - "Shocks push values away from fundamentals temporarily, then mean-revert, faster since around 2018; scrap value floors old tonnage."
+faq:
+  - q: "What is the biggest driver of second-hand dry bulk ship values?"
+    a: "Over a full cycle the newbuilding price, the cost of ordering an equivalent ship, is the anchor. Second-hand values track replacement cost closely, trading at a discount that reflects the ship's age and remaining life."
+  - q: "How do freight rates affect second-hand ship prices?"
+    a: "Higher time-charter earnings raise what buyers will pay for prompt tonnage rather than wait for a newbuilding slot, which widens the premium of second-hand prices over newbuilding. The effect runs with a lag of about a month and is stronger for older ships."
+  - q: "Why are older ships more volatile in price?"
+    a: "More of an older ship's value sits in the next few years of cash flow rather than the decades ahead, so its price is more sensitive to current earnings and less tied to the newbuilding anchor. Scrap value sets a floor as the ship nears the end of its life."
+  - q: "Do interest rates affect ship values?"
+    a: "Yes, but at the margin. Higher rates raise the cost of carrying a ship and compress the second-hand premium over newbuilding, since a second-hand ship is paid for now while a newbuilding is paid in instalments. The effect is smaller than earnings or replacement cost."
+  - q: "How long do market shocks affect ship prices?"
+    a: "Shocks such as the 2008 financial crisis, COVID or the Red Sea rerouting push values away from fundamentals, but the deviations fade. Since around 2018 they have corrected faster, in months rather than years, helped by better price transparency."
 ---
 
 Anyone who has bought or sold tonnage knows the price of a ten-year-old bulker is not a single number. It moves with the newbuilding market, with freight, with the cost of money, and with whatever shock happens to be in the headlines that quarter. What is less obvious is how these forces rank, and how long each one lasts. Sorting that out is the difference between paying a fair price and paying the top of a cycle.

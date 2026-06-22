@@ -1,7 +1,13 @@
 title: Frelsea
-description: "Maritime advisory — acquisition, technical management, fleet strategy."
+description: "Maritime advisory for shipowners: vessel acquisition, technical management and fleet strategy."
 url: "https://frelsea.com"
 baseurl: ""
+lang: en
+
+# Branding / publisher details used in structured data
+author: Frelsea
+logo: /assets/img/logo.png
+twitter: frelseamaritime
 
 # Blog post URLs: /insights/post-title/
 permalink: /insights/:title/
