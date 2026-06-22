@@ -69,22 +69,6 @@
 	  ]
 	}
 	</script>
-	{% if page.faq %}
-	<!-- STRUCTURED DATA: FAQPage -->
-	<script type="application/ld+json">
-	{
-	  "@context": "https://schema.org",
-	  "@type": "FAQPage",
-	  "mainEntity": [
-	  {% for item in page.faq %}{
-	    "@type": "Question",
-	    "name": {{ item.q | jsonify }},
-	    "acceptedAnswer": { "@type": "Answer", "text": {{ item.a | jsonify }} }
-	  }{% unless forloop.last %},{% endunless %}
-	  {% endfor %}]
-	}
-	</script>
-	{% endif %}
 
 	<!-- STYLES -->
 	<link rel="stylesheet" href="/assets/css/bootstrap.min.css">
@@ -151,15 +135,6 @@
 						</div>
 						{% endif %}
 						{{ content }}
-						{% if page.faq %}
-						<div class="post_faq" style="margin-top:44px;">
-							<h2 class="montserrat-text">Frequently asked questions</h2>
-							{% for item in page.faq %}
-							<h3 class="montserrat-text" style="margin-top:24px;font-size:18px;">{{ item.q }}</h3>
-							<p>{{ item.a }}</p>
-							{% endfor %}
-						</div>
-						{% endif %}
 					</div>
 
 					<div class="pages_pagination">

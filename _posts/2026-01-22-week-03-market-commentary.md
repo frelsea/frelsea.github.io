@@ -11,15 +11,6 @@ key_points:
   - "Dry bulk covered all classes, with the 2012-built Capesize Mineral Honshu at USD 37.7 million and the 2021-built Nord Palladium at USD 76.25 million setting modern levels."
   - "Demolition held steady across South Asia on sparse sales; the 1992-built bulker Dimple made USD 388 per ldt in India, with Turkish yards at a USD 270 discount."
   - "Newbuilding orders included three 300,000 dwt VLCCs from Hanwha Ocean for Omani owners at USD 129.5 million each, plus two 210,000 dwt bulkers from Qingdao Beihai at USD 75 million each."
-faq:
-  - q: "What were the main tanker sales in week 03 of 2026?"
-    a: "VLCC deals dominated. Trafigura took three modern VLCCs en bloc, paying USD 130 million for the 2022-built Spherical and USD 250 million combined for the 2021-built Hunter and Serendipity, while a block of Front-series VLCCs went to Korean owners for USD 831.5 million."
-  - q: "How did the dry bulk secondhand market move in week 03 of 2026?"
-    a: "Activity broadened across all sizes. The 2012-built Capesize Mineral Honshu sold for USD 37.7 million and the 2021-built Nord Palladium for USD 76.25 million, while Kamsarmax, Ultramax, Supramax and Handysize all saw steady turnover."
-  - q: "What were ship recycling prices in week 03 of 2026?"
-    a: "Prices were stable across South Asian yards with limited activity. India quoted USD 390 per ldt for bulkers and USD 405 for tankers, Bangladesh and Pakistan were similar, and Turkey sat at a discount of USD 270 per ldt. The bulker Dimple achieved USD 388 per ldt in India."
-  - q: "What newbuilding orders were placed in week 03 of 2026?"
-    a: "Tanker orders included three 300,000 dwt VLCCs from Hanwha Ocean for Omani interests at USD 129.5 million per unit and two 157,000 dwt LR2s from DH Shipbuilding for Greek buyers at USD 85 to USD 86 million each. Dry bulk orders included two 210,000 dwt units from Qingdao Beihai at USD 75 million per unit."
 ---
 
 Tanker sales accelerated in week 3, with major portfolio acquisitions alongside individual vessel transactions, while dry bulk activity broadened across all sizes and newbuilding orders continued at established price levels.

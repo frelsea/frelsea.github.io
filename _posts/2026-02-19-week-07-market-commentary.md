@@ -11,15 +11,6 @@ key_points:
   - "Suezmaxes firmed as 2022-built sisters 'Emeraldway' and 'Sunriseway' sold to Greek interests at USD 88 million each."
   - "Aframax sisters 'FS Diligence' and 'FS Endeavor' traded to Greek buyers at USD 86 million each."
   - "Demolition stayed constrained as owners deferred scrapping: Indian bulk scrap at USD 410 to 430 per ldt, tanker scrap near USD 450, Turkey at USD 280 to 300."
-faq:
-  - q: "What were the main tanker sales in week 07 of 2026?"
-    a: "Sinokor acquired the VLCC sisters 'Ilma' and 'Ingrid' at USD 89 million each and the 'Eagle Varna' at USD 86.5 million. Greek buyers took the Suezmax sisters 'Emeraldway' and 'Sunriseway' at USD 88 million each and the Aframax sisters 'FS Diligence' and 'FS Endeavor' at USD 86 million each."
-  - q: "How did the dry bulk secondhand market move in week 07 of 2026?"
-    a: "Capesize values reached their strongest level since September 2008, with 15-year-old units implied at high USD 34 million, a 19% premium to 2024 averages. The 'Star Scarlett' sold at USD 36 million and the 'Michalis H' at USD 35.2 million with a timecharter attached at USD 27,250 per day through Q4 2026."
-  - q: "What were ship recycling prices in week 07 of 2026?"
-    a: "Indian bulk carrier scrap held at roughly USD 410-430 per ldt, Bangladesh at USD 420-430 and Pakistan at USD 430-440, with Turkey near USD 280-300. Indian tanker scrap was quoted near USD 450 per ldt."
-  - q: "What was the main market driver in week 07 of 2026?"
-    a: "Limited availability of prompt modern eco-tonnage was the critical driver, with buyers competing aggressively for fuel-efficient units and owners reluctant to sell amid improving earnings and strong freight momentum."
 ---
 
 The secondhand market in Week 7 reflected strengthening fundamentals across both tanker and dry bulk sectors, with freight momentum driving asset prices to cycle highs and limited modern tonnage availability intensifying competition for eco-efficient vessels.

@@ -11,15 +11,6 @@ key_points:
   - "Dry bulk appetite ran strong, the Baltic Dry Index up 5.81% to 3,151; Norden took four 2024-built JNS Handymax resales en bloc at USD 121 million."
   - "Kamsarmax was busy, the 2026-built resale Moana at USD 36.5 million; Ultramax sisters Huayang Rose and Huayang Lily went en bloc at USD 50.4 million."
   - "Indian demolition was quiet, the rupee at a record low near 96 holding bulkers around USD 415 per ldt; the EU's 20th sanctions package curbed tanker resales to third countries."
-faq:
-  - q: "What were the main tanker sales in week 20 of 2026?"
-    a: "VLCCs C. Innovator and C. Progress sold en bloc at USD 120.6 million including charters, and a 2026-built resale VLCC went to Trafigura at USD 163 million. Two Daehan Suezmax resales sold en bloc at USD 190 million to Teekay, the LR2 STI Condotti went in excess of USD 70 million, and TORM took the Horizon Andros and Horizon Syros MR pair en bloc at USD 102 million."
-  - q: "How did the dry bulk secondhand market move in week 20 of 2026?"
-    a: "The Baltic Dry Index rose 5.81% on the week to 3,151 points and S&P appetite was strong across Kamsarmax, Ultramax, Supramax and Handysize. Norden bought four 2024-built JNS Handymax resales en bloc at USD 121 million, the Kamsarmax resale Moana sold at USD 36.5 million, and Huayang Rose and Huayang Lily went en bloc at USD 50.4 million."
-  - q: "What were ship recycling prices in week 20 of 2026?"
-    a: "Indian subcontinent activity was limited. India narrowed bulker levels to around USD 415 per ldt as the rupee hit a historic low, Bangladesh held around USD 460 for bulkers and USD 470 to 480 for tankers, Pakistan quoted USD 440 for tankers and USD 460 for bulkers, and Turkey sat near USD 280 to 310 per ldt."
-  - q: "How did sanctions affect the tanker market in week 20 of 2026?"
-    a: "The EU's 20th sanctions package introduced new restrictions on tanker sales to third countries, requiring contractual clauses prohibiting resale to Russia and pass-through obligations on subsequent buyers, which narrowed the pool of compliant buyers for older EU-flagged tonnage."
 ---
 
 S&P activity ran heavy across both wet and dry markets, with modern resale tonnage finding ready buyers and Norden absorbing four 2024-built JNS Handymax resales en bloc.

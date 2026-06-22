@@ -11,15 +11,6 @@ key_points:
   - "Dry bulk spread evenly across sizes: two modern mini Capesize sisters to Omani interests at USD 37.9 million each, and a 2015 Kamsarmax to Greeks at USD 26 million."
   - "Recycling stayed quiet as the monsoon set in, India subdued and Turkey uncompetitive, while Pakistan bought aggressively on a tonnage shortage."
   - "The Strait of Hormuz reopened after the Iran-US agreement, ending a closure since late February and raising the prospect of locked-in tonnage reaching recyclers."
-faq:
-  - q: "What were the main tanker sales in week 24 of 2026?"
-    a: "The standout was an en bloc sale of two 2023-built Suezmax sisters of around 157,000 dwt at 110 million dollars each. A 2009-built coated Aframax sold at 53.5 million dollars, a modern scrubber-fitted LR2 resale at 90 million dollars, and a 2015-built MR2 went to Greek buyers at 39.2 million dollars."
-  - q: "How did the dry bulk secondhand market move in week 24 of 2026?"
-    a: "Sales were spread evenly across the size range. Two modern mini Capesize sisters went to Omani interests at 37.9 million dollars each, a 2015-built Kamsarmax sold to Greek buyers at 26 million dollars with a period charter, and handysize was the most active part by deal count."
-  - q: "What were ship recycling conditions in week 24 of 2026?"
-    a: "The market was quiet with the monsoon setting in. India stayed subdued on limited tonnage and softer steel sentiment, Bangladesh cleared earlier deliveries ahead of budget changes, Pakistan bought aggressively on a tonnage shortage and stable rupee, and Turkey remained uncompetitive."
-  - q: "What was the main geopolitical development in week 24 of 2026?"
-    a: "The Strait of Hormuz reopened to shipping following the Iran-US agreement, ending a closure that had run since late February. It raises the prospect that sanctioned and ageing tonnage previously locked in the Gulf could be released for recycling, though the timing and volume remain uncertain."
 ---
 
 Secondhand activity stayed firm across tankers and dry bulk this week, while a busy newbuilding slate and a quiet pre-monsoon recycling market framed the rest of the picture.

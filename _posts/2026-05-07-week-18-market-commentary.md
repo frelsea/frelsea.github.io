@@ -11,15 +11,6 @@ key_points:
   - "Dry bulk stayed soft, with Capesize, Kamsarmax and Supramax at discounts; Bulk Joyance fetched USD 33 million and Elway USD 16.2 million, while Ultramax and Handysize held firmer."
   - "Demolition was steady but uneven, Bangladesh quoting tankers as high as USD 480 to 490 per ldt against weak steel demand, Turkey down at USD 270 to 280 per ldt."
   - "Two Stolt stainless-steel chemical tankers recycled in India at premium levels: Stolt Cedar at USD 912 per ldt, Stolt Sea at USD 853 per ldt."
-faq:
-  - q: "What were the main tanker sales in week 18 of 2026?"
-    a: "The headline deal was Frontline's Suezmax pair Front Ull and Front Idun at USD 140 million combined to Silk Searoad Maritime. Three Scorpio LR2 tankers sold at USD 65 million each, two Aframaxes from Tsuneishi sold at USD 77 million and USD 74.5 million, and two 2012-built VLCCs went at USD 60.3 million each, about 25% below benchmark."
-  - q: "How did the dry bulk secondhand market move in week 18 of 2026?"
-    a: "Capesize, Kamsarmax and Supramax pricing showed discounts to assessed values, with deals such as Bulk Joyance at USD 33 million and Elway at USD 16.2 million. Ultramax was firmer at benchmark, and Handysize held up, with Brave Star selling at USD 28.5 million on a bareboat hire purchase basis, about 9% above benchmark."
-  - q: "What were ship recycling prices in week 18 of 2026?"
-    a: "Markets held steady. India quoted USD 400 to 420 per ldt for bulkers and USD 420 to 430 for tankers, Bangladesh reached USD 480 to 490 per ldt for tankers, Pakistan held USD 420 to 460, and Turkey sat at USD 270 to 280. Two Stolt stainless-steel chemical tankers achieved USD 912 and USD 853 per ldt in India."
-  - q: "What newbuilding orders were placed in week 18 of 2026?"
-    a: "Mercuria contracted two 307,000 DWT VLCCs at Dalian at USD 123 million each and four Kamsarmax vessels at Jiangsu Rongsheng at USD 37 million each. Yangzijiang Maritime ordered four LR2 tankers at USD 75 million each plus four methanol dual-fuel MR tankers at USD 46 million each, and two Newcastlemaxes were booked at USD 80.5 million each."
 ---
 
 Multiple fleet disposals drove elevated tanker transaction volumes in week 18, with LR2 and Aframax tonnage trading above benchmark, while dry bulk secondhand pricing remained under pressure across most size classes.

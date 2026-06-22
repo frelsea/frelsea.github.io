@@ -11,15 +11,6 @@ key_points:
   - "Dry S&P ran broad, with two Capesizes at high USD 23 million and excess USD 32 million. Handysize was busiest, including a 2018-built JNS unit at USD 22 million."
   - "Demolition held stable, bulkers at USD 390-410 per LDT across the subcontinent, tankers up to USD 430-435 in Bangladesh, Turkey near USD 270-280."
   - "Newbuildings featured Performance Shipping's two 158,000 dwt Suezmaxes at USD 81.5 million each and Union Maritime's Capesizes at USD 75.5 million each."
-faq:
-  - q: "What were the main tanker sales in week 10 of 2026?"
-    a: "Suezmax led, with a 2013-built Samsung at USD 63 million and a 2013-built Sumitomo at USD 65 million to Greek interests. A 2018-built Aframax reached USD 71 million, and VLCCs sold at USD 38 million and USD 51.5 million."
-  - q: "How active was the dry bulk secondhand market in week 10 of 2026?"
-    a: "Trading was broad-based with buyers from China, Greece, India and Turkey. Capesizes committed at high USD 23 million and excess USD 32 million, a 2020-built Kamsarmax at about USD 32 million, and Handysize was the busiest segment."
-  - q: "What were ship recycling prices in week 10 of 2026?"
-    a: "Pricing was stable. Bulkers were USD 390-395 per LDT in India, USD 400-410 in Bangladesh and USD 405-410 in Pakistan, with Turkey at USD 270. Tankers commanded a premium, reaching USD 430-435 in Bangladesh."
-  - q: "What newbuilding orders were placed in week 10 of 2026?"
-    a: "Performance Shipping ordered two 158,000 dwt Suezmaxes at USD 81.5 million each, at SWS and CSTC with scrubbers. Union Maritime placed an order for two plus two 215,000 dwt Capesizes at Wuhu at USD 75.5 million each for 2028 delivery."
 ---
 
 Tanker secondhand values moved sharply higher in Week 10 as buyer demand across all wet segments intensified, while dry bulk transaction volumes remained substantial across every size category and demolition pricing held steady in South Asian yards.

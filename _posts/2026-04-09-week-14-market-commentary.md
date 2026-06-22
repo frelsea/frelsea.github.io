@@ -11,15 +11,6 @@ key_points:
   - "Capesize and Handysize values edged up, the five-year Capesize to $70 million from $68 million and the Handysize to $29 million from $27.5 million."
   - "Bangladeshi yards reopened after Eid, lifting tanker scrap to $445-460 per ldt; the 1996-built bulker 'Ocean Rosemary' fetched $470 there."
   - "Pakistan firmed into the second most competitive recycling market on tighter scrap supply, while a weak lira left Turkey subdued."
-faq:
-  - q: "What were the main tanker sales in week 14 of 2026?"
-    a: "Suezmax and LR1 sales led the week. The 'Seacross' sold at $43.5 million, the 'Cap Felix' and 'Sienna' went en bloc at $95 million combined, and three LR1s sold between $14 million and $20 million. The Aframax 'Talurex' was paired with the LR2 'Solvante' en bloc at $105 million."
-  - q: "How did the dry bulk secondhand market move in week 14 of 2026?"
-    a: "Capesize and Handysize values rose week on week while Kamsarmax and Ultramax held. Two 2023-built wide-beam Post-Panamaxes each sold at $36 million, three Kamsarmaxes traded between low $17 million and around $19 million, and the Handysize segment was active from high $9 million to $21.3 million."
-  - q: "What were ship recycling prices in week 14 of 2026?"
-    a: "Prices firmed with Bangladesh leading. Dry bulk was quoted around $420-450 per ldt in Bangladesh, $380-420 in India and $405-430 in Pakistan, while tankers in Bangladesh ran about $445-460 per ldt."
-  - q: "Why did Pakistan's recycling market firm in week 14 of 2026?"
-    a: "Pakistan firmed on tighter domestic scrap supply after a suspension of imports from the Middle East, re-establishing itself as the sub-continent's second most competitive market. Vessel availability stayed limited across all destinations."
 ---
 
 Suezmax and LR1 sales headlined tanker secondhand activity in Week 14, while Capesize and Handysize dry bulk values edged higher week on week and demolition prices across the Indian Subcontinent firmed as Bangladeshi yards returned from the Eid holiday period.

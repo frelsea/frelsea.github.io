@@ -11,15 +11,6 @@ key_points:
   - "Norden bought four 40,547 dwt Handysize newbuilds en bloc at USD 122 million, USD 30.5 million per vessel, with heavy Kamsarmax and Ultramax turnover."
   - "Subcontinent recycling held steady before the monsoon: India USD 415-460/LDT, Bangladesh USD 410-474/LDT, Pakistan USD 425-455/LDT for dry tonnage."
   - "Newbuilding ran heavy, led by United Overseas Group ordering six firm plus four optional 319,000 dwt VLCCs at Wison New Energies at USD 125 million each."
-faq:
-  - q: "What were the main tanker sales in week 21 of 2026?"
-    a: "Four CS-series 50,000 dwt MR2 resales sold en bloc to Greek interests at USD 198 million with charters attached. STI Condotti, a 2014 LR2, sold by Scorpio Tankers in excess of USD 70 million. The Las Palmas VLCC resale went to Trafigura at USD 163 million, and Teekay took two Suezmax resales at USD 95 million each."
-  - q: "How did the dry bulk secondhand market move in week 21 of 2026?"
-    a: "Norden bought four 40,547 dwt Handysize newbuilds en bloc at USD 122 million, or USD 30.5 million each. Kamsarmax turnover was heavy, with Joy at USD 31 million and Nord Polaris at USD 28.25 million, and two Sainty Ultramax sisters sold via online bidding at USD 49.66 million en bloc."
-  - q: "What were ship recycling prices in week 21 of 2026?"
-    a: "Subcontinent markets held steady ahead of the monsoon. India sat at USD 415-460/LDT for dry tonnage, Bangladesh at USD 410-474/LDT and Pakistan at USD 425-455/LDT, with tanker prices running USD 415-488/LDT across the three. Turkey stayed restricted at USD 275-305/LDT."
-  - q: "What was the main newbuilding driver in week 21 of 2026?"
-    a: "Tanker ordering ran heavy. United Overseas Group placed six firm plus four optional 319,000 dwt VLCCs at Wison New Energies at USD 125 million each, and Navios MLP ordered four firm plus four optional 319,000 dwt VLCCs at Wuhu Nantong at USD 120.5 million each."
 ---
 
 Week 21 produced one of the busier S&P slates of the year: forty named sales across dry bulk and tanker, four Handysize newbuilds en bloc to Norden, a Suezmax resale pair to Teekay, and a quartet of CS-series MR resales sold en bloc with charters attached.

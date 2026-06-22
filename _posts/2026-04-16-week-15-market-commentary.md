@@ -11,15 +11,6 @@ key_points:
   - "Dry bulk values held flat and activity sat in the smaller sizes, with no Capesize sales and the Ultramax 'ASL Ixora' at $19.6 million."
   - "Demolition firmed across the subcontinent, Bangladesh strongest at around $440 per ldt for dry bulk and near $465 for tankers."
   - "Recycling sales included a roughly 31,340 ldt LNG carrier at about $513 per ldt as-is at Linggi, and the 1998-built Panamax 'Andhika Kanishka' at $461 in Indonesia."
-faq:
-  - q: "What were the main tanker sales in week 15 of 2026?"
-    a: "The scrubber-fitted Suezmax 'Stena Surprise' sold at high $60 million and the LR2 'P. Aliki' went to Trafigura at $42.65 million. MR sales ranged widely, from the 2019-built 'Pro Onyx' at $39 million down to the older ice-class 'East Coast' at mid to high $11 million."
-  - q: "How did the dry bulk secondhand market move in week 15 of 2026?"
-    a: "Values held flat week on week and activity centred on smaller vessels with no Capesize transactions. Deals included the Ultramax 'ASL Ixora' at $19.6 million, four Supramaxes from $13 million to high $15 million, and the Handysize 'Nanaimo Bay' at excess $19 million."
-  - q: "What were ship recycling prices in week 15 of 2026?"
-    a: "Prices firmed with Bangladesh strongest. Dry bulk was quoted around $390 per ldt in India, $440 in Bangladesh, $435 in Pakistan and $270 in Turkey, while tankers ran marginally higher, reaching about $465 per ldt in Bangladesh."
-  - q: "What newbuilding orders were placed in week 15 of 2026?"
-    a: "Tanker ordering was concentrated in VLCCs, including AET's four plus two 320,000 dwt VLCCs at Hengli at $138 million each. In dry bulk, Shandong Shipping contracted ten 325,000 dwt vessels at Qingdao Beihai at $130 million each, on time charter to Vale."
 ---
 
 A scrubber-fitted Suezmax and a series of MR transactions headlined tanker secondhand activity in Week 15, while dry bulk values held flat across all size classes and demolition prices firmed in Bangladesh ahead of the pre-monsoon season.

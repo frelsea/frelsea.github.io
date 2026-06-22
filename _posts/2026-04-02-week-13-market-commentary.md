@@ -11,15 +11,6 @@ key_points:
   - "Demolition held firm with Bangladesh leading, tanker scrap near $430-445 per ldt and dry bulk around $410-420."
   - "Limited tonnage reached the beaches as strong tanker earnings and firm dry bulk sentiment kept owners trading."
   - "Tanker ordering ran heavy, including three 320,000 dwt VLCCs at Hanwha Ocean for Greek account at $129 million each, 2029 delivery."
-faq:
-  - q: "What were the main tanker sales in week 13 of 2026?"
-    a: "Sinokor acquired four Suezmaxes at $82 million per unit, two of them scrubber fitted, and the scrubber-fitted VLCC 'Kondor' at $78.4 million. MR deals included a 2012-built MR2 at $27.6 million and two older MR1s at $9 million and $10 million."
-  - q: "How did the dry bulk secondhand market move in week 13 of 2026?"
-    a: "Activity was steady across size classes and values held flat week on week. Sales included the Capesize 'Frontier Garland' at $36.6 million, the Kamsarmax 'Talimen' at $25.6 million, the Ultramax 'Jin Rui' at $24 million, and four Supramaxes between $13 million and $16.3 million."
-  - q: "What were ship recycling prices in week 13 of 2026?"
-    a: "Indian Subcontinent prices held firm with Bangladesh leading. Dry bulk was quoted around $380-390 per ldt in India, $410-420 in Bangladesh and $405-410 in Pakistan, while tankers ran marginally higher, with Bangladesh at roughly $430-445 per ldt."
-  - q: "What drove the demolition market in week 13 of 2026?"
-    a: "Bangladesh strengthened on an improving domestic political backdrop after the Eid holiday. Limited tonnage came forward because high tanker earnings and positive dry bulk sentiment discouraged owners from recycling."
 ---
 
 Sinokor's bloc purchase of four Suezmaxes at $82 million each and a scrubber-fitted VLCC at $78.4 million headlined a busy week for tanker secondhand activity, while dry bulk transacted steadily across multiple size classes and Indian Subcontinent demolition prices held firm.

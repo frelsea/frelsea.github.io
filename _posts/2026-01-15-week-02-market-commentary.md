@@ -11,15 +11,6 @@ key_points:
   - "Dry bulk ran across all sizes, with the 2021-built Capesize NORD PALLADIUM at USD 76.25 million and the 2022-built Ultramax STARRY NIGHT at USD 32.5 million leading modern sales."
   - "Demolition stayed thin, with the 2012-built SEPETIBA BAY (35,036 dwt) sold for breaking at USD 11 million and little else reaching the yards."
   - "Reoriented Venezuelan crude flows pulled demand toward compliant Aframaxes and Suezmaxes, absorbing demolition candidates into the secondhand market."
-faq:
-  - q: "What were the main tanker sales in week 02 of 2026?"
-    a: "The VLCC segment dominated, led by eight South Korean VLCCs sold en bloc for USD 831.5 million, averaging USD 104 million each. Sinokor was an active buyer across several modern units, and a CMB.Tech portfolio of six VLCCs changed hands for USD 261.1 million."
-  - q: "How did the dry bulk secondhand market move in week 02 of 2026?"
-    a: "Activity ranged across all sizes. Capesize was led by the 2021-built NORD PALLADIUM at USD 76.25 million, Kamsarmax was active with BW MATSUYAMA at USD 31 million, and Ultramax saw the modern STARRY NIGHT trade at USD 32.5 million."
-  - q: "What were ship recycling prices in week 02 of 2026?"
-    a: "Demolition was subdued with limited reportage. The 2012-built SEPETIBA BAY was reported sold for breaking at USD 11 million, and most aging tonnage found alternative employment rather than immediate scrapping."
-  - q: "What drove the market in week 02 of 2026?"
-    a: "Geopolitical shifts around Venezuelan crude flows spurred interest in compliant mainstream tonnage, particularly Aframaxes and Suezmaxes, which pulled candidate vessels away from the demolition market."
 ---
 
 The opening week of 2026 delivered mixed momentum across secondhand markets, with tanker activity dominated by large enbloc deals while dry bulk showed selective transactional activity across multiple size segments. Geopolitical shifts in Venezuela sparked renewed interest in compliant mainstream tonnage, particularly Aframaxes and Suezmaxes positioned for legitimate crude flows.

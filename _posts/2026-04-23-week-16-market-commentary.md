@@ -11,15 +11,6 @@ key_points:
   - "Dry bulk values held flat, with the 2019-built Capesize 'Lowlands Spirit' at $65.5 million and two New Dayang Ultramax resales at $36.5 million each."
   - "Demolition firmed further, Bangladesh approaching $500 per ldt for larger tonnage and three Norwegian stainless-steel product tankers to India at $853 to $965 per ldt."
   - "No new dry bulk newbuilding orders surfaced, while tanker ordering concentrated in VLCCs and Aframaxes."
-faq:
-  - q: "What were the main tanker sales in week 16 of 2026?"
-    a: "The VLCC 'Kasagisan' sold to Chinese buyers at around $59 million and the scrubber-fitted Suezmax 'Stena Surprise' was confirmed to Greek interests at about $61 million. Four LR1s changed hands between $15.5 million and roughly $22 million."
-  - q: "How did the dry bulk secondhand market move in week 16 of 2026?"
-    a: "Values held flat week on week. The Newcastlemax pair 'RTM Cartier' and 'RTM Zheng He' sold en bloc at excess $90 million each, the Capesize 'Lowlands Spirit' went at $65.5 million, and two New Dayang Ultramax resales sold at $36.5 million apiece."
-  - q: "What were ship recycling prices in week 16 of 2026?"
-    a: "Prices firmed further with Bangladesh strongest. Dry bulk was quoted around $400 per ldt in India, $435 in Bangladesh and $445 in Pakistan, while tankers ran higher, approaching $500 per ldt for larger tonnage in Bangladesh."
-  - q: "What drove the demolition market in week 16 of 2026?"
-    a: "Recyclers built inventory ahead of the June monsoon season and a persistent shortage of available tonnage underpinned values. Reported sales included the gas carrier 'Hongkong Energy' at $510 per ldt and three Norwegian stainless-steel product tankers to India at $853 to $965 per ldt."
 ---
 
 Two Newcastlemax bulk carriers sold en bloc at excess $90 million each in Week 16, while tanker secondhand activity was led by a VLCC sale at approximately $59 million and four LR1 transactions, and Indian Subcontinent demolition prices firmed further with Bangladesh approaching $500 per ldt ahead of the monsoon season.

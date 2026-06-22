@@ -11,15 +11,6 @@ key_points:
   - "Handysize led the dry market, with two 2017-built open-hatch boxshapes at USD 22 million each, while a 2024-built Kamsarmax resale fetched USD 42.7 million."
   - "Recycling traded firm but starved of tonnage after Eid and into the monsoon, Bangladesh and Pakistan firmest with India close on a recovering rupee."
   - "Tanker newbuilding took the spending: a Greek owner signed twelve 307,000 dwt VLCCs at a Chinese yard near USD 123 million each, close to USD 1.5 billion."
-faq:
-  - q: "What were the main tanker sales in week 23 of 2026?"
-    a: "A 297,000 dwt VLCC built 2011 and scrubber fitted sold to Korean buyers at USD 82 million for first-quarter 2027 delivery. At the small end, a pair of around 20,000 dwt stainless steel chemical tankers sold together for around USD 23 million with charters attached, and a 14,000 dwt coated tanker went to Vietnamese buyers at USD 10.5 million."
-  - q: "How did the dry bulk secondhand market move in week 23 of 2026?"
-    a: "Handysize was the most active segment, with two 2017-built open hatch units at USD 22 million each. A 2024-built Kamsarmax resale sold at USD 42.7 million against a 2008 unit at USD 14.85 million, and two Japanese-built Capesizes from 2001 and 2003 sold en bloc for USD 31 million combined."
-  - q: "What were ship recycling prices in week 23 of 2026?"
-    a: "Pricing held across the basin, with Bangladesh and Pakistan firmest and India close behind as a recovering rupee eased import costs. Steel plate prices softened modestly in India and Bangladesh and held flat in Pakistan, and Turkey stayed well below the subcontinent. Tonnage supply was thin."
-  - q: "What drove newbuilding ordering in week 23 of 2026?"
-    a: "Tanker money concentrated on the newbuilding side. A Greek owner signed for twelve 307,000 dwt VLCCs at a Chinese yard at about USD 123 million each, an order worth close to USD 1.5 billion, with further VLCC, Suezmax, Aframax and product orders placed across Chinese and Korean yards."
 ---
 
 Secondhand activity narrowed toward the handysize and small tanker segments through the week, while owners kept signing tanker and gas newbuilding contracts at pace and recyclers competed for a thin supply of candidates.

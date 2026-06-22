@@ -11,15 +11,6 @@ key_points:
   - "Dry bulk secondhand had one of its busiest weeks, led by 2016 scrubber-fitted Capesize Ehime Queen at USD 57.5 million and two SWS Capesize sisters en bloc at USD 60 million."
   - "Eid al-Adha holidays subdued recycling, with Gadani near standstill; India drew interest on a firmer rupee at around USD 414/LDT for bulkers."
   - "OFAC granted cash buyer GMS licenses to acquire and recycle four sanctioned container vessels, though banking gridlock still limited practical beaching."
-faq:
-  - q: "What were the main tanker sales in week 22 of 2026?"
-    a: "Scorpio Tankers sold four 2014/2015-built LR2s en bloc for a reported USD 258.8 million, about USD 64.7 million each. The 2002-built VLCC Abie sold at around USD 41.5 million, Hellas Fighter went to a Greek buyer at USD 39.25 million, and Hans Maersk cleared at USD 21 million."
-  - q: "How did the dry bulk secondhand market move in week 22 of 2026?"
-    a: "It was one of the most active weeks of the year. Ehime Queen, a 2016 scrubber-fitted Capesize, sold to Chinese interests at USD 57.5 million, two SWS Capesize sisters sold en bloc for USD 60 million, and two 2017 Sainty Ultramax sisters went via online auction for USD 52.32 million en bloc."
-  - q: "What were ship recycling prices in week 22 of 2026?"
-    a: "Indicative bulk carrier rates were India around USD 414/LDT, Bangladesh around USD 458/LDT, Pakistan around USD 442/LDT and Turkey around USD 280/LDT. Tanker rates held slightly higher across the board. Volumes were thin because of Eid al-Adha holidays."
-  - q: "What drove the tanker market in week 22 of 2026?"
-    a: "The closure of the Strait of Hormuz to commercial transit was the main driver. It left Arabian Gulf volumes depressed, kept VLCC activity thin, and pushed Atlantic Suezmax rates sharply lower as prompt ships queued near Bonny."
 ---
 
 The secondhand and demolition markets were active in Week 22, with a high volume of dry bulk sales offsetting a softer tanker freight backdrop and quiet recycling yards amid Eid holidays.

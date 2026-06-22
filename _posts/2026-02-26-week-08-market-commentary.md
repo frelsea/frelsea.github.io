@@ -11,15 +11,6 @@ key_points:
   - "Dry bulk S&P ran well ahead of last year: 109 bulkers sold across the first seven weeks versus 80 in 2025, up 36 percent."
   - "Capesize Cape Brazil, a 2010-built 177,897 dwt unit, fetched USD 31 million, and the scrubber-fitted 60,000 dwt Kamsarmax Nord Chesapeake went for USD 25.5 million."
   - "No demolition was reported; one-year appreciation hit 22 percent for ten-year-old Capesizes and 18 to 19 percent for mid-size tonnage."
-faq:
-  - q: "What were the main tanker sales in week 08 of 2026?"
-    a: "The Singapore Spirit, a 318,473 dwt 2013-built VLCC, changed hands to Sinokor at USD 84.5 million. Crude carriers drew strong inquiry against tight tonnage lists, while product tankers, particularly AG LR2 units, struggled with overcapacity and softer rates."
-  - q: "How did the dry bulk secondhand market move in week 08 of 2026?"
-    a: "Activity was broad-based and ahead of 2025, with 109 bulkers sold over the first seven weeks of 2026 against 80 a year earlier. Supramax and Handysize each led with 23 deals, and notable sales included the Cape Brazil at USD 31 million and the Nord Chesapeake Kamsarmax at USD 25.5 million."
-  - q: "What was the state of the demolition market in week 08 of 2026?"
-    a: "No demolition transactions were reported during the week. Vessels older than 21 years made up only 9 percent of bulker sales as buyers favoured remaining economic life over near-term demolition."
-  - q: "What was the main market driver in week 08 of 2026?"
-    a: "Buyer confidence in forward cash generation drove activity despite elevated valuations and five-year highs across most benchmarks, with one-year asset appreciation of 22 percent for ten-year-old Capesizes, 10 percent for Kamsarmaxes and 18 to 19 percent for mid-size tonnage."
 ---
 
 The secondhand market accelerated through early February, with dry bulk activity outpacing the prior year by a substantial margin, while tanker transactions continued at firm levels supported by steady inquiry and tight vessel availability. Across all segments, buyers demonstrated confidence in forward earnings streams, committing capital to tonnage at elevated valuations and evidence of structural demand for replacement economics.

@@ -11,15 +11,6 @@ key_points:
   - "Modern Capesize set a reference with the 2019-built Seacon Shanghai, 80,811 dwt, at $26.7 million."
   - "Bangladesh dry bulk demo rallied to $700 per LDT from $600, while Turkish yards eased to $350 for bulkers and $280 for tankers."
   - "Demo sales: the 1993-built bulker Chang Ming Yang at $380 per LDT into China, and the 2005-built general cargo Gold Origin at $330 per LDT."
-faq:
-  - q: "What were the main tanker sales in week 01 of 2026?"
-    a: "The standout deal was the en bloc sale of the 2007-built VLCCs DHT Europe and DHT China for $101.6 million, including an Exxon time charter at $1.1 million per month through Q1 2027. Two VLGCs also sold, Navigare Generosa at $80.0 million and Jag Vishnu at $42.0 million."
-  - q: "How did the dry bulk secondhand market move in week 01 of 2026?"
-    a: "Dry bulk values held firm, with the main reported transaction being the 2019-built Capesize Seacon Shanghai at $26.7 million, reflecting active appetite for modern tonnage in the largest class."
-  - q: "What were ship recycling prices in week 01 of 2026?"
-    a: "Bangladesh led the dry bulk grid at $700 per LDT, up from $600, while India held at $450. Turkey weakened to $350 per LDT for bulkers and $280 for tankers. Demo sales included the bulker Chang Ming Yang at $380 per LDT into China."
-  - q: "What was the main market driver in week 01 of 2026?"
-    a: "Secondhand values held steady as the market absorbed geopolitical uncertainty. Newbuilding activity stayed muted while demolition demand picked up across recycling centres."
 ---
 
 Second-hand values held steady through the opening week as markets absorbed geopolitical uncertainty and reshaped trading patterns, while newbuilding activity remained muted and demolition demand picked up sharply across recycling centres worldwide.

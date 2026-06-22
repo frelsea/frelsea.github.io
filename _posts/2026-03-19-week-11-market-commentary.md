@@ -10,15 +10,6 @@ key_points:
   - "Dry trading was moderate, including the 2005-built Capesize Aliado at USD 20 million and the 2021-built Ultramax Ability at USD 37 million."
   - "Demolition firmed across South Asia, tanker scrap reaching USD 445-460 per LDT in Bangladesh as the Middle East conflict pushed tonnage to Indian and Bangladeshi yards."
   - "Newbuilding prices held, VLCCs near USD 122 million and Suezmaxes at USD 81.5 million, with 158,000 and 157,000 dwt tankers ordered at USD 89.5 million each to Greeks."
-faq:
-  - q: "What were the main tanker sales in week 11 of 2026?"
-    a: "Activity was limited. The Long Wind, a 2011-built 320,000 dwt scrubber-fitted VLCC, committed at USD 68 million, the 2018-built Aframax Green Attitude sold to Greek interests at USD 71 million, and the 2010-built MR2 RUI FU XING traded at USD 22 million."
-  - q: "How did the dry bulk secondhand market move in week 11 of 2026?"
-    a: "Activity was moderate. The 2005-built Capesize Aliado went at USD 20 million, the 2017-built Kamsarmax CCS Orchid at USD 27.24 million via online auction, and the 2021-built Ultramax Ability at USD 37 million."
-  - q: "What were ship recycling prices in week 11 of 2026?"
-    a: "Prices firmed across the subcontinent. Tankers reached USD 430-438 per LDT in India and USD 445-460 in Bangladesh, while bulkers ran USD 410-430 in India and USD 410-445 in Bangladesh. Turkey stayed lower near USD 270-310."
-  - q: "What was the main market driver in week 11 of 2026?"
-    a: "The escalating Arabian Gulf conflict and effective closure of the Strait of Hormuz disrupted tanker logistics and drove tonnage toward Indian and Bangladeshi yards, making it one of the busiest demolition weeks of the year."
 ---
 
 The escalating conflict in the Arabian Gulf and effective closure of the Strait of Hormuz created structural disruptions across tanker logistics, while dry bulk markets showed relative resilience despite subdued freight conditions.
