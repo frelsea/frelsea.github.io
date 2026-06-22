@@ -5,6 +5,21 @@ date: 2026-06-17
 description: "Week 24 2026 shipping report: firm Aframax and Suezmax secondhand sales, steady dry bulk activity, heavy crude newbuilding ordering and a quiet pre-monsoon demolition market."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
 image: /assets/img/covers/2026-w24-cover.png
+key_points:
+  - "In week 24 of 2026, tanker S&P ran heavy in the Aframax and LR2 sizes, with a 2009-built coated Aframax at 53.5 million dollars and a modern scrubber-fitted LR2 resale at 90 million dollars."
+  - "In week 24 of 2026, the standout deal was an en bloc sale of two 2023-built Suezmax sisters of around 157,000 dwt at 110 million dollars each, reflecting strong demand for young Suezmax tonnage."
+  - "In week 24 of 2026, dry bulk sales spread evenly across the size range, with two modern mini Capesize sisters going to Omani interests at 37.9 million dollars each and a 2015-built Kamsarmax to Greek buyers at 26 million dollars with a period charter."
+  - "In week 24 of 2026, the recycling market was quiet as the monsoon set in, with India subdued, Bangladesh in a routine pattern, Pakistan buying aggressively on a tonnage shortage and Turkey uncompetitive."
+  - "In week 24 of 2026, the Strait of Hormuz reopened to shipping following the Iran-US agreement, ending a closure that had run since late February and raising the prospect of locked-in tonnage being released for recycling over time."
+faq:
+  - q: "What were the main tanker sales in week 24 of 2026?"
+    a: "The standout was an en bloc sale of two 2023-built Suezmax sisters of around 157,000 dwt at 110 million dollars each. A 2009-built coated Aframax sold at 53.5 million dollars, a modern scrubber-fitted LR2 resale at 90 million dollars, and a 2015-built MR2 went to Greek buyers at 39.2 million dollars."
+  - q: "How did the dry bulk secondhand market move in week 24 of 2026?"
+    a: "Sales were spread evenly across the size range. Two modern mini Capesize sisters went to Omani interests at 37.9 million dollars each, a 2015-built Kamsarmax sold to Greek buyers at 26 million dollars with a period charter, and handysize was the most active part by deal count."
+  - q: "What were ship recycling conditions in week 24 of 2026?"
+    a: "The market was quiet with the monsoon setting in. India stayed subdued on limited tonnage and softer steel sentiment, Bangladesh cleared earlier deliveries ahead of budget changes, Pakistan bought aggressively on a tonnage shortage and stable rupee, and Turkey remained uncompetitive."
+  - q: "What was the main geopolitical development in week 24 of 2026?"
+    a: "The Strait of Hormuz reopened to shipping following the Iran-US agreement, ending a closure that had run since late February. It raises the prospect that sanctioned and ageing tonnage previously locked in the Gulf could be released for recycling, though the timing and volume remain uncertain."
 ---
 
 Secondhand activity stayed firm across tankers and dry bulk this week, while a busy newbuilding slate and a quiet pre-monsoon recycling market framed the rest of the picture.

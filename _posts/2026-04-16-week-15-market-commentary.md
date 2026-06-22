@@ -5,6 +5,21 @@ date: 2026-04-16
 description: "A scrubber-fitted Suezmax sold at high $60m in Week 15; MR transactions were numerous, dry bulk values held flat, and demolition firmed in Bangladesh."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, lr1, lr2, mr, kamsarmax, ultramax, supramax, handysize]
 image: /assets/img/covers/2026-w15-cover.png
+key_points:
+  - "In week 15 of 2026, the scrubber-fitted Suezmax 'Stena Surprise' (158,491 dwt, 2012) sold at high $60 million and the coated LR2 'P. Aliki' was reported sold to Trafigura at $42.65 million."
+  - "In week 15 of 2026, MR activity was broad, including the scrubber-fitted 'Pro Onyx' (2019) at $39 million with a time charter attached and the scrubber-fitted 'Ardmore Engineer' sold to Gesco at $35.5 million."
+  - "In week 15 of 2026, dry bulk values held flat across all size classes and trading concentrated in smaller ships, with no Capesize sales reported and the Ultramax 'ASL Ixora' sold at $19.6 million."
+  - "In week 15 of 2026, demolition firmed across the Indian Subcontinent and Bangladesh was the strongest market, with dry bulk around $440 per ldt and tankers near $465 per ldt there."
+  - "In week 15 of 2026, recycling sales included an LNG carrier of about 31,340 ldt at roughly $513 per ldt as-is at Linggi in Malaysia and the 1998-built Panamax 'Andhika Kanishka' at $461 per ldt in Indonesia."
+faq:
+  - q: "What were the main tanker sales in week 15 of 2026?"
+    a: "The scrubber-fitted Suezmax 'Stena Surprise' sold at high $60 million and the LR2 'P. Aliki' went to Trafigura at $42.65 million. MR sales ranged widely, from the 2019-built 'Pro Onyx' at $39 million down to the older ice-class 'East Coast' at mid to high $11 million."
+  - q: "How did the dry bulk secondhand market move in week 15 of 2026?"
+    a: "Values held flat week on week and activity centred on smaller vessels with no Capesize transactions. Deals included the Ultramax 'ASL Ixora' at $19.6 million, four Supramaxes from $13 million to high $15 million, and the Handysize 'Nanaimo Bay' at excess $19 million."
+  - q: "What were ship recycling prices in week 15 of 2026?"
+    a: "Prices firmed with Bangladesh strongest. Dry bulk was quoted around $390 per ldt in India, $440 in Bangladesh, $435 in Pakistan and $270 in Turkey, while tankers ran marginally higher, reaching about $465 per ldt in Bangladesh."
+  - q: "What newbuilding orders were placed in week 15 of 2026?"
+    a: "Tanker ordering was concentrated in VLCCs, including AET's four plus two 320,000 dwt VLCCs at Hengli at $138 million each. In dry bulk, Shandong Shipping contracted ten 325,000 dwt vessels at Qingdao Beihai at $130 million each, on time charter to Vale."
 ---
 
 A scrubber-fitted Suezmax and a series of MR transactions headlined tanker secondhand activity in Week 15, while dry bulk values held flat across all size classes and demolition prices firmed in Bangladesh ahead of the pre-monsoon season.

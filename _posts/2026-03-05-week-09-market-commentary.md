@@ -6,6 +6,21 @@ date: 2026-03-05
 categories: [market-analysis]
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, shipping-markets]
 image: /assets/img/covers/2026-w09-cover.png
+key_points:
+  - "In week 09 of 2026, crude tanker freight surged on Middle East escalation, with VLCC TD3C climbing from WS163 to WS217 and Suezmax TD20 firming from WS164 to WS211-220."
+  - "Tanker secondhand values rose in week 09 of 2026, with a 300,000 DWT 2006-built VLCC achieving USD 51-52 million and modern MR2 2020-built units holding at USD 44 million."
+  - "Dry bulk freight firmed across the board in week 09 of 2026, with Capesize C5TC closing at USD 24,211/day, Panamax P5TC at USD 17,481/day, and Supramax S11TC up USD 2,300 to USD 16,915/day."
+  - "Dry secondhand values were firm in week 09 of 2026, with a 81,000 DWT 2014-built Kamsarmax at USD 26.8 million and a 63,000 DWT 2014-built Ultramax at USD 23 million."
+  - "Demolition was quiet in week 09 of 2026, with tanker scrap at about USD 410-430 per LDT in India and Bangladesh and Turkish yards near USD 280/LDT, as firm freight kept owners from recycling."
+faq:
+  - q: "What drove the tanker market in week 09 of 2026?"
+    a: "Renewed Middle East escalation and constrained compliant tonnage pushed VLCC TD3C from WS163 to WS217, with some fixtures beyond WS225. Suezmax and Aframax rates rose in parallel, and AG LR2s posted their strongest week in 18 months."
+  - q: "How did the dry bulk secondhand market move in week 09 of 2026?"
+    a: "Values were firm across all sizes. A 81,000 DWT 2014-built Kamsarmax reached USD 26.8 million, a 63,000 DWT 2014-built Ultramax USD 23 million, a 55,000 DWT Supramax around USD 14.5 million, and a 40,000 DWT 2015-built Handysize USD 19.5 million."
+  - q: "What were ship recycling prices in week 09 of 2026?"
+    a: "Prices held steady with limited activity. Indian yards were around USD 390-410 per LDT, Bangladesh and Pakistan at USD 410/LDT, and Turkey near USD 270-280/LDT. Owners kept vessels trading given strong freight."
+  - q: "What was the main market driver in week 09 of 2026?"
+    a: "Geopolitical tension around possible Strait of Hormuz disruption, alongside crude diversification flows such as India moving away from Russian barrels and Venezuela returning to mainstream trade, added a risk premium to tanker fixtures."
 ---
 
 The shipping markets experienced extraordinary volatility in Week 09, with crude tanker values reaching levels unseen since 2020 and dry bulk activity demonstrating broad strength across all vessel sizes. Geopolitical tensions, structural supply constraints and the migration of restricted tonnage back into mainstream markets created a perfect storm driving both freight rates and asset values to multi-year peaks.

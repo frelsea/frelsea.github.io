@@ -5,6 +5,21 @@ date: 2026-01-15
 description: "Week 02 secondhand market activity in dry bulk and tankers, with sales transactions and price assessments across major vessel sizes and shipyard origins."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, bulk-carriers, capesize, panamax, suezmax, vlcc]
 image: /assets/img/covers/2026-w02-cover.png
+key_points:
+  - "In week 02 of 2026, the VLCC market led activity, with eight South Korean VLCCs from 2015 and 2016, all around 300,000 dwt, sold en bloc for USD 831.5 million, averaging USD 104 million per vessel."
+  - "In week 02 of 2026, Sinokor was an active VLCC buyer, taking the scrubber-fitted OCEANIS at USD 68 million and the sisters DESIMI and SOLANA en bloc for USD 136 million, while a CMB.Tech portfolio of six VLCCs sold for USD 261.1 million."
+  - "In week 02 of 2026, dry bulk activity spanned all sizes, with the 2021-built Capesize NORD PALLADIUM at USD 76.25 million and the 2022-built Ultramax STARRY NIGHT at USD 32.5 million among the firmer modern sales."
+  - "In week 02 of 2026, demolition stayed subdued, with the 2012-built SEPETIBA BAY at 35,036 dwt reported sold for breaking at USD 11 million and little other tonnage flowing to the yards."
+  - "In week 02 of 2026, the Venezuelan crude flow reorientation drew demand toward compliant mainstream Aframaxes and Suezmaxes, absorbing potential demolition candidates into the secondary market."
+faq:
+  - q: "What were the main tanker sales in week 02 of 2026?"
+    a: "The VLCC segment dominated, led by eight South Korean VLCCs sold en bloc for USD 831.5 million, averaging USD 104 million each. Sinokor was an active buyer across several modern units, and a CMB.Tech portfolio of six VLCCs changed hands for USD 261.1 million."
+  - q: "How did the dry bulk secondhand market move in week 02 of 2026?"
+    a: "Activity ranged across all sizes. Capesize was led by the 2021-built NORD PALLADIUM at USD 76.25 million, Kamsarmax was active with BW MATSUYAMA at USD 31 million, and Ultramax saw the modern STARRY NIGHT trade at USD 32.5 million."
+  - q: "What were ship recycling prices in week 02 of 2026?"
+    a: "Demolition was subdued with limited reportage. The 2012-built SEPETIBA BAY was reported sold for breaking at USD 11 million, and most aging tonnage found alternative employment rather than immediate scrapping."
+  - q: "What drove the market in week 02 of 2026?"
+    a: "Geopolitical shifts around Venezuelan crude flows spurred interest in compliant mainstream tonnage, particularly Aframaxes and Suezmaxes, which pulled candidate vessels away from the demolition market."
 ---
 
 The opening week of 2026 delivered mixed momentum across secondhand markets, with tanker activity dominated by large enbloc deals while dry bulk showed selective transactional activity across multiple size segments. Geopolitical shifts in Venezuela sparked renewed interest in compliant mainstream tonnage, particularly Aframaxes and Suezmaxes positioned for legitimate crude flows.

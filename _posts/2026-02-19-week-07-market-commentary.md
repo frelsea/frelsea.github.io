@@ -5,6 +5,20 @@ date: 2026-02-19
 description: "Week 7 secondhand market review: Capesize values reach 18-year highs amid freight strength; VLCCs and Suezmaxes firm; demolition constrained by rising asset values."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report, secondary-market, vessel-values]
 image: /assets/img/covers/2026-w07-cover.png
+key_points:
+  - "In week 07 of 2026, VLCC values held at USD 86.5-89 million, with Sinokor taking the scrubber-fitted sisters 'Ilma' and 'Ingrid' at USD 89 million each and the 'Eagle Varna' at USD 86.5 million."
+  - "In week 07 of 2026, Capesize values reached their highest since 2008, with the 'Star Scarlett' 175,649 dwt 2014-built to Chinese interests at USD 36 million and the 'Michalis H' 180,355 dwt 2012-built at USD 35.2 million with timecharter attached."
+  - "In week 07 of 2026, Suezmaxes firmed as the 2022-built sisters 'Emeraldway' and 'Sunriseway' sold to Greek interests at USD 88 million each, and Aframax sisters 'FS Diligence' and 'FS Endeavor' traded to Greek buyers at USD 86 million each."
+  - "In week 07 of 2026, demolition stayed constrained as owners deferred scrapping, with Indian bulk carrier scrap at USD 410-430 per ldt and tanker scrap near USD 450 per ldt, while Turkey offered USD 280-300 per ldt."
+faq:
+  - q: "What were the main tanker sales in week 07 of 2026?"
+    a: "Sinokor acquired the VLCC sisters 'Ilma' and 'Ingrid' at USD 89 million each and the 'Eagle Varna' at USD 86.5 million. Greek buyers took the Suezmax sisters 'Emeraldway' and 'Sunriseway' at USD 88 million each and the Aframax sisters 'FS Diligence' and 'FS Endeavor' at USD 86 million each."
+  - q: "How did the dry bulk secondhand market move in week 07 of 2026?"
+    a: "Capesize values reached their strongest level since September 2008, with 15-year-old units implied at high USD 34 million, a 19% premium to 2024 averages. The 'Star Scarlett' sold at USD 36 million and the 'Michalis H' at USD 35.2 million with a timecharter attached at USD 27,250 per day through Q4 2026."
+  - q: "What were ship recycling prices in week 07 of 2026?"
+    a: "Indian bulk carrier scrap held at roughly USD 410-430 per ldt, Bangladesh at USD 420-430 and Pakistan at USD 430-440, with Turkey near USD 280-300. Indian tanker scrap was quoted near USD 450 per ldt."
+  - q: "What was the main market driver in week 07 of 2026?"
+    a: "Limited availability of prompt modern eco-tonnage was the critical driver, with buyers competing aggressively for fuel-efficient units and owners reluctant to sell amid improving earnings and strong freight momentum."
 ---
 
 The secondhand market in Week 7 reflected strengthening fundamentals across both tanker and dry bulk sectors, with freight momentum driving asset prices to cycle highs and limited modern tonnage availability intensifying competition for eco-efficient vessels.

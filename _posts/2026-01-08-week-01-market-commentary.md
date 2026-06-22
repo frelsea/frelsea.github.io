@@ -5,6 +5,21 @@ date: 2026-01-08
 description: "Second-hand valuations held steady week one as traders evaluated geopolitical risks. A VLCC pair sold at $101.6M en bloc, while Capesize and VLGC units transacted across the curve. Demolition activity picked up with multiple vessels scrapped."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
 image: /assets/img/covers/2026-w01-cover.png
+key_points:
+  - "In week 01 of 2026, the two 2007-built VLCCs DHT Europe and DHT China, each around 317,700 dwt, sold en bloc for $101.6 million with a time charter to Exxon at $1.1 million per month running through the first quarter of 2027."
+  - "In week 01 of 2026, the LPG segment was active across the curve, with the 2015-built VLGC Navigare Generosa at $80.0 million and the older 2002-built VLGC Jag Vishnu at $42.0 million."
+  - "In week 01 of 2026, the Capesize Seacon Shanghai, 80,811 dwt and built 2019, traded at $26.7 million, providing a reference point for modern Capesize tonnage."
+  - "In week 01 of 2026, demolition demand firmed, with Bangladesh dry bulk pricing rallying to $700 per LDT from $600, while Turkish yards eased to $350 per LDT for bulkers and $280 for tankers."
+  - "In week 01 of 2026, demo sales included the 1993-built bulker Chang Ming Yang at $380 per LDT into China and the 2005-built general cargo vessel Gold Origin at $330 per LDT."
+faq:
+  - q: "What were the main tanker sales in week 01 of 2026?"
+    a: "The standout deal was the en bloc sale of the 2007-built VLCCs DHT Europe and DHT China for $101.6 million, including an Exxon time charter at $1.1 million per month through Q1 2027. Two VLGCs also sold, Navigare Generosa at $80.0 million and Jag Vishnu at $42.0 million."
+  - q: "How did the dry bulk secondhand market move in week 01 of 2026?"
+    a: "Dry bulk values held firm, with the main reported transaction being the 2019-built Capesize Seacon Shanghai at $26.7 million, reflecting active appetite for modern tonnage in the largest class."
+  - q: "What were ship recycling prices in week 01 of 2026?"
+    a: "Bangladesh led the dry bulk grid at $700 per LDT, up from $600, while India held at $450. Turkey weakened to $350 per LDT for bulkers and $280 for tankers. Demo sales included the bulker Chang Ming Yang at $380 per LDT into China."
+  - q: "What was the main market driver in week 01 of 2026?"
+    a: "Secondhand values held steady as the market absorbed geopolitical uncertainty. Newbuilding activity stayed muted while demolition demand picked up across recycling centres."
 ---
 
 Second-hand values held steady through the opening week as markets absorbed geopolitical uncertainty and reshaped trading patterns, while newbuilding activity remained muted and demolition demand picked up sharply across recycling centres worldwide.

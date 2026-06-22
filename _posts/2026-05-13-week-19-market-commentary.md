@@ -5,6 +5,20 @@ date: 2026-05-13
 description: "Week 19 market review covering tanker and dry bulk S&P activity for 1–8 May 2026, including Suezmax, LR2, Kamsarmax, Supramax and Handysize transactions."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, suezmax, lr2, kamsarmax, supramax, handysize]
 image: /assets/img/covers/2026-w19-cover.png
+key_points:
+  - "In week 19 of 2026, Suezmax and LR2 values firmed on continued disruption to Middle Eastern trade flows; Teekay sold Baker Spirit at $53 million to Greek buyers, the scrubber-fitted Gladiator changed hands at $65 million, and the 2026-built resale pair Advantage Summit and Bhanu 1 went to Greek buyers at $108.5 million each."
+  - "Dry bulk S&P was broad-based across all size classes in week 19 of 2026, with Kamsarmax the most prominent feature; the 2023-built pair Seacon Nola and Seacon Hamburg sold en bloc to Middle Eastern buyers at $72.7 million and the 2021-built Ultramax Dominator achieved $38 million."
+  - "Demolition markets held broadly steady with subdued volume in week 19 of 2026; Bangladesh remained the most competitive at $470 to 480 per ldt for tankers in Chattogram, while Turkey was the lowest in the basin at $285 to 310 per ldt."
+  - "An LR2 sale in week 19 of 2026 underlined tightening availability, with TORM's Torm Ganga committed to Chinese interests at $53 million against the $34 million paid for a sister vessel in September 2025, reflecting coated tonnage migrating into dirty trades."
+faq:
+  - q: "What were the main tanker sales in week 19 of 2026?"
+    a: "Suezmax deals led the week, with Baker Spirit at $53 million, Gladiator at $65 million, and the 2026-built pair Advantage Summit and Bhanu 1 at $108.5 million each. In the LR2 segment Torm Ganga sold at $53 million, and an en-bloc pair of 2027-built MR2 newbuilding resales went at $50 million each."
+  - q: "How did the dry bulk secondhand market move in week 19 of 2026?"
+    a: "Activity was broad across all size classes with Kamsarmax most prominent. Seacon Nola and Seacon Hamburg sold en bloc at $72.7 million, Bulk Joyance went at $33 million, and modern Ultramax and Handysize tonnage stayed firm, with Dominator at $38 million and Amateras Harmony in the high $29 million region."
+  - q: "What were ship recycling prices in week 19 of 2026?"
+    a: "Markets held broadly steady with thin volume. Bangladesh led at $470 to 480 per ldt for tankers and $460 to 470 for dry bulk at Chattogram, Pakistan quoted $430 to 440 for tankers, India at Alang offered $415 to 430 for tankers, and Turkey was lowest at $285 to 310 per ldt."
+  - q: "What was the main market driver in week 19 of 2026?"
+    a: "Continued disruption to Middle Eastern trade flows supported Suezmax and LR2 values. LR2 availability tightened as coated tonnage migrated into dirty trades, shown by Torm Ganga selling at $53 million versus $34 million for a sister vessel in September 2025."
 ---
 
 Suezmax and LR2 values firmed on the back of continued disruption to Middle Eastern trade flows, while dry bulk S&P activity was broad-based across all size classes and demolition markets held steady with thin reported volume.

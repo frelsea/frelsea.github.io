@@ -5,6 +5,21 @@ date: 2026-05-28
 description: "Week 21 saw heavy MR resale activity, Teekay take a Suezmax pair, Norden buy four Handy newbuilds en bloc, and Subcontinent demo prices hold steady ahead of the monsoon."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, mr2, suezmax, kamsarmax, handysize]
 image: /assets/img/covers/2026-w21-cover.png
+key_points:
+  - "In week 21 of 2026, the MR2 segment led tanker S&P, with four CS-series 50,000 dwt resales sold en bloc to Greek interests at USD 198 million with twelve-month charters attached, and a Las Palmas VLCC resale going to Trafigura at USD 163 million."
+  - "In week 21 of 2026, Teekay Tankers took two 158,000 dwt Suezmax resales, Olympic Star and Daehan 5118, at USD 95 million each."
+  - "In week 21 of 2026, dry bulk was led by Norden's en bloc purchase of four 40,547 dwt Handysize newbuilds at USD 122 million for the package, or USD 30.5 million per vessel, with heavy Kamsarmax and Ultramax turnover alongside."
+  - "In week 21 of 2026, Subcontinent recycling held a stable tone ahead of the June monsoon, with India at USD 415-460/LDT, Bangladesh at USD 410-474/LDT and Pakistan at USD 425-455/LDT for dry tonnage, while the tanker Maymei sold at USD 510/LDT to Chattogram."
+  - "In week 21 of 2026, newbuilding activity ran heavy, with United Overseas Group ordering six firm plus four optional 319,000 dwt VLCCs at Wison New Energies at USD 125 million each, and cash buyer GMS securing an OFAC license to recycle four US-sanctioned containerships."
+faq:
+  - q: "What were the main tanker sales in week 21 of 2026?"
+    a: "Four CS-series 50,000 dwt MR2 resales sold en bloc to Greek interests at USD 198 million with charters attached. STI Condotti, a 2014 LR2, sold by Scorpio Tankers in excess of USD 70 million. The Las Palmas VLCC resale went to Trafigura at USD 163 million, and Teekay took two Suezmax resales at USD 95 million each."
+  - q: "How did the dry bulk secondhand market move in week 21 of 2026?"
+    a: "Norden bought four 40,547 dwt Handysize newbuilds en bloc at USD 122 million, or USD 30.5 million each. Kamsarmax turnover was heavy, with Joy at USD 31 million and Nord Polaris at USD 28.25 million, and two Sainty Ultramax sisters sold via online bidding at USD 49.66 million en bloc."
+  - q: "What were ship recycling prices in week 21 of 2026?"
+    a: "Subcontinent markets held steady ahead of the monsoon. India sat at USD 415-460/LDT for dry tonnage, Bangladesh at USD 410-474/LDT and Pakistan at USD 425-455/LDT, with tanker prices running USD 415-488/LDT across the three. Turkey stayed restricted at USD 275-305/LDT."
+  - q: "What was the main newbuilding driver in week 21 of 2026?"
+    a: "Tanker ordering ran heavy. United Overseas Group placed six firm plus four optional 319,000 dwt VLCCs at Wison New Energies at USD 125 million each, and Navios MLP ordered four firm plus four optional 319,000 dwt VLCCs at Wuhu Nantong at USD 120.5 million each."
 ---
 
 Week 21 produced one of the busier S&P slates of the year: forty named sales across dry bulk and tanker, four Handysize newbuilds en bloc to Norden, a Suezmax resale pair to Teekay, and a quartet of CS-series MR resales sold en bloc with charters attached.

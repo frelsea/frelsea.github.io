@@ -5,6 +5,20 @@ description: "Secondhand markets show steady activity across tanker and bulker s
 date: 2026-02-12
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
 image: /assets/img/covers/2026-w06-cover.png
+key_points:
+  - "In week 06 of 2026, VLCC values held firm, with the scrubber-fitted 'DHT Bauhinia' 301,000 dwt 2007-built at USD 51.5 million and the 'Asian Lion' 297,000 dwt 2009-built sold to Greek interests at USD 60 million."
+  - "In week 06 of 2026, dry bulk activity ran at a measured pace, with the 180,000 dwt 'Irene II' 2006-built to Chinese interests at USD 21 million and the 82,000 dwt 'Athina Carras' 2012-built to Greek interests at USD 17.5 million."
+  - "In week 06 of 2026, MR2 demand stayed steady, with sisters 'Seaways Grace' and 'Seaways Madeleine', both 50,000 dwt 2008-built, committing at USD 16 million each."
+  - "In week 06 of 2026, demolition was selective with limited reported tonnage, as most older vessels still earned adequate returns and South Asian recycling capacity remained constrained."
+faq:
+  - q: "What were the main tanker sales in week 06 of 2026?"
+    a: "The 'DHT Bauhinia' 301,000 dwt 2007-built committed at USD 51.5 million and the 'Asian Lion' 297,000 dwt 2009-built sold to Greek interests at USD 60 million. The MR2 sisters 'Seaways Grace' and 'Seaways Madeleine' each traded at USD 16 million."
+  - q: "How did the dry bulk secondhand market move in week 06 of 2026?"
+    a: "Capesize activity continued at a measured pace, with the 180,000 dwt 'Irene II' 2006-built at USD 21 million to Chinese interests. Kamsarmax and Panamax were the most active segments, and the 'Athina Carras' 82,000 dwt 2012-built sold to Greek interests at USD 17.5 million."
+  - q: "What was the state of the demolition market in week 06 of 2026?"
+    a: "Demolition stayed selective with limited headline tonnage. Most older vessels still generated adequate employment returns, and only the oldest conventional units without modern compliance features approached breaking thresholds, while South Asian capacity remained constrained."
+  - q: "What was the main market driver in week 06 of 2026?"
+    a: "Markets were steady and balanced, with newbuilding orders focused on replacement-driven schedules through 2028 at Chinese and Korean yards rather than net capacity growth, keeping fleet expansion disciplined."
 ---
 
 The secondhand markets remained steady through week six, with sustained interest across tanker and dry bulk sectors reflecting balanced supply-demand conditions. Newbuilding deliveries continued at elevated levels, while selective tonnage continued to find new owners at stable pricing throughout the period.

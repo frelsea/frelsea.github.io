@@ -5,6 +5,21 @@ date: 2026-06-03
 description: "Dry bulk secondhand activity surged in Week 22 with Capesize and Ultramax sales leading, while tanker markets softened on Hormuz uncertainty."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, market-report]
 image: /assets/img/covers/2026-w22-cover.png
+key_points:
+  - "In week 22 of 2026, tanker freight corrected as the Strait of Hormuz remained closed to commercial transit, leaving Arabian Gulf volumes depressed and VLCC activity thin."
+  - "In week 22 of 2026, Scorpio Tankers sold four 2014/2015-built LR2s en bloc for a reported USD 258.8 million, around USD 64.7 million per vessel, while the 2002-built VLCC Abie changed hands at around USD 41.5 million."
+  - "In week 22 of 2026, dry bulk secondhand had one of its busiest weeks of the year, led by the scrubber-fitted 2016 Capesize Ehime Queen at USD 57.5 million and two SWS-built Capesize sisters sold en bloc for USD 60 million."
+  - "In week 22 of 2026, recycling was subdued as Eid al-Adha holidays constrained Bangladesh and Pakistan, with Gadani at a near standstill, while India drew interest on a firmer rupee, sitting around USD 414/LDT for bulkers."
+  - "In week 22 of 2026, the OFAC granted cash buyer GMS specific licenses to acquire and recycle four sanctioned container vessels, though banking gridlock continued to limit practical beaching."
+faq:
+  - q: "What were the main tanker sales in week 22 of 2026?"
+    a: "Scorpio Tankers sold four 2014/2015-built LR2s en bloc for a reported USD 258.8 million, about USD 64.7 million each. The 2002-built VLCC Abie sold at around USD 41.5 million, Hellas Fighter went to a Greek buyer at USD 39.25 million, and Hans Maersk cleared at USD 21 million."
+  - q: "How did the dry bulk secondhand market move in week 22 of 2026?"
+    a: "It was one of the most active weeks of the year. Ehime Queen, a 2016 scrubber-fitted Capesize, sold to Chinese interests at USD 57.5 million, two SWS Capesize sisters sold en bloc for USD 60 million, and two 2017 Sainty Ultramax sisters went via online auction for USD 52.32 million en bloc."
+  - q: "What were ship recycling prices in week 22 of 2026?"
+    a: "Indicative bulk carrier rates were India around USD 414/LDT, Bangladesh around USD 458/LDT, Pakistan around USD 442/LDT and Turkey around USD 280/LDT. Tanker rates held slightly higher across the board. Volumes were thin because of Eid al-Adha holidays."
+  - q: "What drove the tanker market in week 22 of 2026?"
+    a: "The closure of the Strait of Hormuz to commercial transit was the main driver. It left Arabian Gulf volumes depressed, kept VLCC activity thin, and pushed Atlantic Suezmax rates sharply lower as prompt ships queued near Bonny."
 ---
 
 The secondhand and demolition markets were active in Week 22, with a high volume of dry bulk sales offsetting a softer tanker freight backdrop and quiet recycling yards amid Eid holidays.

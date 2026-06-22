@@ -5,6 +5,20 @@ date: 2026-05-21
 description: "Tanker S&P firm despite Hormuz-driven freight moderation. Heavy Kamsarmax and Handymax resale activity in dry bulk. Subcontinent demolition remained quiet."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, kamsarmax, ultramax, supramax, handymax]
 image: /assets/img/covers/2026-w20-cover.png
+key_points:
+  - "In week 20 of 2026, tanker S&P stayed firm despite freight moderation from the March peaks; sister VLCCs C. Innovator and C. Progress sold en bloc at USD 120.6 million with time charters attached, and a 2026-built resale VLCC at Hengli went to Trafigura at USD 163 million."
+  - "Dry bulk S&P appetite was strong in week 20 of 2026 as the Baltic Dry Index closed at 3,151 points, up 5.81% on the week; the headline deal was Norden's en bloc purchase of four 2024-built JNS Handymax resales at USD 121 million, or USD 30.25 million each."
+  - "Kamsarmax activity was particularly heavy in week 20 of 2026, with the 2026-built resale Moana at USD 36.5 million and Joy at USD 31 million, while sister Ultramax units Huayang Rose and Huayang Lily sold en bloc to Chinese buyers at USD 50.4 million."
+  - "Indian subcontinent demolition was quiet in week 20 of 2026 as the rupee slid to a historic low near 96 against the dollar and Indian breakers narrowed bulker levels to around USD 415 per ldt; Bangladesh held around USD 460 per ldt for bulkers, with the EU's 20th sanctions package adding resale restrictions on tanker sales to third countries."
+faq:
+  - q: "What were the main tanker sales in week 20 of 2026?"
+    a: "VLCCs C. Innovator and C. Progress sold en bloc at USD 120.6 million including charters, and a 2026-built resale VLCC went to Trafigura at USD 163 million. Two Daehan Suezmax resales sold en bloc at USD 190 million to Teekay, the LR2 STI Condotti went in excess of USD 70 million, and TORM took the Horizon Andros and Horizon Syros MR pair en bloc at USD 102 million."
+  - q: "How did the dry bulk secondhand market move in week 20 of 2026?"
+    a: "The Baltic Dry Index rose 5.81% on the week to 3,151 points and S&P appetite was strong across Kamsarmax, Ultramax, Supramax and Handysize. Norden bought four 2024-built JNS Handymax resales en bloc at USD 121 million, the Kamsarmax resale Moana sold at USD 36.5 million, and Huayang Rose and Huayang Lily went en bloc at USD 50.4 million."
+  - q: "What were ship recycling prices in week 20 of 2026?"
+    a: "Indian subcontinent activity was limited. India narrowed bulker levels to around USD 415 per ldt as the rupee hit a historic low, Bangladesh held around USD 460 for bulkers and USD 470 to 480 for tankers, Pakistan quoted USD 440 for tankers and USD 460 for bulkers, and Turkey sat near USD 280 to 310 per ldt."
+  - q: "How did sanctions affect the tanker market in week 20 of 2026?"
+    a: "The EU's 20th sanctions package introduced new restrictions on tanker sales to third countries, requiring contractual clauses prohibiting resale to Russia and pass-through obligations on subsequent buyers, which narrowed the pool of compliant buyers for older EU-flagged tonnage."
 ---
 
 S&P activity ran heavy across both wet and dry markets, with modern resale tonnage finding ready buyers and Norden absorbing four 2024-built JNS Handymax resales en bloc.

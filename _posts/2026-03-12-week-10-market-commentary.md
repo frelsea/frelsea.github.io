@@ -5,6 +5,21 @@ date: 2026-03-12
 description: "Active tanker and dry bulk S&P in Week 10, with Suezmax values reaching USD 65 million and broad Kamsarmax and Handysize trading across all buyer segments."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, vlcc, suezmax, aframax, capesize, kamsarmax, ultramax, supramax, handysize]
 image: /assets/img/covers/2026-w10-cover.png
+key_points:
+  - "In week 10 of 2026, Suezmax pricing stepped up sharply, with a 159,039 dwt 2013-built Samsung unit at USD 63 million and a 156,092 dwt 2013-built Sumitomo unit to Greek interests at USD 65 million."
+  - "Aframax trading was extensive in week 10 of 2026, headed by a 112,532 dwt 2018-built Chinese unit at USD 71 million, with two VLCCs sold at USD 38 million and USD 51.5 million."
+  - "Dry bulk S&P was broad in week 10 of 2026, with two Capesizes at high USD 23 million and excess USD 32 million, and Handysize the busiest segment, including a 2018-built JNS unit at USD 22 million."
+  - "Demolition was stable in week 10 of 2026, with bulker rates at USD 390-410 per LDT across the subcontinent and tankers at a premium up to USD 430-435 in Bangladesh, Turkey lower near USD 270-280."
+  - "Newbuilding activity featured in week 10 of 2026, with Performance Shipping ordering two 158,000 dwt Suezmaxes at USD 81.5 million each and Union Maritime ordering Capesizes at USD 75.5 million each."
+faq:
+  - q: "What were the main tanker sales in week 10 of 2026?"
+    a: "Suezmax led, with a 2013-built Samsung at USD 63 million and a 2013-built Sumitomo at USD 65 million to Greek interests. A 2018-built Aframax reached USD 71 million, and VLCCs sold at USD 38 million and USD 51.5 million."
+  - q: "How active was the dry bulk secondhand market in week 10 of 2026?"
+    a: "Trading was broad-based with buyers from China, Greece, India and Turkey. Capesizes committed at high USD 23 million and excess USD 32 million, a 2020-built Kamsarmax at about USD 32 million, and Handysize was the busiest segment."
+  - q: "What were ship recycling prices in week 10 of 2026?"
+    a: "Pricing was stable. Bulkers were USD 390-395 per LDT in India, USD 400-410 in Bangladesh and USD 405-410 in Pakistan, with Turkey at USD 270. Tankers commanded a premium, reaching USD 430-435 in Bangladesh."
+  - q: "What newbuilding orders were placed in week 10 of 2026?"
+    a: "Performance Shipping ordered two 158,000 dwt Suezmaxes at USD 81.5 million each, at SWS and CSTC with scrubbers. Union Maritime placed an order for two plus two 215,000 dwt Capesizes at Wuhu at USD 75.5 million each for 2028 delivery."
 ---
 
 Tanker secondhand values moved sharply higher in Week 10 as buyer demand across all wet segments intensified, while dry bulk transaction volumes remained substantial across every size category and demolition pricing held steady in South Asian yards.

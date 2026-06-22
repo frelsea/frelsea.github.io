@@ -5,6 +5,21 @@ date: 2026-01-29
 description: "Week 04 secondhand and newbuilding markets for tankers and dry bulk showed moderate activity with Newcastlemax and Capesize sales near USD 74 million and USD 31-35 million respectively, while demolition demand supported older tonnage in Pakistan and India."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, market-report]
 image: /assets/img/covers/2026-w04-cover.png
+key_points:
+  - "In week 04 of 2026, a Newcastlemax tanker sold for USD 74 million to Korean interests, in line with comparable modern vessels at USD 73.6 million in preceding weeks, while an Aframax traded at USD 35.5 million to Chinese interests."
+  - "In week 04 of 2026, product tanker activity was broad, with LR1 sales at USD 10.2 million and USD 13.5 million, MR sales ranging from USD 10 million to USD 31 million, and a chemical tanker at USD 14 million."
+  - "In week 04 of 2026, Capesize sales held range-bound at USD 31.5 million to USD 32 million for 2011 and 2012 tonnage, while a 2025-built scrubber-fitted Ultramax reached USD 34 million."
+  - "In week 04 of 2026, demolition demand stayed steady, with Pakistan firm at USD 412 per ldt and a bulker yard in Oman accepting tonnage at USD 398 per ldt, extending recycling demand beyond the main South Asian centres."
+  - "In week 04 of 2026, newbuilding ordering continued, with VLCCs for Greek owners at USD 120 million per unit for 306,000 dwt vessels and LR2s at USD 86 million per unit for 157,000 dwt specifications."
+faq:
+  - q: "What were the main tanker sales in week 04 of 2026?"
+    a: "A Newcastlemax sold for USD 74 million to Korean interests and an Aframax for USD 35.5 million to Chinese interests. Product tanker activity was wide, with LR1s at USD 10.2 million and USD 13.5 million, MRs from USD 10 million to USD 31 million, and a chemical tanker at USD 14 million."
+  - q: "How did the dry bulk secondhand market move in week 04 of 2026?"
+    a: "Activity was broad across all sizes. Capesize held range-bound at USD 31.5 million to USD 32 million for 2011 and 2012 tonnage, Kamsarmax ran from USD 16.8 million to USD 20 million, and a 2025-built scrubber-fitted Ultramax reached USD 34 million."
+  - q: "What were ship recycling prices in week 04 of 2026?"
+    a: "Demolition demand stayed steady. Pakistan was firm at USD 412 per ldt, Bangladesh and India were competitive at USD 398 and USD 412 per ldt for transacted tonnage, and Turkey offered USD 270 to USD 280 per ldt. A bulker yard in Oman took tonnage at USD 398 per ldt."
+  - q: "What newbuilding orders were placed in week 04 of 2026?"
+    a: "VLCC newbuildings proceeded for Greek owners at USD 120 million per unit for 306,000 dwt vessels, and LR2s drew orders at USD 86 million per unit for 157,000 dwt specifications. Dry bulk newbuilding favoured Japanese yards for modern Capesize at undisclosed pricing."
 ---
 
 Week 04 demonstrated measured activity across both tanker and dry bulk secondhand and newbuilding markets, with demolition demand providing steady support for older vessels across multiple Asian recycling centers. Transaction volumes remained consistent with historical patterns for the period, reflecting equilibrium between buyer interest and available tonnage.

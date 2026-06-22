@@ -5,6 +5,21 @@ date: 2026-03-26
 description: "Weekly market summary of S&P transactions, newbuilding contracting, and demolition activity across dry bulk and tanker segments for Week 12."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report, shipping-market, vessels]
 image: /assets/img/covers/2026-w12-cover.png
+key_points:
+  - "In week 12 of 2026, modern Suezmax tonnage was in demand, with Aegean Vision, Silverway and Aegean Marathon, all 2016 and 2017-built, trading at USD 82 million each to Sinokor."
+  - "Tanker sales in week 12 of 2026 also included the 2006-built VLCC Seasilk at USD 57 million after scrubber retrofit and the 2009-built Suezmax Libera at USD 43.5 million to Greek buyers."
+  - "Dry bulk pricing held firm in week 12 of 2026, with a 2005-built Capesize, Aliado, to Chinese buyers at USD 19 million, a modern 170,000 dwt unit, Squireship, at USD 29.5 million, and a 2022-built Kamsarmax, Gia Inspiration, at USD 33.3 million."
+  - "Demolition stayed steady in week 12 of 2026, with tankers firm and bulkers at USD 390-410 per LDT across the subcontinent, while a container unit, Kokopo Chief, fetched USD 465 per ldt to India."
+  - "Newbuilding prices held in week 12 of 2026, with VLCCs near USD 129.2 million, Suezmaxes at USD 87.7 million, and Capesizes around USD 75 million."
+faq:
+  - q: "What were the main tanker sales in week 12 of 2026?"
+    a: "Sinokor took three modern 157,000 to 158,000 dwt Suezmaxes, Aegean Vision, Silverway and Aegean Marathon, at USD 82 million each. The 2006-built VLCC Seasilk sold at USD 57 million and the 2009-built Suezmax Libera at USD 43.5 million to Greek buyers."
+  - q: "How did the dry bulk secondhand market move in week 12 of 2026?"
+    a: "Pricing held firm. The 2005-built Capesize Aliado went to Chinese buyers at USD 19 million and the modern Squireship at USD 29.5 million. Kamsarmax sold from USD 17.5 million to USD 33.3 million for the 2022-built Gia Inspiration."
+  - q: "What were ship recycling prices in week 12 of 2026?"
+    a: "Bulker pricing held steady at USD 390 per LDT in India, USD 410 in Bangladesh, USD 405 in Pakistan and USD 270 in Turkey. Tankers were firm, with Bangladesh at USD 430-445 per ldt, and a container unit reached USD 465 per ldt to India."
+  - q: "What newbuilding prices applied in week 12 of 2026?"
+    a: "VLCC newbuildings held near USD 129.2 million, Suezmaxes around USD 87.7 million, Aframaxes at USD 75.7 million and MR2 product tankers at USD 49.7 million. Capesizes were about USD 75 million and Kamsarmaxes USD 36.5 million."
 ---
 
 The secondhand vessel market recorded steady transaction flow across both dry bulk and tanker segments in Week 12, with price momentum holding firm in the larger bulker classes and continued demand for modern tanker tonnage from Asian shipowners.
