@@ -471,7 +471,7 @@ footer.main-footer nav.footer-nav ul li a{
 .site-hero{
 	height: 850px;
 	width: 100%;
-	background: #fff url("../img/site-hero.jpg") no-repeat;
+	background: #d3d8dc url("../img/site-hero.jpg") no-repeat center center;
 	background-size: cover;
 	position: relative;
 	overflow: hidden;
@@ -499,7 +499,7 @@ footer.main-footer nav.footer-nav ul li a{
 	display: inline-block;
 }
 .site-hero .big-title{
-	font-size: 42px;
+	font-size: clamp(24px, 6vw, 42px);
 	color:#60606e;
 	padding: 10px 40px;
 	border:solid 10px #60606e;
@@ -508,6 +508,7 @@ footer.main-footer nav.footer-nav ul li a{
 }
 .site-hero p{
 	width: 50%;
+	max-width: 600px;
 	margin: 0 auto;
 	color:#60606e;
 }
@@ -551,7 +552,10 @@ footer.main-footer nav.footer-nav ul li a{
 	margin: 0 auto 30px;
 }
 @media (max-width: 991px) {
-	.site-hero ul.slides{height: 750px;}
+	.site-hero{height: 80vh; min-height: 540px;}
+	.site-hero ul.slides{top: 0; height: 100%;}
+	.site-hero .big-title{padding: 8px 22px; border-width: 6px; margin-bottom: 22px;}
+	.site-hero p{width: 86%;}
 	.agency{margin-top: 30px;}
 	.agency img{margin-bottom: 30px;}
 	.agency .section-title{margin: 0 auto;text-align: center;}
