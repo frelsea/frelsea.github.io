@@ -9,6 +9,8 @@ image: /assets/img/covers/insight-ship-values-cover.png
 
 Anyone who has bought or sold tonnage knows the price of a ten-year-old bulker is not a single number. It moves with the newbuilding market, with freight, with the cost of money, and with whatever shock happens to be in the headlines that quarter. What is less obvious is how these forces rank, and how long each one lasts. Sorting that out is the difference between paying a fair price and paying the top of a cycle.
 
+{% include secondhand-premium-chart.html %}
+
 ## Replacement cost is the anchor
 
 Over a full cycle, second-hand values are tied to newbuilding prices. The logic is simple. A buyer can always order a new ship instead of buying an existing one, so the cost of ordering sets the level that resale prices are measured against. When the yards raise prices, second-hand values follow. When newbuilding prices soften, the floor under resale values drops with them.
@@ -24,8 +26,6 @@ Replacement cost explains where values sit over the long run. It does not explai
 When time-charter rates rise, buyers are willing to pay more for a ship they can put to work today rather than wait two or three years for a newbuilding slot. That willingness to pay shows up as a premium of second-hand prices over newbuilding prices. In a strong freight market the premium widens, sometimes to the point where a modern resale changes hands above the cost of ordering new. In a weak market it compresses, and buyers hold off.
 
 The earnings effect is real but smaller than most people assume in the heat of a strong market. A jump in charter rates lifts asset values, but not one for one, and it lifts them with a lag of about a month, because the freight market moves faster than the S&P market digests it. The headline rate prints first, and the deals follow a few weeks later.
-
-{% include secondhand-premium-chart.html %}
 
 ## Age changes the equation
 

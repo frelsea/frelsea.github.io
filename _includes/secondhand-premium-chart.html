@@ -1,148 +1,72 @@
 <div class="fr-viz" id="fr-premium-viz">
   <div class="fr-viz__head">
-    <div class="fr-viz__eyebrow">Interactive</div>
-    <div class="fr-viz__title">Anatomy of the second-hand premium</div>
-    <div class="fr-viz__sub">Second-hand value shown as a share of newbuilding cost (newbuilding = 100). This is an illustrative model, not market data. Move the controls to see how earnings, financing and shocks move the premium, and how long a shock takes to fade.</div>
+    <div class="fr-viz__eyebrow">Model</div>
+    <div class="fr-viz__title">How a second-hand price is set</div>
   </div>
 
   <div class="fr-viz__chart">
-    <svg viewBox="0 0 760 380" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Interactive chart of the second-hand premium over newbuilding"></svg>
+    <svg viewBox="0 0 780 440" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Schematic of how second-hand vessel values track newbuilding cost, flex with the premium, deviate on shocks and revert, with a scrap floor">
+      <defs>
+        <marker id="fr-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M0,0 L10,5 L0,10 z" fill="#999999"></path>
+        </marker>
+      </defs>
+
+      <!-- axes (no scale) -->
+      <line class="fr-axis" x1="58" y1="46" x2="58" y2="362" marker-start="url(#fr-arrow)"></line>
+      <line class="fr-axis" x1="58" y1="362" x2="606" y2="362" marker-end="url(#fr-arrow)"></line>
+      <text class="fr-axis-title" x="50" y="40" text-anchor="end">Value</text>
+      <text class="fr-axis-title" x="600" y="382" text-anchor="end">Time</text>
+
+      <!-- scrap floor -->
+      <line class="fr-floor" x1="60" y1="345" x2="600" y2="345"></line>
+      <text class="fr-lbl-mut" x="608" y="349">Scrap floor</text>
+
+      <!-- newbuilding anchor -->
+      <path class="fr-nb" d="M60,100 C170,82 290,104 410,90 C500,80 560,94 600,89"></path>
+      <text class="fr-lbl-nb" x="608" y="86">Newbuilding</text>
+      <text class="fr-lbl-mut" x="608" y="102">replacement cost</text>
+
+      <!-- anchored trend (where second-hand sits absent shocks) -->
+      <path class="fr-trend" d="M60,190 C170,172 290,194 410,180 C500,170 560,184 600,179"></path>
+
+      <!-- second-hand actual: tracks trend, dips on a shock and reverts, rises on a shock and reverts -->
+      <path class="fr-sh" d="M60,190 L200,184 C245,188 250,255 272,300 C300,300 332,200 365,184 L450,178 C490,176 492,138 512,128 C548,128 565,176 600,178"></path>
+      <text class="fr-lbl-sh" x="608" y="170">Second-hand value</text>
+
+      <!-- premium / discount gap -->
+      <line class="fr-gap" x1="150" y1="93" x2="150" y2="181" marker-start="url(#fr-arrow)" marker-end="url(#fr-arrow)"></line>
+      <line class="fr-leader" x1="150" y1="140" x2="172" y2="250"></line>
+      <text class="fr-lbl" x="176" y="248">Premium / discount</text>
+      <text class="fr-lbl-mut" x="176" y="265">earnings widen it, financing compresses it</text>
+
+      <!-- shock annotations -->
+      <text class="fr-lbl-mut" x="272" y="322" text-anchor="middle">demand / credit shock</text>
+      <text class="fr-lbl-mut" x="512" y="115" text-anchor="middle">rerouting shock</text>
+      <text class="fr-lbl-mut fr-italic" x="408" y="232" text-anchor="middle">shocks fade, value reverts to trend</text>
+    </svg>
   </div>
 
-  <div class="fr-viz__controls">
-    <label class="fr-viz__ctl">
-      <span class="fr-viz__ctl-label">Earnings (1-yr time-charter) <b data-out="earn"></b></span>
-      <input type="range" min="0" max="100" value="55" step="1" data-ctl="earn">
-    </label>
-    <label class="fr-viz__ctl">
-      <span class="fr-viz__ctl-label">Financing (interest rate) <b data-out="rate"></b></span>
-      <input type="range" min="0" max="8" value="3" step="0.5" data-ctl="rate">
-    </label>
-    <label class="fr-viz__ctl">
-      <span class="fr-viz__ctl-label">Mean-reversion half-life <b data-out="half"></b></span>
-      <input type="range" min="2" max="36" value="6" step="1" data-ctl="half">
-    </label>
-    <div class="fr-viz__toggles">
-      <label class="fr-viz__chk"><input type="checkbox" data-ctl="neg" checked> Credit / demand shock</label>
-      <label class="fr-viz__chk"><input type="checkbox" data-ctl="pos" checked> Rerouting shock</label>
-    </div>
-  </div>
-  <div class="fr-viz__note" data-out="note"></div>
+  <div class="fr-viz__note">A schematic with no scale. It shows the relationships, not levels. Second-hand value is anchored to newbuilding cost and sits below it by the premium, which strong earnings widen and higher financing costs compress. A shock pushes value off its anchored trend, then it reverts. Scrap value sets a floor under old tonnage.</div>
 </div>
 
 <style>
 .fr-viz{font-family:"Open sans",sans-serif;color:#60606e;max-width:760px;margin:34px 0;}
 .fr-viz__eyebrow{font-family:"Montserrat",sans-serif;font-weight:700;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#66ccff;margin-bottom:4px;}
-.fr-viz__title{font-family:"Montserrat",sans-serif;font-weight:700;font-size:20px;color:#60606e;line-height:1.2;}
-.fr-viz__sub{font-size:13px;line-height:1.5;color:#999999;margin:8px 0 14px;}
+.fr-viz__title{font-family:"Montserrat",sans-serif;font-weight:700;font-size:20px;color:#60606e;line-height:1.2;margin-bottom:14px;}
 .fr-viz__chart svg{width:100%;height:auto;display:block;}
-.fr-viz .axis path,.fr-viz .axis line{stroke:#e0e0e6;}
-.fr-viz .axis text{fill:#999999;font-size:11px;font-family:"Open sans",sans-serif;}
-.fr-viz .axis-title{fill:#999999;font-size:11px;text-transform:uppercase;letter-spacing:1px;font-family:"Montserrat",sans-serif;font-weight:700;}
-.fr-viz .ref-line{stroke:#60606e;stroke-width:1.5;stroke-dasharray:5 4;opacity:.55;}
-.fr-viz .floor-line{stroke:#999999;stroke-width:1;stroke-dasharray:2 4;}
-.fr-viz .ref-label{fill:#60606e;font-size:11px;font-family:"Open sans",sans-serif;}
-.fr-viz .floor-label{fill:#999999;font-size:11px;font-family:"Open sans",sans-serif;}
-.fr-viz .premium{fill:none;stroke:#66ccff;stroke-width:3;stroke-linejoin:round;}
-.fr-viz .band-neg{fill:#60606e;opacity:.07;}
-.fr-viz .band-pos{fill:#66ccff;opacity:.10;}
-.fr-viz__controls{display:grid;grid-template-columns:1fr 1fr;gap:14px 24px;margin-top:18px;}
-.fr-viz__ctl{display:block;font-size:12px;}
-.fr-viz__ctl-label{display:block;font-family:"Montserrat",sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:.5px;font-size:11px;color:#60606e;margin-bottom:6px;}
-.fr-viz__ctl-label b{color:#66ccff;font-weight:700;}
-.fr-viz__ctl input[type=range]{width:100%;accent-color:#66ccff;cursor:pointer;}
-.fr-viz__toggles{grid-column:1 / -1;display:flex;flex-wrap:wrap;gap:18px;}
-.fr-viz__chk{font-size:12px;color:#60606e;cursor:pointer;}
-.fr-viz__chk input{accent-color:#66ccff;margin-right:6px;cursor:pointer;}
-.fr-viz__note{font-size:12px;line-height:1.5;color:#999999;margin-top:14px;border-top:1px solid #efeff0;padding-top:12px;}
-@media(max-width:600px){.fr-viz__controls{grid-template-columns:1fr;}}
+.fr-viz .fr-axis{stroke:#cfcfd6;stroke-width:1.5;}
+.fr-viz .fr-axis-title{fill:#999999;font-size:11px;text-transform:uppercase;letter-spacing:1px;font-family:"Montserrat",sans-serif;font-weight:700;}
+.fr-viz .fr-floor{stroke:#999999;stroke-width:1;stroke-dasharray:2 4;}
+.fr-viz .fr-nb{fill:none;stroke:#60606e;stroke-width:2.5;}
+.fr-viz .fr-trend{fill:none;stroke:#c4c4cc;stroke-width:1.5;stroke-dasharray:6 5;}
+.fr-viz .fr-sh{fill:none;stroke:#66ccff;stroke-width:3;stroke-linejoin:round;stroke-linecap:round;}
+.fr-viz .fr-gap{stroke:#999999;stroke-width:1.2;}
+.fr-viz .fr-leader{stroke:#cfcfd6;stroke-width:1;}
+.fr-viz .fr-lbl{fill:#60606e;font-size:13px;font-family:"Montserrat",sans-serif;font-weight:700;}
+.fr-viz .fr-lbl-nb{fill:#60606e;font-size:13px;font-family:"Montserrat",sans-serif;font-weight:700;}
+.fr-viz .fr-lbl-sh{fill:#3aa6e0;font-size:13px;font-family:"Montserrat",sans-serif;font-weight:700;}
+.fr-viz .fr-lbl-mut{fill:#999999;font-size:11.5px;font-family:"Open sans",sans-serif;}
+.fr-viz .fr-italic{font-style:italic;}
+.fr-viz__note{font-size:12px;line-height:1.55;color:#999999;margin-top:8px;border-top:1px solid #efeff0;padding-top:12px;}
 </style>
-
-<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-<script>
-(function(){
-  var root = document.getElementById('fr-premium-viz');
-  if(!root || typeof d3 === 'undefined') return;
-
-  var W=760, H=380, m={t:18, r:118, b:46, l:46};
-  var iw=W-m.l-m.r, ih=H-m.t-m.b, T=120;
-
-  var svg=d3.select(root).select('svg');
-  var g=svg.append('g').attr('transform','translate('+m.l+','+m.t+')');
-  var x=d3.scaleLinear().domain([0,T]).range([0,iw]);
-  var y=d3.scaleLinear().domain([60,120]).range([ih,0]);
-
-  // event windows
-  var negT0=24, negM=-20, posT0=72, posM=14, floor=72;
-  var state={earn:55, rate:3, half:6, neg:true, pos:true};
-
-  function target(){ return 80 + (state.earn/100)*35 - state.rate*1.5; }
-  function shock(t,t0,M){ return t>=t0 ? M*Math.pow(0.5,(t-t0)/state.half) : 0; }
-  function series(){
-    var tgt=target(), arr=[];
-    for(var t=0;t<=T;t++){
-      var v=tgt;
-      if(state.neg) v+=shock(t,negT0,negM);
-      if(state.pos) v+=shock(t,posT0,posM);
-      arr.push({t:t, v:Math.max(v,floor)});
-    }
-    return arr;
-  }
-
-  // axes
-  g.append('g').attr('class','axis').attr('transform','translate(0,'+ih+')')
-    .call(d3.axisBottom(x).ticks(6).tickFormat(function(d){return d;}));
-  g.append('g').attr('class','axis').call(d3.axisLeft(y).ticks(6));
-  g.append('text').attr('class','axis-title').attr('x',iw).attr('y',ih+38).attr('text-anchor','end').text('Months');
-  g.append('text').attr('class','axis-title').attr('transform','rotate(-90)').attr('x',0).attr('y',-34).attr('text-anchor','end').text('% of newbuilding');
-
-  // shock bands
-  var bandNeg=g.append('rect').attr('class','band-neg').attr('y',0).attr('height',ih);
-  var bandPos=g.append('rect').attr('class','band-pos').attr('y',0).attr('height',ih);
-
-  // newbuilding reference line at 100
-  g.append('line').attr('class','ref-line').attr('x1',0).attr('x2',iw).attr('y1',y(100)).attr('y2',y(100));
-  g.append('text').attr('class','ref-label').attr('x',iw+6).attr('y',y(100)+4).text('Newbuilding');
-  g.append('text').attr('class','ref-label').attr('x',iw+6).attr('y',y(100)+18).text('= 100');
-  // scrap floor
-  g.append('line').attr('class','floor-line').attr('x1',0).attr('x2',iw).attr('y1',y(floor)).attr('y2',y(floor));
-  g.append('text').attr('class','floor-label').attr('x',iw+6).attr('y',y(floor)+4).text('Scrap floor');
-
-  var line=d3.line().x(function(d){return x(d.t);}).y(function(d){return y(d.v);}).curve(d3.curveMonotoneX);
-  var path=g.append('path').attr('class','premium').attr('d',line(series()));
-
-  function bandWidth(){ return Math.min(2*state.half, T-1); }
-  function render(animate){
-    // bands widen with half-life to show how long a deviation lingers
-    var bw=bandWidth();
-    bandNeg.attr('display',state.neg?null:'none').attr('x',x(negT0)).attr('width',x(negT0+bw)-x(negT0));
-    bandPos.attr('display',state.pos?null:'none').attr('x',x(posT0)).attr('width',x(posT0+bw)-x(posT0));
-    var sel=animate?path.transition().duration(450):path;
-    sel.attr('d',line(series()));
-
-    var tgt=target();
-    var label = tgt>=100 ? 'a premium of '+(tgt-100).toFixed(0)+' points over newbuilding'
-                         : 'a discount of '+(100-tgt).toFixed(0)+' points to newbuilding';
-    var hl = state.half<=8 ? ' This is roughly the post-2018 pace, where deviations close within months.'
-           : state.half>=30 ? ' This is closer to the slow pre-2018 pace, where a deviation could take years to close.'
-           : '';
-    root.querySelector('[data-out="note"]').textContent =
-      'At these settings the market sits around '+label+' before any shock.'+hl;
-  }
-
-  function syncOut(){
-    root.querySelector('[data-out="earn"]').textContent = state.earn<=20?'weak':state.earn>=75?'strong':'mid';
-    root.querySelector('[data-out="rate"]').textContent = state.rate.toFixed(1)+'%';
-    root.querySelector('[data-out="half"]').textContent = state.half+' mo';
-  }
-
-  d3.select(root).selectAll('input[data-ctl]').on('input change',function(){
-    var k=this.getAttribute('data-ctl');
-    if(k==='neg'||k==='pos'){ state[k]=this.checked; }
-    else { state[k]=+this.value; }
-    syncOut(); render(true);
-  });
-
-  syncOut(); render(false);
-})();
-</script>
