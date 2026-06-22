@@ -18,7 +18,7 @@ faq:
   - q: "Why are older ships more volatile in price?"
     a: "More of an older ship's value sits in the next few years of cash flow and less in the decades ahead, so its price is more sensitive to current earnings and less tied to the newbuilding anchor. Scrap value sets a floor as the ship nears the end of its life."
   - q: "Do interest rates affect ship values?"
-    a: "Yes, but at the margin. Higher rates raise the cost of carrying a ship and compress the second-hand premium over newbuilding, since a second-hand ship is paid for now while a newbuilding is paid in instalments. The effect is smaller than earnings or replacement cost."
+    a: "They do, but only at the margin. Higher rates raise the cost of carrying a ship and compress the second-hand premium over newbuilding, since a second-hand ship is paid for now while a newbuilding is paid in instalments. The effect is smaller than earnings or replacement cost."
   - q: "How long do market shocks affect ship prices?"
     a: "Shocks such as the 2008 financial crisis, COVID or the Red Sea rerouting push values away from fundamentals, but the deviations fade. Since around 2018 they have corrected faster, within months where they once took years, helped by better price transparency."
 ---
@@ -29,7 +29,7 @@ A second-hand bulker's price is set by several forces at once: the newbuilding m
 
 ## Replacement cost is the anchor
 
-Over a full cycle, second-hand values are tied to newbuilding prices. The reasoning is straightforward. A buyer can order a new ship instead of acquiring an existing one, so the cost of ordering sets the reference against which resale prices are measured. When yards raise prices, second-hand values follow. When newbuilding prices soften, the level supporting resale values falls with them.
+Over a full cycle, second-hand values are tied to newbuilding prices. A buyer can order a new ship instead of acquiring an existing one, so the cost of ordering sets the reference against which resale prices are measured. When yards raise prices, second-hand values follow; when newbuilding prices soften, the level supporting resale values falls with them.
 
 The relationship is close but less than proportional. A ten or fifteen year old ship trades at a discount to a newbuilding, reflecting its shorter remaining life and older technology. That discount widens and narrows through the cycle, but the link holds. Over time, second-hand prices move almost in step with replacement cost.
 
@@ -37,19 +37,19 @@ The newbuilding curve is therefore the first reference point for where values ar
 
 ## Earnings move the premium
 
-Replacement cost explains where values sit over the long run. It does not explain why prices can rise sharply over a few months and then retrace. That is the role of earnings.
+Replacement cost explains where values sit over the long run. It does not explain why prices can rise sharply over a few months and then retrace; that shorter-run movement is driven by earnings.
 
 When time-charter rates rise, buyers pay more for tonnage that can trade immediately, against a two or three year wait for a newbuilding berth. That willingness to pay appears as a premium of second-hand prices over newbuilding prices. In a strong freight market the premium widens, at times to the point where a modern resale changes hands above the cost of ordering new. In a weak market it compresses, and buying activity slows.
 
-The earnings effect is real but smaller than is often assumed during a strong market. An increase in charter rates lifts asset values, though not one for one, and with a lag of roughly a month, as the freight market adjusts faster than the sale and purchase market. Freight rates move first, and transactions follow.
+The earnings effect is real but smaller than is often assumed during a strong market. An increase in charter rates lifts asset values, though not one for one, and with a lag of roughly a month, as the freight market adjusts faster than the sale and purchase market.
 
-## Age changes the equation
+## Older tonnage behaves differently
 
 A given ship responds differently to the market at different ages. The older the vessel, the more of its value depends on the next few years of cash flow and the less on the decades beyond. Older tonnage is therefore more sensitive to current earnings and less tied to the newbuilding anchor.
 
 This is why a fifteen-year-old bulker can move sharply with the spot and period market while a five-year-old ship of the same type trades more steadily.
 
-It also explains the floor under older tonnage. Scrap value sets a lower bound, and as a ship ages and its trading value approaches its steel value, the scrap price carries more of the valuation. For a young ship, scrap is immaterial. For an old one, it is a meaningful component of value.
+It also explains the floor under older tonnage. Scrap value sets a lower bound, and as a ship ages and its trading value approaches its steel value, the scrap price carries more of the valuation. Scrap is immaterial to a young ship and a meaningful component of value for an old one.
 
 ## Financing and the cost of money
 
@@ -71,7 +71,7 @@ The common feature is that these deviations fade. They are temporary distortions
 
 The measure to monitor is the spread between second-hand and newbuilding prices. That spread, more informative than the second-hand price on its own, is where earnings, financing and sentiment register. It widens when the market is strong and compresses when it weakens, and reverts to its longer-run level over time.
 
-What has changed is the speed of that reversion. Corrections once took years. Since around 2018, with greater price transparency and tighter financing arrangements, deviations close considerably faster, within months where they once took years. A premium that appears stretched will typically correct within the year.
+What has changed is the speed of that reversion. Since around 2018, with greater price transparency and tighter financing arrangements, deviations that once took years now close within months. A premium that appears stretched will typically correct within the year.
 
 This is the discipline that timing an acquisition requires. A vessel acquired when the premium over newbuilding is wide carries genuine downside if the market normalises, even with freight holding up, because the premium itself can unwind. A vessel acquired when values sit at or below their replacement anchor has that anchor in its favour.
 
