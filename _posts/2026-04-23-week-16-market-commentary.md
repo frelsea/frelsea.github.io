@@ -6,11 +6,11 @@ description: "Two Newcastlemaxes sold en bloc at excess $90m and a VLCC changed 
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, lr1, mr, capesize, kamsarmax, ultramax, supramax, handysize]
 image: /assets/img/covers/2026-w16-cover.png
 key_points:
-  - "In week 16 of 2026, the Newcastlemax sisters 'RTM Cartier' and 'RTM Zheng He' (each 205,000 dwt, 2012) sold en bloc to Chinese buyers at excess $90 million each, the headline dry bulk deal of the week."
-  - "In week 16 of 2026, tanker S&P was led by the VLCC 'Kasagisan' (302,478 dwt, 2006) at about $59 million and four LR1 sales ranging from $15.5 million to roughly $22 million."
-  - "In week 16 of 2026, dry bulk values held flat, with the 2019-built Capesize 'Lowlands Spirit' at $65.5 million and two New Dayang Ultramax resales at $36.5 million each."
-  - "In week 16 of 2026, Indian Subcontinent demolition firmed further, with Bangladesh approaching $500 per ldt for larger tonnage and three Norwegian-flagged stainless-steel product tankers sold to Indian breakers at $853 to $965 per ldt."
-  - "In week 16 of 2026, no new dry bulk newbuilding orders were widely reported, while tanker ordering concentrated in VLCCs and Aframaxes."
+  - "Newcastlemax sisters 'RTM Cartier' and 'RTM Zheng He' (each 205,000 dwt, 2012) sold en bloc to Chinese buyers at excess $90 million each."
+  - "Tanker S&P centred on the 2006-built VLCC 'Kasagisan' (302,478 dwt) at about $59 million, with four LR1 sales from $15.5 million to roughly $22 million."
+  - "Dry bulk values held flat, with the 2019-built Capesize 'Lowlands Spirit' at $65.5 million and two New Dayang Ultramax resales at $36.5 million each."
+  - "Demolition firmed further, Bangladesh approaching $500 per ldt for larger tonnage and three Norwegian stainless-steel product tankers to India at $853 to $965 per ldt."
+  - "No new dry bulk newbuilding orders surfaced, while tanker ordering concentrated in VLCCs and Aframaxes."
 faq:
   - q: "What were the main tanker sales in week 16 of 2026?"
     a: "The VLCC 'Kasagisan' sold to Chinese buyers at around $59 million and the scrubber-fitted Suezmax 'Stena Surprise' was confirmed to Greek interests at about $61 million. Four LR1s changed hands between $15.5 million and roughly $22 million."

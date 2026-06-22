@@ -6,11 +6,11 @@ description: "Second-hand valuations held steady week one as traders evaluated g
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
 image: /assets/img/covers/2026-w01-cover.png
 key_points:
-  - "In week 01 of 2026, the two 2007-built VLCCs DHT Europe and DHT China, each around 317,700 dwt, sold en bloc for $101.6 million with a time charter to Exxon at $1.1 million per month running through the first quarter of 2027."
-  - "In week 01 of 2026, the LPG segment was active across the curve, with the 2015-built VLGC Navigare Generosa at $80.0 million and the older 2002-built VLGC Jag Vishnu at $42.0 million."
-  - "In week 01 of 2026, the Capesize Seacon Shanghai, 80,811 dwt and built 2019, traded at $26.7 million, providing a reference point for modern Capesize tonnage."
-  - "In week 01 of 2026, demolition demand firmed, with Bangladesh dry bulk pricing rallying to $700 per LDT from $600, while Turkish yards eased to $350 per LDT for bulkers and $280 for tankers."
-  - "In week 01 of 2026, demo sales included the 1993-built bulker Chang Ming Yang at $380 per LDT into China and the 2005-built general cargo vessel Gold Origin at $330 per LDT."
+  - "Two 2007-built VLCCs, DHT Europe and DHT China (around 317,700 dwt each), went en bloc at $101.6 million with an Exxon charter at $1.1 million per month into Q1 2027."
+  - "LPG traded across the curve: the 2015-built VLGC Navigare Generosa at $80.0 million and the 2002-built Jag Vishnu at $42.0 million."
+  - "Modern Capesize set a reference with the 2019-built Seacon Shanghai, 80,811 dwt, at $26.7 million."
+  - "Bangladesh dry bulk demo rallied to $700 per LDT from $600, while Turkish yards eased to $350 for bulkers and $280 for tankers."
+  - "Demo sales: the 1993-built bulker Chang Ming Yang at $380 per LDT into China, and the 2005-built general cargo Gold Origin at $330 per LDT."
 faq:
   - q: "What were the main tanker sales in week 01 of 2026?"
     a: "The standout deal was the en bloc sale of the 2007-built VLCCs DHT Europe and DHT China for $101.6 million, including an Exxon time charter at $1.1 million per month through Q1 2027. Two VLGCs also sold, Navigare Generosa at $80.0 million and Jag Vishnu at $42.0 million."

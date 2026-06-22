@@ -6,11 +6,11 @@ description: "Suezmax and LR1 sales headlined tanker S&P in Week 14; Capesize an
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, lr1, mr, kamsarmax, supramax, handysize]
 image: /assets/img/covers/2026-w14-cover.png
 key_points:
-  - "In week 14 of 2026, the Suezmax sector led tanker S&P, with the 2006-built 'Seacross' (163,292 dwt) sold at $43.5 million and the 'Cap Felix' and 'Sienna' pair changing hands en bloc at $95 million combined."
-  - "In week 14 of 2026, three LR1 tankers sold, the 'PM Monarch' at $20 million, the 'Shahrazad' in low $20 million and the 'Sea Raker' at $14 million delivered, alongside an Aframax plus LR2 en bloc at $105 million."
-  - "In week 14 of 2026, dry bulk values edged higher for Capesize and Handysize, with a five-year Capesize assessed at $70 million, up from $68 million, and a five-year Handysize at $29 million, up from $27.5 million."
-  - "In week 14 of 2026, Indian Subcontinent demolition firmed as Bangladeshi yards reopened after Eid, with Bangladesh tanker scrap around $445-460 per ldt and the 1996-built bulker 'Ocean Rosemary' sold there at $470 per ldt."
-  - "In week 14 of 2026, Pakistan firmed into the second most competitive recycling market on tighter scrap supply after a suspension of Middle East imports, while Turkey stayed subdued on lira weakness."
+  - "Suezmaxes led tanker S&P: the 2006-built 'Seacross' (163,292 dwt) at $43.5 million, with 'Cap Felix' and 'Sienna' en bloc at $95 million combined."
+  - "Three LR1s sold, the 'PM Monarch' at $20 million down to the 'Sea Raker' at $14 million delivered, plus an Aframax-LR2 pair en bloc at $105 million."
+  - "Capesize and Handysize values edged up, the five-year Capesize to $70 million from $68 million and the Handysize to $29 million from $27.5 million."
+  - "Bangladeshi yards reopened after Eid, lifting tanker scrap to $445-460 per ldt; the 1996-built bulker 'Ocean Rosemary' fetched $470 there."
+  - "Pakistan firmed into the second most competitive recycling market on tighter scrap supply, while a weak lira left Turkey subdued."
 faq:
   - q: "What were the main tanker sales in week 14 of 2026?"
     a: "Suezmax and LR1 sales led the week. The 'Seacross' sold at $43.5 million, the 'Cap Felix' and 'Sienna' went en bloc at $95 million combined, and three LR1s sold between $14 million and $20 million. The Aframax 'Talurex' was paired with the LR2 'Solvante' en bloc at $105 million."

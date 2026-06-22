@@ -6,10 +6,11 @@ description: "Tanker S&P firm despite Hormuz-driven freight moderation. Heavy Ka
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, kamsarmax, ultramax, supramax, handymax]
 image: /assets/img/covers/2026-w20-cover.png
 key_points:
-  - "In week 20 of 2026, tanker S&P stayed firm despite freight moderation from the March peaks; sister VLCCs C. Innovator and C. Progress sold en bloc at USD 120.6 million with time charters attached, and a 2026-built resale VLCC at Hengli went to Trafigura at USD 163 million."
-  - "Dry bulk S&P appetite was strong in week 20 of 2026 as the Baltic Dry Index closed at 3,151 points, up 5.81% on the week; the headline deal was Norden's en bloc purchase of four 2024-built JNS Handymax resales at USD 121 million, or USD 30.25 million each."
-  - "Kamsarmax activity was particularly heavy in week 20 of 2026, with the 2026-built resale Moana at USD 36.5 million and Joy at USD 31 million, while sister Ultramax units Huayang Rose and Huayang Lily sold en bloc to Chinese buyers at USD 50.4 million."
-  - "Indian subcontinent demolition was quiet in week 20 of 2026 as the rupee slid to a historic low near 96 against the dollar and Indian breakers narrowed bulker levels to around USD 415 per ldt; Bangladesh held around USD 460 per ldt for bulkers, with the EU's 20th sanctions package adding resale restrictions on tanker sales to third countries."
+  - "Tanker S&P held firm despite freight easing off the March peaks; sister VLCCs C. Innovator and C. Progress sold en bloc at USD 120.6 million with charters attached."
+  - "A 2026-built resale VLCC at Hengli went to Trafigura at USD 163 million."
+  - "Dry bulk appetite ran strong, the Baltic Dry Index up 5.81% to 3,151; Norden took four 2024-built JNS Handymax resales en bloc at USD 121 million."
+  - "Kamsarmax was busy, the 2026-built resale Moana at USD 36.5 million; Ultramax sisters Huayang Rose and Huayang Lily went en bloc at USD 50.4 million."
+  - "Indian demolition was quiet, the rupee at a record low near 96 holding bulkers around USD 415 per ldt; the EU's 20th sanctions package curbed tanker resales to third countries."
 faq:
   - q: "What were the main tanker sales in week 20 of 2026?"
     a: "VLCCs C. Innovator and C. Progress sold en bloc at USD 120.6 million including charters, and a 2026-built resale VLCC went to Trafigura at USD 163 million. Two Daehan Suezmax resales sold en bloc at USD 190 million to Teekay, the LR2 STI Condotti went in excess of USD 70 million, and TORM took the Horizon Andros and Horizon Syros MR pair en bloc at USD 102 million."

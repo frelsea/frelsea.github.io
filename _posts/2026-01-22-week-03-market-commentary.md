@@ -6,11 +6,11 @@ description: "Week 3 secondhand and newbuilding markets showed broad activity ac
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, vlcc, suezmax, aframax, capesize, kamsarmax]
 image: /assets/img/covers/2026-w03-cover.png
 key_points:
-  - "In week 03 of 2026, Trafigura acquired three modern VLCCs en bloc, taking the 2022-built Spherical for USD 130 million and the 2021-built sisters Hunter and Serendipity for USD 250 million combined."
-  - "In week 03 of 2026, a suite of Front-series VLCCs moved to Korean ownership for USD 831.5 million en bloc, while the 2012-built Delta Angelica and Delta Glory each traded at USD 80 million."
-  - "In week 03 of 2026, dry bulk spanned all classes, with the 2012-built Capesize Mineral Honshu at USD 37.7 million and the 2021-built Nord Palladium at USD 76.25 million setting modern reference levels."
-  - "In week 03 of 2026, demolition prices held steady across South Asia with sparse sales, the 1992-built bulker Dimple achieving USD 388 per ldt in India, while Turkish yards stayed at a discount of USD 270 per ldt."
-  - "In week 03 of 2026, newbuilding ordering continued, including three 300,000 dwt VLCCs from Hanwha Ocean for Omani interests at USD 129.5 million per unit and two 210,000 dwt bulkers from Qingdao Beihai at USD 75 million each."
+  - "Trafigura took three modern VLCCs en bloc: the 2022-built Spherical at USD 130 million and the 2021-built sisters Hunter and Serendipity for USD 250 million combined."
+  - "A block of Front-series VLCCs went to Korean ownership for USD 831.5 million, while the 2012-built Delta Angelica and Delta Glory each fetched USD 80 million."
+  - "Dry bulk covered all classes, with the 2012-built Capesize Mineral Honshu at USD 37.7 million and the 2021-built Nord Palladium at USD 76.25 million setting modern levels."
+  - "Demolition held steady across South Asia on sparse sales; the 1992-built bulker Dimple made USD 388 per ldt in India, with Turkish yards at a USD 270 discount."
+  - "Newbuilding orders included three 300,000 dwt VLCCs from Hanwha Ocean for Omani owners at USD 129.5 million each, plus two 210,000 dwt bulkers from Qingdao Beihai at USD 75 million each."
 faq:
   - q: "What were the main tanker sales in week 03 of 2026?"
     a: "VLCC deals dominated. Trafigura took three modern VLCCs en bloc, paying USD 130 million for the 2022-built Spherical and USD 250 million combined for the 2021-built Hunter and Serendipity, while a block of Front-series VLCCs went to Korean owners for USD 831.5 million."

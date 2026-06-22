@@ -6,10 +6,11 @@ description: "Market overview of secondhand dry bulk and tanker S&P activity, ne
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
 image: /assets/img/covers/2026-w08-cover.png
 key_points:
-  - "In week 08 of 2026, the crude tanker Singapore Spirit, a 318,473 dwt 2013-built VLCC, sold to Sinokor at USD 84.5 million, while product tankers faced overcapacity and downward rate pressure, especially in the AG LR2 segment."
-  - "In week 08 of 2026, dry bulk S&P ran well ahead of the prior year, with 109 bulkers sold across the first seven weeks of 2026 versus 80 in 2025, a 36 percent year-on-year increase."
-  - "In week 08 of 2026, notable dry bulk sales included the Cape Brazil 177,897 dwt 2010-built Capesize at USD 31 million and the Nord Chesapeake, a scrubber-fitted 60,000 dwt Kamsarmax, at USD 25.5 million."
-  - "In week 08 of 2026, no demolition transactions were reported, while one-year asset appreciation reached 22 percent for ten-year-old Capesizes and 18 to 19 percent for mid-size tonnage."
+  - "Crude tanker Singapore Spirit, a 2013-built 318,473 dwt VLCC, sold to Sinokor at USD 84.5 million."
+  - "Product tankers faced overcapacity and downward rate pressure, sharpest in the AG LR2 segment."
+  - "Dry bulk S&P ran well ahead of last year: 109 bulkers sold across the first seven weeks versus 80 in 2025, up 36 percent."
+  - "Capesize Cape Brazil, a 2010-built 177,897 dwt unit, fetched USD 31 million, and the scrubber-fitted 60,000 dwt Kamsarmax Nord Chesapeake went for USD 25.5 million."
+  - "No demolition was reported; one-year appreciation hit 22 percent for ten-year-old Capesizes and 18 to 19 percent for mid-size tonnage."
 faq:
   - q: "What were the main tanker sales in week 08 of 2026?"
     a: "The Singapore Spirit, a 318,473 dwt 2013-built VLCC, changed hands to Sinokor at USD 84.5 million. Crude carriers drew strong inquiry against tight tonnage lists, while product tankers, particularly AG LR2 units, struggled with overcapacity and softer rates."

@@ -6,11 +6,11 @@ description: "Dry bulk secondhand activity surged in Week 22 with Capesize and U
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, market-report]
 image: /assets/img/covers/2026-w22-cover.png
 key_points:
-  - "In week 22 of 2026, tanker freight corrected as the Strait of Hormuz remained closed to commercial transit, leaving Arabian Gulf volumes depressed and VLCC activity thin."
-  - "In week 22 of 2026, Scorpio Tankers sold four 2014/2015-built LR2s en bloc for a reported USD 258.8 million, around USD 64.7 million per vessel, while the 2002-built VLCC Abie changed hands at around USD 41.5 million."
-  - "In week 22 of 2026, dry bulk secondhand had one of its busiest weeks of the year, led by the scrubber-fitted 2016 Capesize Ehime Queen at USD 57.5 million and two SWS-built Capesize sisters sold en bloc for USD 60 million."
-  - "In week 22 of 2026, recycling was subdued as Eid al-Adha holidays constrained Bangladesh and Pakistan, with Gadani at a near standstill, while India drew interest on a firmer rupee, sitting around USD 414/LDT for bulkers."
-  - "In week 22 of 2026, the OFAC granted cash buyer GMS specific licenses to acquire and recycle four sanctioned container vessels, though banking gridlock continued to limit practical beaching."
+  - "Tanker freight corrected with the Strait of Hormuz closed to commercial transit, leaving Arabian Gulf volumes depressed and VLCC activity thin."
+  - "Scorpio Tankers sold four 2014/2015-built LR2s en bloc at a reported USD 258.8 million, around USD 64.7 million each; the 2002 VLCC Abie went at USD 41.5 million."
+  - "Dry bulk secondhand had one of its busiest weeks, led by 2016 scrubber-fitted Capesize Ehime Queen at USD 57.5 million and two SWS Capesize sisters en bloc at USD 60 million."
+  - "Eid al-Adha holidays subdued recycling, with Gadani near standstill; India drew interest on a firmer rupee at around USD 414/LDT for bulkers."
+  - "OFAC granted cash buyer GMS licenses to acquire and recycle four sanctioned container vessels, though banking gridlock still limited practical beaching."
 faq:
   - q: "What were the main tanker sales in week 22 of 2026?"
     a: "Scorpio Tankers sold four 2014/2015-built LR2s en bloc for a reported USD 258.8 million, about USD 64.7 million each. The 2002-built VLCC Abie sold at around USD 41.5 million, Hellas Fighter went to a Greek buyer at USD 39.25 million, and Hans Maersk cleared at USD 21 million."

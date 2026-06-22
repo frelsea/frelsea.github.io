@@ -6,10 +6,11 @@ description: "Week 7 secondhand market review: Capesize values reach 18-year hig
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report, secondary-market, vessel-values]
 image: /assets/img/covers/2026-w07-cover.png
 key_points:
-  - "In week 07 of 2026, VLCC values held at USD 86.5-89 million, with Sinokor taking the scrubber-fitted sisters 'Ilma' and 'Ingrid' at USD 89 million each and the 'Eagle Varna' at USD 86.5 million."
-  - "In week 07 of 2026, Capesize values reached their highest since 2008, with the 'Star Scarlett' 175,649 dwt 2014-built to Chinese interests at USD 36 million and the 'Michalis H' 180,355 dwt 2012-built at USD 35.2 million with timecharter attached."
-  - "In week 07 of 2026, Suezmaxes firmed as the 2022-built sisters 'Emeraldway' and 'Sunriseway' sold to Greek interests at USD 88 million each, and Aframax sisters 'FS Diligence' and 'FS Endeavor' traded to Greek buyers at USD 86 million each."
-  - "In week 07 of 2026, demolition stayed constrained as owners deferred scrapping, with Indian bulk carrier scrap at USD 410-430 per ldt and tanker scrap near USD 450 per ldt, while Turkey offered USD 280-300 per ldt."
+  - "VLCC values held at USD 86.5 to 89 million, with Sinokor taking scrubber-fitted sisters 'Ilma' and 'Ingrid' at USD 89 million each and 'Eagle Varna' at USD 86.5 million."
+  - "Capesize hit its highest since 2008: the 2014-built 175,649 dwt 'Star Scarlett' to Chinese interests at USD 36 million, the 2012-built 'Michalis H' at USD 35.2 million with timecharter attached."
+  - "Suezmaxes firmed as 2022-built sisters 'Emeraldway' and 'Sunriseway' sold to Greek interests at USD 88 million each."
+  - "Aframax sisters 'FS Diligence' and 'FS Endeavor' traded to Greek buyers at USD 86 million each."
+  - "Demolition stayed constrained as owners deferred scrapping: Indian bulk scrap at USD 410 to 430 per ldt, tanker scrap near USD 450, Turkey at USD 280 to 300."
 faq:
   - q: "What were the main tanker sales in week 07 of 2026?"
     a: "Sinokor acquired the VLCC sisters 'Ilma' and 'Ingrid' at USD 89 million each and the 'Eagle Varna' at USD 86.5 million. Greek buyers took the Suezmax sisters 'Emeraldway' and 'Sunriseway' at USD 88 million each and the Aframax sisters 'FS Diligence' and 'FS Endeavor' at USD 86 million each."

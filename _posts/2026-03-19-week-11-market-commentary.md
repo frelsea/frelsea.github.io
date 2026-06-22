@@ -6,10 +6,10 @@ description: "Middle East conflict disrupted tanker logistics while dry bulk saw
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, week-11, 2026]
 image: /assets/img/covers/2026-w11-cover.png
 key_points:
-  - "In week 11 of 2026, tanker S&P stayed modest, with a single 2011-built 320,000 dwt VLCC, the Long Wind, committed at USD 68 million and a 2018-built Aframax, the Green Attitude, at USD 71 million to Greek interests."
-  - "Dry bulk saw moderate activity in week 11 of 2026, including a 2005-built Capesize, the Aliado, at USD 20 million and a 2021-built Ultramax, the Ability, at USD 37 million."
-  - "Demolition firmed across South Asia in week 11 of 2026, with tanker scrap reaching USD 445-460 per LDT in Bangladesh, as the Middle East conflict pushed tonnage toward Indian and Bangladeshi yards."
-  - "Newbuilding prices held steady in week 11 of 2026, with VLCCs near USD 122 million and Suezmaxes at USD 81.5 million, alongside orders for 158,000 and 157,000 dwt tankers at USD 89.5 million each to Greek interests."
+  - "Tanker S&P stayed thin, with the 2011-built 320,000 dwt VLCC Long Wind at USD 68 million and the 2018-built Aframax Green Attitude to Greeks at USD 71 million."
+  - "Dry trading was moderate, including the 2005-built Capesize Aliado at USD 20 million and the 2021-built Ultramax Ability at USD 37 million."
+  - "Demolition firmed across South Asia, tanker scrap reaching USD 445-460 per LDT in Bangladesh as the Middle East conflict pushed tonnage to Indian and Bangladeshi yards."
+  - "Newbuilding prices held, VLCCs near USD 122 million and Suezmaxes at USD 81.5 million, with 158,000 and 157,000 dwt tankers ordered at USD 89.5 million each to Greeks."
 faq:
   - q: "What were the main tanker sales in week 11 of 2026?"
     a: "Activity was limited. The Long Wind, a 2011-built 320,000 dwt scrubber-fitted VLCC, committed at USD 68 million, the 2018-built Aframax Green Attitude sold to Greek interests at USD 71 million, and the 2010-built MR2 RUI FU XING traded at USD 22 million."

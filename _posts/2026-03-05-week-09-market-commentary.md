@@ -7,11 +7,11 @@ categories: [market-analysis]
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, shipping-markets]
 image: /assets/img/covers/2026-w09-cover.png
 key_points:
-  - "In week 09 of 2026, crude tanker freight surged on Middle East escalation, with VLCC TD3C climbing from WS163 to WS217 and Suezmax TD20 firming from WS164 to WS211-220."
-  - "Tanker secondhand values rose in week 09 of 2026, with a 300,000 DWT 2006-built VLCC achieving USD 51-52 million and modern MR2 2020-built units holding at USD 44 million."
-  - "Dry bulk freight firmed across the board in week 09 of 2026, with Capesize C5TC closing at USD 24,211/day, Panamax P5TC at USD 17,481/day, and Supramax S11TC up USD 2,300 to USD 16,915/day."
-  - "Dry secondhand values were firm in week 09 of 2026, with a 81,000 DWT 2014-built Kamsarmax at USD 26.8 million and a 63,000 DWT 2014-built Ultramax at USD 23 million."
-  - "Demolition was quiet in week 09 of 2026, with tanker scrap at about USD 410-430 per LDT in India and Bangladesh and Turkish yards near USD 280/LDT, as firm freight kept owners from recycling."
+  - "Middle East escalation drove crude freight higher: VLCC TD3C jumped WS163 to WS217, Suezmax TD20 firmed to WS211-220."
+  - "Tanker values climbed, with a 2006-built 300,000 DWT VLCC at USD 51-52 million and modern 2020-built MR2s steady at USD 44 million."
+  - "Dry freight firmed across sizes. Capesize C5TC closed at USD 24,211/day, Panamax P5TC at USD 17,481/day, Supramax S11TC up USD 2,300 to USD 16,915/day."
+  - "On the dry sale front, a 2014-built 81,000 DWT Kamsarmax fetched USD 26.8 million and a 2014-built 63,000 DWT Ultramax USD 23 million."
+  - "Demolition stayed quiet, tanker scrap near USD 410-430 per LDT in India and Bangladesh, Turkey around USD 280, as firm freight deterred recycling."
 faq:
   - q: "What drove the tanker market in week 09 of 2026?"
     a: "Renewed Middle East escalation and constrained compliant tonnage pushed VLCC TD3C from WS163 to WS217, with some fixtures beyond WS225. Suezmax and Aframax rates rose in parallel, and AG LR2s posted their strongest week in 18 months."

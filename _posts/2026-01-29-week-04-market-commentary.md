@@ -6,11 +6,11 @@ description: "Week 04 secondhand and newbuilding markets for tankers and dry bul
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, market-report]
 image: /assets/img/covers/2026-w04-cover.png
 key_points:
-  - "In week 04 of 2026, a Newcastlemax tanker sold for USD 74 million to Korean interests, in line with comparable modern vessels at USD 73.6 million in preceding weeks, while an Aframax traded at USD 35.5 million to Chinese interests."
-  - "In week 04 of 2026, product tanker activity was broad, with LR1 sales at USD 10.2 million and USD 13.5 million, MR sales ranging from USD 10 million to USD 31 million, and a chemical tanker at USD 14 million."
-  - "In week 04 of 2026, Capesize sales held range-bound at USD 31.5 million to USD 32 million for 2011 and 2012 tonnage, while a 2025-built scrubber-fitted Ultramax reached USD 34 million."
-  - "In week 04 of 2026, demolition demand stayed steady, with Pakistan firm at USD 412 per ldt and a bulker yard in Oman accepting tonnage at USD 398 per ldt, extending recycling demand beyond the main South Asian centres."
-  - "In week 04 of 2026, newbuilding ordering continued, with VLCCs for Greek owners at USD 120 million per unit for 306,000 dwt vessels and LR2s at USD 86 million per unit for 157,000 dwt specifications."
+  - "A Newcastlemax tanker sold to Korean interests at USD 74 million, near the USD 73.6 million seen in prior weeks, while an Aframax went to Chinese buyers at USD 35.5 million."
+  - "Product tankers traded widely: LR1s at USD 10.2 million and USD 13.5 million, MRs from USD 10 million to USD 31 million, and a chemical tanker at USD 14 million."
+  - "Capesize held range-bound at USD 31.5 million to USD 32 million for 2011 and 2012 tonnage, while a 2025-built scrubber-fitted Ultramax reached USD 34 million."
+  - "Demolition demand stayed steady, with Pakistan firm at USD 412 per ldt and an Oman bulker yard taking tonnage at USD 398 per ldt beyond the main South Asian centres."
+  - "Newbuilding continued, with 306,000 dwt VLCCs for Greek owners at USD 120 million each and 157,000 dwt LR2s at USD 86 million each."
 faq:
   - q: "What were the main tanker sales in week 04 of 2026?"
     a: "A Newcastlemax sold for USD 74 million to Korean interests and an Aframax for USD 35.5 million to Chinese interests. Product tanker activity was wide, with LR1s at USD 10.2 million and USD 13.5 million, MRs from USD 10 million to USD 31 million, and a chemical tanker at USD 14 million."

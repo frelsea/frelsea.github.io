@@ -6,10 +6,11 @@ description: "Suezmax resales up 21% YoY to $175m and Aframax up 20% to $88.8m i
 tags: [dry-bulk, tankers, s-and-p, demolition, newbuilding, capesize, suezmax, aframax, mr, lr2, kamsarmax, ultramax, vlcc]
 image: /assets/img/covers/2026-w17-cover.png
 key_points:
-  - "In week 17 of 2026, tanker secondhand values posted strong year-on-year gains, with Suezmax resales assessed at $175 million (up 21%) and Aframax resales at $88.8 million (up 20%); two 2026-built Suezmax resales sold at $120 million each to Greek buyers and three 2014-built Aframax units went en bloc at $195 million."
-  - "Dry bulk asset values rose across all size classes in week 17 of 2026, with five-year Capesize at $70.5 million (up 12%) and ten-year Capesize at $54.5 million (up 22%); two 2012-built VLOCs of 205,000 dwt changed hands en bloc for over $90 million to Chinese interests and two 2027-built Ultramax resales sold at $36.5 million each."
-  - "Demolition values were stable at all destinations in week 17 of 2026 with limited enquiry; Indian subcontinent bulker rates ran $440 to $480 per ldt and a 1996-built bulk carrier sold at roughly $439 per ldt to a Bangladeshi buyer, while Turkey remained the lowest-returning market."
-  - "Newbuilding prices edged marginally higher in week 17 of 2026, with eight VLCC-equivalent units ordered at a Chinese yard at $123 million each and four plus two Capesize units ordered at Imabari at $39.2 million each."
+  - "Tanker values jumped year-on-year: Suezmax resales at $175 million (up 21%), Aframax resales at $88.8 million (up 20%)."
+  - "Two 2026-built Suezmax resales went to Greek buyers at $120 million each, and three 2014-built Aframaxes traded en bloc at $195 million."
+  - "Dry bulk firmed, five-year Capesize at $70.5 million (up 12%) and ten-year at $54.5 million (up 22%); two 2012-built VLOCs went en bloc above $90 million."
+  - "Demolition held steady on thin enquiry, Indian subcontinent bulkers at $440 to $480 per ldt and Turkey the weakest market."
+  - "Newbuilding nudged up: eight VLCC-equivalents at a Chinese yard at $123 million each, plus four-plus-two Capesizes at Imabari at $39.2 million each."
 faq:
   - q: "What were the main tanker sales in week 17 of 2026?"
     a: "Two 2026-built Suezmax resales sold at $120 million each to Greek buyers, a pair of 2014-built Suezmaxes went en bloc for $140 million, three 2014-built Aframax units traded en bloc at $195 million, and a 2006-built VLCC of 302,000 dwt sold for $60 million. MR2 activity was broad, including three 2014-built Korean units en bloc at $105 million to Turkish interests."

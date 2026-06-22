@@ -6,11 +6,11 @@ description: "Weekly market summary of S&P transactions, newbuilding contracting
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report, shipping-market, vessels]
 image: /assets/img/covers/2026-w12-cover.png
 key_points:
-  - "In week 12 of 2026, modern Suezmax tonnage was in demand, with Aegean Vision, Silverway and Aegean Marathon, all 2016 and 2017-built, trading at USD 82 million each to Sinokor."
-  - "Tanker sales in week 12 of 2026 also included the 2006-built VLCC Seasilk at USD 57 million after scrubber retrofit and the 2009-built Suezmax Libera at USD 43.5 million to Greek buyers."
-  - "Dry bulk pricing held firm in week 12 of 2026, with a 2005-built Capesize, Aliado, to Chinese buyers at USD 19 million, a modern 170,000 dwt unit, Squireship, at USD 29.5 million, and a 2022-built Kamsarmax, Gia Inspiration, at USD 33.3 million."
-  - "Demolition stayed steady in week 12 of 2026, with tankers firm and bulkers at USD 390-410 per LDT across the subcontinent, while a container unit, Kokopo Chief, fetched USD 465 per ldt to India."
-  - "Newbuilding prices held in week 12 of 2026, with VLCCs near USD 129.2 million, Suezmaxes at USD 87.7 million, and Capesizes around USD 75 million."
+  - "Modern Suezmaxes drew Asian demand: Aegean Vision, Silverway and Aegean Marathon, all 2016 and 2017-built, went to Sinokor at USD 82 million each."
+  - "Other tanker deals included the 2006-built VLCC Seasilk at USD 57 million post-scrubber retrofit and the 2009-built Suezmax Libera to Greeks at USD 43.5 million."
+  - "Dry pricing held firm, with the Capesize Aliado at USD 19 million, the modern Squireship at USD 29.5 million and the 2022-built Kamsarmax Gia Inspiration at USD 33.3 million."
+  - "Demolition stayed steady, tankers firm and bulkers at USD 390-410 per LDT across the subcontinent, while the container unit Kokopo Chief reached USD 465 per ldt to India."
+  - "Newbuilding prices held, VLCCs near USD 129.2 million, Suezmaxes at USD 87.7 million, and Capesizes around USD 75 million."
 faq:
   - q: "What were the main tanker sales in week 12 of 2026?"
     a: "Sinokor took three modern 157,000 to 158,000 dwt Suezmaxes, Aegean Vision, Silverway and Aegean Marathon, at USD 82 million each. The 2006-built VLCC Seasilk sold at USD 57 million and the 2009-built Suezmax Libera at USD 43.5 million to Greek buyers."

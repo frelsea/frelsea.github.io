@@ -6,11 +6,11 @@ description: "Week 23 2026 shipping market report: handysize and small tanker sa
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
 image: /assets/img/covers/2026-w23-cover.png
 key_points:
-  - "In week 23 of 2026, crude S&P was quiet at the top end, with one 297,000 dwt VLCC built 2011 and scrubber fitted sold to Korean buyers at USD 82 million for first-quarter 2027 delivery."
-  - "In week 23 of 2026, tanker activity was heavier at the small end, with a pair of roughly 20,000 dwt stainless steel chemical tankers sold together for around USD 23 million with charters attached."
-  - "In week 23 of 2026, handysize was the most active dry segment, led by a pair of 2017-built open hatch box-shaped units at USD 22 million each, while a 2024-built Kamsarmax resale fetched USD 42.7 million."
-  - "In week 23 of 2026, recycling traded firm but starved of tonnage after Eid and into the approaching monsoon, with Bangladesh and Pakistan firmest and India close behind on a recovering rupee."
-  - "In week 23 of 2026, tanker newbuilding concentrated the spending, with a Greek owner signing for twelve 307,000 dwt VLCCs at a Chinese yard at about USD 123 million each, an order worth close to USD 1.5 billion."
+  - "Crude S&P was quiet up top, with a 2011-built scrubber-fitted 297,000 dwt VLCC to Korean buyers at USD 82 million for Q1 2027 delivery."
+  - "Small tankers carried activity: a pair of roughly 20,000 dwt stainless steel chemical units sold together at around USD 23 million with charters attached."
+  - "Handysize led the dry market, with two 2017-built open-hatch boxshapes at USD 22 million each, while a 2024-built Kamsarmax resale fetched USD 42.7 million."
+  - "Recycling traded firm but starved of tonnage after Eid and into the monsoon, Bangladesh and Pakistan firmest with India close on a recovering rupee."
+  - "Tanker newbuilding took the spending: a Greek owner signed twelve 307,000 dwt VLCCs at a Chinese yard near USD 123 million each, close to USD 1.5 billion."
 faq:
   - q: "What were the main tanker sales in week 23 of 2026?"
     a: "A 297,000 dwt VLCC built 2011 and scrubber fitted sold to Korean buyers at USD 82 million for first-quarter 2027 delivery. At the small end, a pair of around 20,000 dwt stainless steel chemical tankers sold together for around USD 23 million with charters attached, and a 14,000 dwt coated tanker went to Vietnamese buyers at USD 10.5 million."

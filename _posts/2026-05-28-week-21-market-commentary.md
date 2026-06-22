@@ -6,11 +6,11 @@ description: "Week 21 saw heavy MR resale activity, Teekay take a Suezmax pair, 
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, mr2, suezmax, kamsarmax, handysize]
 image: /assets/img/covers/2026-w21-cover.png
 key_points:
-  - "In week 21 of 2026, the MR2 segment led tanker S&P, with four CS-series 50,000 dwt resales sold en bloc to Greek interests at USD 198 million with twelve-month charters attached, and a Las Palmas VLCC resale going to Trafigura at USD 163 million."
-  - "In week 21 of 2026, Teekay Tankers took two 158,000 dwt Suezmax resales, Olympic Star and Daehan 5118, at USD 95 million each."
-  - "In week 21 of 2026, dry bulk was led by Norden's en bloc purchase of four 40,547 dwt Handysize newbuilds at USD 122 million for the package, or USD 30.5 million per vessel, with heavy Kamsarmax and Ultramax turnover alongside."
-  - "In week 21 of 2026, Subcontinent recycling held a stable tone ahead of the June monsoon, with India at USD 415-460/LDT, Bangladesh at USD 410-474/LDT and Pakistan at USD 425-455/LDT for dry tonnage, while the tanker Maymei sold at USD 510/LDT to Chattogram."
-  - "In week 21 of 2026, newbuilding activity ran heavy, with United Overseas Group ordering six firm plus four optional 319,000 dwt VLCCs at Wison New Energies at USD 125 million each, and cash buyer GMS securing an OFAC license to recycle four US-sanctioned containerships."
+  - "MR2 led tanker S&P: four CS-series 50,000 dwt resales en bloc to Greek interests at USD 198 million with 12-month charters attached."
+  - "Trafigura took the Las Palmas VLCC resale at USD 163 million, and Teekay added two 158,000 dwt Suezmax resales at USD 95 million each."
+  - "Norden bought four 40,547 dwt Handysize newbuilds en bloc at USD 122 million, USD 30.5 million per vessel, with heavy Kamsarmax and Ultramax turnover."
+  - "Subcontinent recycling held steady before the monsoon: India USD 415-460/LDT, Bangladesh USD 410-474/LDT, Pakistan USD 425-455/LDT for dry tonnage."
+  - "Newbuilding ran heavy, led by United Overseas Group ordering six firm plus four optional 319,000 dwt VLCCs at Wison New Energies at USD 125 million each."
 faq:
   - q: "What were the main tanker sales in week 21 of 2026?"
     a: "Four CS-series 50,000 dwt MR2 resales sold en bloc to Greek interests at USD 198 million with charters attached. STI Condotti, a 2014 LR2, sold by Scorpio Tankers in excess of USD 70 million. The Las Palmas VLCC resale went to Trafigura at USD 163 million, and Teekay took two Suezmax resales at USD 95 million each."

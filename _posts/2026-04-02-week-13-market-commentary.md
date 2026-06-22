@@ -6,11 +6,11 @@ description: "Sinokor acquired four Suezmaxes at $82m each and a VLCC at $78.4m 
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, mr, capesize, kamsarmax, ultramax, handysize]
 image: /assets/img/covers/2026-w13-cover.png
 key_points:
-  - "In week 13 of 2026, Korean buyer Sinokor bought a block of four Suezmaxes at $82 million each and the scrubber-fitted VLCC 'Kondor' (296,714 dwt, 2012) at $78.4 million, the standout tanker deals of the week."
-  - "In week 13 of 2026, dry bulk traded across all sizes, with the 2011-built Capesize 'Frontier Garland' (181,480 dwt) sold to Greek buyers at $36.6 million and a 2022-built wide-beam Post-Panamax of 85,035 dwt at $33.3 million."
-  - "In week 13 of 2026, Indian Subcontinent demolition prices held firm and Bangladesh took the lead, with tanker scrap quoted around $430-445 per ldt there and dry bulk near $410-420 per ldt."
-  - "In week 13 of 2026, demolition supply stayed limited as strong tanker earnings and positive dry bulk sentiment kept owners from sending tonnage to the beaches."
-  - "In week 13 of 2026, newbuilding ordering was heavy in tankers, including three 320,000 dwt VLCCs at Hanwha Ocean for Greek account at $129 million each for 2029 delivery."
+  - "Sinokor took four Suezmaxes at $82 million each plus the scrubber-fitted 2012-built VLCC 'Kondor' (296,714 dwt) at $78.4 million."
+  - "Dry bulk traded across all sizes: the 2011-built Capesize 'Frontier Garland' to Greek buyers at $36.6 million, a 2022 wide-beam Post-Panamax at $33.3 million."
+  - "Demolition held firm with Bangladesh leading, tanker scrap near $430-445 per ldt and dry bulk around $410-420."
+  - "Limited tonnage reached the beaches as strong tanker earnings and firm dry bulk sentiment kept owners trading."
+  - "Tanker ordering ran heavy, including three 320,000 dwt VLCCs at Hanwha Ocean for Greek account at $129 million each, 2029 delivery."
 faq:
   - q: "What were the main tanker sales in week 13 of 2026?"
     a: "Sinokor acquired four Suezmaxes at $82 million per unit, two of them scrubber fitted, and the scrubber-fitted VLCC 'Kondor' at $78.4 million. MR deals included a 2012-built MR2 at $27.6 million and two older MR1s at $9 million and $10 million."

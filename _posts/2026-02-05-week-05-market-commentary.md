@@ -6,10 +6,11 @@ description: "Market snapshot for Week 05: secondhand tankers reach triple-digit
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, sales-purchase]
 image: /assets/img/covers/2026-w05-cover.png
 key_points:
-  - "In week 05 of 2026, secondhand tanker values reached multi-year highs, with a 300,000 dwt VLCC selling at USD 90 million and a 298,000 dwt 2009-built Suezmax at USD 60 million."
-  - "In week 05 of 2026, dry bulk S&P hit a five-year peak with 71 bulkers sold in January, including a 185,897 dwt 2005-built Capesize at USD 18.5 million and a 58,052 dwt 2014-built Supramax at USD 21.5 million to Greek buyers."
-  - "In week 05 of 2026, demolition values held firm across South Asia, with tanker scrap at USD 410 per ldt in India, USD 430 in Bangladesh and USD 420 in Pakistan, while Turkey sat lower at USD 280 per ldt."
-  - "In week 05 of 2026, newbuilding ordering stayed brisk, with Hengli booking 6+4 VLCCs of 306,000 dwt at USD 120 million each and Seacon ordering 6 Ultramax units of 63,800 dwt at USD 32.8 million each."
+  - "Secondhand tankers hit multi-year highs: a 300,000 dwt VLCC at USD 90 million and a 2009-built 298,000 dwt Suezmax at USD 60 million."
+  - "Dry bulk S&P reached a five-year peak with 71 bulkers sold in January, led by a 2005-built 185,897 dwt Capesize at USD 18.5 million."
+  - "Supramax stayed active, with a 2014-built 58,052 dwt unit to Greek buyers at USD 21.5 million."
+  - "Tanker scrap held firm across South Asia at USD 410 to 430 per ldt, while Turkey sat lower near USD 280 per ldt."
+  - "Newbuilding stayed brisk: Hengli booked 6+4 306,000 dwt VLCCs at USD 120 million each, Seacon 6 Ultramaxes of 63,800 dwt at USD 32.8 million each."
 faq:
   - q: "What were the main tanker sales in week 05 of 2026?"
     a: "A 300,000 dwt VLCC sold at USD 90 million and a 299,991 dwt 2013-built unit reached the low USD 90s. A 298,000 dwt 2009-built Suezmax went for USD 60 million, and two 2023-24 Aframaxes of 109,999 dwt traded at USD 84 million each."

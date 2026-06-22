@@ -6,10 +6,11 @@ description: "Week 18 saw elevated tanker S&P volumes with LR2 and Aframax prici
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, suezmax, lr2, aframax, mr-tanker, kamsarmax, supramax, ultramax, handysize, capesize]
 image: /assets/img/covers/2026-w18-cover.png
 key_points:
-  - "In week 18 of 2026, multiple fleet disposals lifted tanker volumes, with the largest deal being Frontline's Suezmax pair Front Ull and Front Idun sold en bloc at USD 140 million combined (USD 70 million each) to Greek-affiliated Silk Searoad Maritime; three Scorpio LR2 tankers also sold at USD 65 million each, around 13% above benchmark."
-  - "Dry bulk secondhand pricing stayed under pressure in week 18 of 2026, with Capesize, Kamsarmax and Supramax tonnage trading at discounts; Bulk Joyance sold at USD 33 million (about 15% below benchmark) and Elway at USD 16.2 million (about 26% below), while Ultramax and Handysize held firmer."
-  - "Demolition markets held steady in week 18 of 2026 with regional differences; Bangladesh quoted tanker rates as high as USD 480 to 490 per ldt despite weak steel demand and rainfall disruption, and Turkey sat at USD 270 to 280 per ldt."
-  - "Two Stolt stainless-steel chemical tankers recycled in India fetched elevated per-ldt levels in week 18 of 2026, with Stolt Cedar at USD 912 per ldt and Stolt Sea at USD 853 per ldt."
+  - "Fleet disposals drove tanker volumes: Frontline's Suezmax pair Front Ull and Front Idun went en bloc at USD 140 million (USD 70 million each) to Greek-affiliated Silk Searoad Maritime."
+  - "Three Scorpio LR2 tankers sold at USD 65 million each, roughly 13% above benchmark."
+  - "Dry bulk stayed soft, with Capesize, Kamsarmax and Supramax at discounts; Bulk Joyance fetched USD 33 million and Elway USD 16.2 million, while Ultramax and Handysize held firmer."
+  - "Demolition was steady but uneven, Bangladesh quoting tankers as high as USD 480 to 490 per ldt against weak steel demand, Turkey down at USD 270 to 280 per ldt."
+  - "Two Stolt stainless-steel chemical tankers recycled in India at premium levels: Stolt Cedar at USD 912 per ldt, Stolt Sea at USD 853 per ldt."
 faq:
   - q: "What were the main tanker sales in week 18 of 2026?"
     a: "The headline deal was Frontline's Suezmax pair Front Ull and Front Idun at USD 140 million combined to Silk Searoad Maritime. Three Scorpio LR2 tankers sold at USD 65 million each, two Aframaxes from Tsuneishi sold at USD 77 million and USD 74.5 million, and two 2012-built VLCCs went at USD 60.3 million each, about 25% below benchmark."

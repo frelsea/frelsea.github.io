@@ -6,11 +6,11 @@ description: "A scrubber-fitted Suezmax sold at high $60m in Week 15; MR transac
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, lr1, lr2, mr, kamsarmax, ultramax, supramax, handysize]
 image: /assets/img/covers/2026-w15-cover.png
 key_points:
-  - "In week 15 of 2026, the scrubber-fitted Suezmax 'Stena Surprise' (158,491 dwt, 2012) sold at high $60 million and the coated LR2 'P. Aliki' was reported sold to Trafigura at $42.65 million."
-  - "In week 15 of 2026, MR activity was broad, including the scrubber-fitted 'Pro Onyx' (2019) at $39 million with a time charter attached and the scrubber-fitted 'Ardmore Engineer' sold to Gesco at $35.5 million."
-  - "In week 15 of 2026, dry bulk values held flat across all size classes and trading concentrated in smaller ships, with no Capesize sales reported and the Ultramax 'ASL Ixora' sold at $19.6 million."
-  - "In week 15 of 2026, demolition firmed across the Indian Subcontinent and Bangladesh was the strongest market, with dry bulk around $440 per ldt and tankers near $465 per ldt there."
-  - "In week 15 of 2026, recycling sales included an LNG carrier of about 31,340 ldt at roughly $513 per ldt as-is at Linggi in Malaysia and the 1998-built Panamax 'Andhika Kanishka' at $461 per ldt in Indonesia."
+  - "The scrubber-fitted Suezmax 'Stena Surprise' (158,491 dwt, 2012) sold at high $60 million; the coated LR2 'P. Aliki' went to Trafigura at $42.65 million."
+  - "MR trading was broad, led by the 2019-built scrubber-fitted 'Pro Onyx' at $39 million with charter attached and the 'Ardmore Engineer' to Gesco at $35.5 million."
+  - "Dry bulk values held flat and activity sat in the smaller sizes, with no Capesize sales and the Ultramax 'ASL Ixora' at $19.6 million."
+  - "Demolition firmed across the subcontinent, Bangladesh strongest at around $440 per ldt for dry bulk and near $465 for tankers."
+  - "Recycling sales included a roughly 31,340 ldt LNG carrier at about $513 per ldt as-is at Linggi, and the 1998-built Panamax 'Andhika Kanishka' at $461 in Indonesia."
 faq:
   - q: "What were the main tanker sales in week 15 of 2026?"
     a: "The scrubber-fitted Suezmax 'Stena Surprise' sold at high $60 million and the LR2 'P. Aliki' went to Trafigura at $42.65 million. MR sales ranged widely, from the 2019-built 'Pro Onyx' at $39 million down to the older ice-class 'East Coast' at mid to high $11 million."

@@ -6,10 +6,11 @@ description: "Week 19 market review covering tanker and dry bulk S&P activity fo
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, suezmax, lr2, kamsarmax, supramax, handysize]
 image: /assets/img/covers/2026-w19-cover.png
 key_points:
-  - "In week 19 of 2026, Suezmax and LR2 values firmed on continued disruption to Middle Eastern trade flows; Teekay sold Baker Spirit at $53 million to Greek buyers, the scrubber-fitted Gladiator changed hands at $65 million, and the 2026-built resale pair Advantage Summit and Bhanu 1 went to Greek buyers at $108.5 million each."
-  - "Dry bulk S&P was broad-based across all size classes in week 19 of 2026, with Kamsarmax the most prominent feature; the 2023-built pair Seacon Nola and Seacon Hamburg sold en bloc to Middle Eastern buyers at $72.7 million and the 2021-built Ultramax Dominator achieved $38 million."
-  - "Demolition markets held broadly steady with subdued volume in week 19 of 2026; Bangladesh remained the most competitive at $470 to 480 per ldt for tankers in Chattogram, while Turkey was the lowest in the basin at $285 to 310 per ldt."
-  - "An LR2 sale in week 19 of 2026 underlined tightening availability, with TORM's Torm Ganga committed to Chinese interests at $53 million against the $34 million paid for a sister vessel in September 2025, reflecting coated tonnage migrating into dirty trades."
+  - "Suezmax and LR2 values firmed on Middle East trade disruption; Teekay sold Baker Spirit at $53 million to Greek buyers and the scrubber-fitted Gladiator changed hands at $65 million."
+  - "The 2026-built resale pair Advantage Summit and Bhanu 1 went to Greek buyers at $108.5 million each."
+  - "Dry bulk spread across all sizes, led by Kamsarmax: Seacon Nola and Seacon Hamburg en bloc at $72.7 million, and the 2021-built Ultramax Dominator at $38 million."
+  - "Demolition was steady on thin volume, Bangladesh most competitive at $470 to 480 per ldt for tankers in Chattogram and Turkey lowest at $285 to 310 per ldt."
+  - "TORM's Torm Ganga sold to Chinese interests at $53 million against $34 million for a sister in September 2025, as coated tonnage migrates into dirty trades."
 faq:
   - q: "What were the main tanker sales in week 19 of 2026?"
     a: "Suezmax deals led the week, with Baker Spirit at $53 million, Gladiator at $65 million, and the 2026-built pair Advantage Summit and Bhanu 1 at $108.5 million each. In the LR2 segment Torm Ganga sold at $53 million, and an en-bloc pair of 2027-built MR2 newbuilding resales went at $50 million each."

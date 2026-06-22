@@ -6,11 +6,11 @@ description: "Week 02 secondhand market activity in dry bulk and tankers, with s
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, bulk-carriers, capesize, panamax, suezmax, vlcc]
 image: /assets/img/covers/2026-w02-cover.png
 key_points:
-  - "In week 02 of 2026, the VLCC market led activity, with eight South Korean VLCCs from 2015 and 2016, all around 300,000 dwt, sold en bloc for USD 831.5 million, averaging USD 104 million per vessel."
-  - "In week 02 of 2026, Sinokor was an active VLCC buyer, taking the scrubber-fitted OCEANIS at USD 68 million and the sisters DESIMI and SOLANA en bloc for USD 136 million, while a CMB.Tech portfolio of six VLCCs sold for USD 261.1 million."
-  - "In week 02 of 2026, dry bulk activity spanned all sizes, with the 2021-built Capesize NORD PALLADIUM at USD 76.25 million and the 2022-built Ultramax STARRY NIGHT at USD 32.5 million among the firmer modern sales."
-  - "In week 02 of 2026, demolition stayed subdued, with the 2012-built SEPETIBA BAY at 35,036 dwt reported sold for breaking at USD 11 million and little other tonnage flowing to the yards."
-  - "In week 02 of 2026, the Venezuelan crude flow reorientation drew demand toward compliant mainstream Aframaxes and Suezmaxes, absorbing potential demolition candidates into the secondary market."
+  - "VLCCs led the week: eight South Korean units from 2015 and 2016, all around 300,000 dwt, sold en bloc for USD 831.5 million, USD 104 million each."
+  - "Sinokor was active, taking the OCEANIS at USD 68 million and DESIMI and SOLANA en bloc at USD 136 million; CMB.Tech moved six VLCCs at USD 261.1 million."
+  - "Dry bulk ran across all sizes, with the 2021-built Capesize NORD PALLADIUM at USD 76.25 million and the 2022-built Ultramax STARRY NIGHT at USD 32.5 million leading modern sales."
+  - "Demolition stayed thin, with the 2012-built SEPETIBA BAY (35,036 dwt) sold for breaking at USD 11 million and little else reaching the yards."
+  - "Reoriented Venezuelan crude flows pulled demand toward compliant Aframaxes and Suezmaxes, absorbing demolition candidates into the secondhand market."
 faq:
   - q: "What were the main tanker sales in week 02 of 2026?"
     a: "The VLCC segment dominated, led by eight South Korean VLCCs sold en bloc for USD 831.5 million, averaging USD 104 million each. Sinokor was an active buyer across several modern units, and a CMB.Tech portfolio of six VLCCs changed hands for USD 261.1 million."

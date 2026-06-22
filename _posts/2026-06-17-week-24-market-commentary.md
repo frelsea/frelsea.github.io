@@ -6,11 +6,11 @@ description: "Week 24 2026 shipping report: firm Aframax and Suezmax secondhand 
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
 image: /assets/img/covers/2026-w24-cover.png
 key_points:
-  - "In week 24 of 2026, tanker S&P ran heavy in the Aframax and LR2 sizes, with a 2009-built coated Aframax at 53.5 million dollars and a modern scrubber-fitted LR2 resale at 90 million dollars."
-  - "In week 24 of 2026, the standout deal was an en bloc sale of two 2023-built Suezmax sisters of around 157,000 dwt at 110 million dollars each, reflecting strong demand for young Suezmax tonnage."
-  - "In week 24 of 2026, dry bulk sales spread evenly across the size range, with two modern mini Capesize sisters going to Omani interests at 37.9 million dollars each and a 2015-built Kamsarmax to Greek buyers at 26 million dollars with a period charter."
-  - "In week 24 of 2026, the recycling market was quiet as the monsoon set in, with India subdued, Bangladesh in a routine pattern, Pakistan buying aggressively on a tonnage shortage and Turkey uncompetitive."
-  - "In week 24 of 2026, the Strait of Hormuz reopened to shipping following the Iran-US agreement, ending a closure that had run since late February and raising the prospect of locked-in tonnage being released for recycling over time."
+  - "Tanker S&P ran heavy in Aframax and LR2 sizes: a 2009-built coated Aframax at USD 53.5 million and a modern scrubber-fitted LR2 resale at USD 90 million."
+  - "The standout was an en bloc sale of two 2023-built Suezmax sisters of around 157,000 dwt at USD 110 million each, on strong demand for young tonnage."
+  - "Dry bulk spread evenly across sizes: two modern mini Capesize sisters to Omani interests at USD 37.9 million each, and a 2015 Kamsarmax to Greeks at USD 26 million."
+  - "Recycling stayed quiet as the monsoon set in, India subdued and Turkey uncompetitive, while Pakistan bought aggressively on a tonnage shortage."
+  - "The Strait of Hormuz reopened after the Iran-US agreement, ending a closure since late February and raising the prospect of locked-in tonnage reaching recyclers."
 faq:
   - q: "What were the main tanker sales in week 24 of 2026?"
     a: "The standout was an en bloc sale of two 2023-built Suezmax sisters of around 157,000 dwt at 110 million dollars each. A 2009-built coated Aframax sold at 53.5 million dollars, a modern scrubber-fitted LR2 resale at 90 million dollars, and a 2015-built MR2 went to Greek buyers at 39.2 million dollars."

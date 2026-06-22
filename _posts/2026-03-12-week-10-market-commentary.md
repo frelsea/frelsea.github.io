@@ -6,11 +6,11 @@ description: "Active tanker and dry bulk S&P in Week 10, with Suezmax values rea
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, vlcc, suezmax, aframax, capesize, kamsarmax, ultramax, supramax, handysize]
 image: /assets/img/covers/2026-w10-cover.png
 key_points:
-  - "In week 10 of 2026, Suezmax pricing stepped up sharply, with a 159,039 dwt 2013-built Samsung unit at USD 63 million and a 156,092 dwt 2013-built Sumitomo unit to Greek interests at USD 65 million."
-  - "Aframax trading was extensive in week 10 of 2026, headed by a 112,532 dwt 2018-built Chinese unit at USD 71 million, with two VLCCs sold at USD 38 million and USD 51.5 million."
-  - "Dry bulk S&P was broad in week 10 of 2026, with two Capesizes at high USD 23 million and excess USD 32 million, and Handysize the busiest segment, including a 2018-built JNS unit at USD 22 million."
-  - "Demolition was stable in week 10 of 2026, with bulker rates at USD 390-410 per LDT across the subcontinent and tankers at a premium up to USD 430-435 in Bangladesh, Turkey lower near USD 270-280."
-  - "Newbuilding activity featured in week 10 of 2026, with Performance Shipping ordering two 158,000 dwt Suezmaxes at USD 81.5 million each and Union Maritime ordering Capesizes at USD 75.5 million each."
+  - "Suezmax pricing stepped up sharply: a 2013-built Samsung 159,039 dwt at USD 63 million, a 2013-built Sumitomo 156,092 dwt to Greeks at USD 65 million."
+  - "Aframax trading was heavy, led by a 2018-built Chinese 112,532 dwt at USD 71 million, while two VLCCs went at USD 38 million and USD 51.5 million."
+  - "Dry S&P ran broad, with two Capesizes at high USD 23 million and excess USD 32 million. Handysize was busiest, including a 2018-built JNS unit at USD 22 million."
+  - "Demolition held stable, bulkers at USD 390-410 per LDT across the subcontinent, tankers up to USD 430-435 in Bangladesh, Turkey near USD 270-280."
+  - "Newbuildings featured Performance Shipping's two 158,000 dwt Suezmaxes at USD 81.5 million each and Union Maritime's Capesizes at USD 75.5 million each."
 faq:
   - q: "What were the main tanker sales in week 10 of 2026?"
     a: "Suezmax led, with a 2013-built Samsung at USD 63 million and a 2013-built Sumitomo at USD 65 million to Greek interests. A 2018-built Aframax reached USD 71 million, and VLCCs sold at USD 38 million and USD 51.5 million."

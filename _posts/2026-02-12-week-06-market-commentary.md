@@ -6,10 +6,11 @@ date: 2026-02-12
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
 image: /assets/img/covers/2026-w06-cover.png
 key_points:
-  - "In week 06 of 2026, VLCC values held firm, with the scrubber-fitted 'DHT Bauhinia' 301,000 dwt 2007-built at USD 51.5 million and the 'Asian Lion' 297,000 dwt 2009-built sold to Greek interests at USD 60 million."
-  - "In week 06 of 2026, dry bulk activity ran at a measured pace, with the 180,000 dwt 'Irene II' 2006-built to Chinese interests at USD 21 million and the 82,000 dwt 'Athina Carras' 2012-built to Greek interests at USD 17.5 million."
-  - "In week 06 of 2026, MR2 demand stayed steady, with sisters 'Seaways Grace' and 'Seaways Madeleine', both 50,000 dwt 2008-built, committing at USD 16 million each."
-  - "In week 06 of 2026, demolition was selective with limited reported tonnage, as most older vessels still earned adequate returns and South Asian recycling capacity remained constrained."
+  - "VLCC values held firm: the scrubber-fitted 2007-built 'DHT Bauhinia' 301,000 dwt at USD 51.5 million and the 2009-built 'Asian Lion' 297,000 dwt to Greek interests at USD 60 million."
+  - "Capesize ran at a measured pace, with the 2006-built 180,000 dwt 'Irene II' to Chinese interests at USD 21 million."
+  - "Kamsarmax stayed active: the 2012-built 82,000 dwt 'Athina Carras' sold to Greek interests at USD 17.5 million."
+  - "MR2 demand held, with 2008-built 50,000 dwt sisters 'Seaways Grace' and 'Seaways Madeleine' at USD 16 million each."
+  - "Demolition was selective on limited tonnage, as most older vessels still earned adequate returns and South Asian recycling capacity stayed constrained."
 faq:
   - q: "What were the main tanker sales in week 06 of 2026?"
     a: "The 'DHT Bauhinia' 301,000 dwt 2007-built committed at USD 51.5 million and the 'Asian Lion' 297,000 dwt 2009-built sold to Greek interests at USD 60 million. The MR2 sisters 'Seaways Grace' and 'Seaways Madeleine' each traded at USD 16 million."
