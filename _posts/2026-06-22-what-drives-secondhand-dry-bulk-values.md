@@ -4,11 +4,12 @@ title: "What Drives Second-Hand Dry Bulk Values"
 date: 2026-06-22
 description: "Second-hand bulker prices are anchored to newbuilding cost, tilted by earnings, pressed at the margin by financing, and knocked off course by shocks that fade. How those forces rank, and what the premium over newbuilding tells you about timing a purchase."
 tags: [dry-bulk, s-and-p, newbuilding]
+image: /assets/img/covers/insight-ship-values-cover.png
 ---
 
 Anyone who has bought or sold tonnage knows the price of a ten-year-old bulker is not a single number. It moves with the newbuilding market, with freight, with the cost of money, and with whatever shock happens to be in the headlines that quarter. What is less obvious is how these forces rank, and how long each one lasts. Sorting that out is the difference between paying a fair price and paying the top of a cycle.
 
-## The anchor: what it costs to replace the ship
+## Replacement cost is the anchor
 
 Over a full cycle, second-hand values are tied to newbuilding prices. The logic is simple. A buyer can always order a new ship instead of buying an existing one, so the cost of ordering sets the level that resale prices are measured against. When the yards raise prices, second-hand values follow. When newbuilding prices soften, the floor under resale values drops with them.
 
@@ -16,13 +17,15 @@ The link is close but not one for one. A ten or fifteen year old ship trades at 
 
 If you want to know where values are heading over the next few years, the newbuilding curve is the first place to look.
 
-## The tilt: earnings and the premium for prompt tonnage
+## Earnings move the premium
 
 Replacement cost explains where values sit over the long run. It does not explain why prices can run hard for a few months and then give it back. That is earnings.
 
 When time-charter rates rise, buyers are willing to pay more for a ship they can put to work today rather than wait two or three years for a newbuilding slot. That willingness to pay shows up as a premium of second-hand prices over newbuilding prices. In a strong freight market the premium widens, sometimes to the point where a modern resale changes hands above the cost of ordering new. In a weak market it compresses, and buyers hold off.
 
-The earnings effect is real but smaller than most people assume in the heat of a strong market. A jump in charter rates lifts asset values, but not one for one, and it lifts them with a lag of about a month, because the freight market moves faster than the S&P market digests it. The headline rate prints first. The deals follow.
+The earnings effect is real but smaller than most people assume in the heat of a strong market. A jump in charter rates lifts asset values, but not one for one, and it lifts them with a lag of about a month, because the freight market moves faster than the S&P market digests it. The headline rate prints first, and the deals follow a few weeks later.
+
+{% include secondhand-premium-chart.html %}
 
 ## Age changes the equation
 
