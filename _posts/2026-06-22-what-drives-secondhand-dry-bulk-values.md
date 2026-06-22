@@ -23,7 +23,7 @@ faq:
     a: "Shocks such as the 2008 financial crisis, COVID or the Red Sea rerouting push values away from fundamentals, but the deviations fade. Since around 2018 they have corrected faster, within months where they once took years, helped by better price transparency."
 ---
 
-The price of a ten-year-old bulker is not a single number. It moves with the newbuilding market, with freight earnings, with the cost of financing, and with periodic market shocks. What is less obvious is how these forces rank against one another, and how long each one persists. That ordering is what separates an acquisition made near fair value from one made at the top of a cycle.
+A second-hand bulker's price is set by several forces at once: the newbuilding market, freight earnings, the cost of financing, and periodic market shocks. The less obvious question is how these forces rank against one another, and how long each one persists. That ordering separates an acquisition made near fair value from one made at the top of a cycle.
 
 {% include secondhand-premium-chart.html %}
 
