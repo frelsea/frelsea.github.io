@@ -2,9 +2,15 @@
 layout: post
 title: "Week 25: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – June 2026"
 date: 2026-06-24
-description: "Week 25 2026 shipping report: firm VLCC and Suezmax secondhand sales, a return of Capesize activity, deep Supramax and Handysize turnover, heavy crude newbuilding and a steady recycling market."
+description: "Week 25 2026 shipping report: firm VLCC and Suezmax sales, returning Capesize activity, deep Supramax and Handysize turnover, and heavy crude newbuilding."
 tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
 image: /assets/img/covers/2026-w25-cover.png
+key_points:
+  - "Crude led tanker sales: a 2008-built scrubber-fitted VLCC at USD 79 million, bought by the seller a year earlier at USD 40 million."
+  - "Capesize activity returned, with a pair of 2012 and 2013-built sisters sold en bloc at USD 88 million, USD 44 million each."
+  - "Supramax and Handysize were the most active by deal count, from USD 7 million for older units to USD 19 million for modern tonnage."
+  - "Newbuilding ordering stayed heavy in crude, with two Korean owners each taking four VLCCs at USD 130 to 131 million per ship."
+  - "Subcontinent recycling held broadly firm into the monsoon, with India the softest market and Bangladesh easing about USD 25 per ton after the budget."
 ---
 
 Secondhand demand held firm across tankers and dry bulk this week, with a return of Capesize activity, a deep run of Supramax and Handysize sales, and a heavy newbuilding slate set against a subcontinent recycling market still finding direction.
