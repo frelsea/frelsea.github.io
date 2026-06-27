@@ -9,7 +9,7 @@
 }
 body{
 	background: #fff;
-	color:#60606e;
+	color:#1a1a1a;
 	font-family: "Open sans", sans-serif;
 	font-size: 14px;
 	-webkit-font-smoothing: antialiased;
@@ -45,7 +45,7 @@ blockquote.bq{
 
 /*links*/
 a{
-	color:#60606e;
+	color:#1a1a1a;
 	-webkit-transition:all .2s ease-in-out;
 			transition:all .2s ease-in-out;
 }
@@ -64,7 +64,7 @@ a.link:after{
 			transition:all .2s ease-in-out;
 }
 a:hover, a:focus{
-	color:#60606e;
+	color:#1a1a1a;
 	text-decoration: none;
 	outline: none;
 }
@@ -82,7 +82,7 @@ a:hover:after{
 .italic{font-style: italic;}
 p{
 	font-family: "Open sans", sans-serif;
-	color:#999999;
+	color:#1a1a1a;
 	line-height: 30px;
 }
 ul.social-icons li a:hover{
@@ -101,7 +101,7 @@ ul.social-icons li a:hover{
 	font-weight: 700;
 	font-size: 30px;
 	text-transform: uppercase;
-	color:#60606e;
+	color:#1a1a1a;
 	position: relative;
 	display: inline-block;
 	margin-bottom: 20px;
@@ -118,7 +118,7 @@ ul.social-icons li a:hover{
 }
 .section-title p{
 	line-height: 24px;
-	color:#60606e;
+	color:#1a1a1a;
 }
 @media (max-width: 991px) {
 	.section-title{
@@ -192,7 +192,7 @@ ul.tags li a{
 }
 ul.tags li a:hover{
 	background-color: #f2f2f2;
-	color:#60606e;
+	color:#1a1a1a;
 }
 
 /*social icons*/
@@ -278,7 +278,7 @@ ul.social-icons li a{
 			transition:all .2s ease-in-out;
 	position: relative;
 }
-.tab nav a.current{color:#60606e;}
+.tab nav a.current{color:#1a1a1a;}
 .tab .tab_single{display: none;}
 .tab .tab_single.shown{display: block;}
 
@@ -493,14 +493,14 @@ footer.main-footer nav.footer-nav ul li a{
 	        transform:translate(-50%, -50%);
 }
 .site-hero .small-title{
-	color:#60606e;
+	color:#1a1a1a;
 	padding: 7px 12px;
 	background-color: #66ccff;
 	display: inline-block;
 }
 .site-hero .big-title{
 	font-size: clamp(24px, 6vw, 42px);
-	color:#60606e;
+	color:#1a1a1a;
 	padding: 10px 40px;
 	border:solid 10px #60606e;
 	display: inline-block;
@@ -510,7 +510,7 @@ footer.main-footer nav.footer-nav ul li a{
 	width: 50%;
 	max-width: 600px;
 	margin: 0 auto;
-	color:#60606e;
+	color:#1a1a1a;
 }
 
 /*site hero 2 */
@@ -544,7 +544,7 @@ footer.main-footer nav.footer-nav ul li a{
 	max-height: 400px;
 }
 .agency p{
-	color:#60606e;
+	color:#1a1a1a;
 }
 .agency .section-title{
 	text-align:left;
@@ -600,7 +600,7 @@ footer.main-footer nav.footer-nav ul li a{
 	font-family: "Montserrat", sans-serif;
 	font-weight: 700;
 	text-transform: uppercase;
-	color:#60606e;
+	color:#1a1a1a;
 	margin-left: 20px;
 }
 .portfolio .categories-grid .categories ul li a.active{
@@ -652,7 +652,7 @@ footer.main-footer nav.footer-nav ul li a{
 	font-family: "Montserrat", sans-serif;
 	font-weight: 700;
 	text-transform: uppercase;
-	color:#60606e;
+	color:#1a1a1a;
 	font-size: 18px;
 	-webkit-transform:translateY(20px);
 	    -ms-transform:translateY(20px);
@@ -876,7 +876,7 @@ footer.main-footer nav.footer-nav ul li a{
 	display: inline-block;
 	height: 40px;
 	line-height: 40px;
-	color:#60606e;
+	color:#1a1a1a;
 }
 
 
@@ -955,7 +955,7 @@ footer.main-footer nav.footer-nav ul li a{
 	font-family: "Montserrat", sans-serif;
 	font-weight: 700;
 	font-size: 12px;
-	color:#60606e;	
+	color:#1a1a1a;	
 	text-transform: uppercase;
 	-webkit-transition:all .2s ease-in-out .2s;
 	transition:all .2s ease-in-out .2s;
@@ -1231,7 +1231,7 @@ footer.main-footer nav.footer-nav ul li a{
    ============================================================ */
 .fr-viz{
 	font-family:"Open sans",sans-serif;
-	color:#60606e;
+	color:#1a1a1a;
 	max-width:760px;
 	margin:42px 0;
 	background:#ffffff;
