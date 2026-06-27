@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Taking Delivery of a Newbuilding"
-date: 2026-06-27
-published: false
+date: 2026-01-27
+published: true
 description: "Taking delivery of a newbuilding fixes its quality, performance and cost. How an owner's control runs from the contract through sea trials to handover."
 tags: [analysis, newbuilding, s-and-p]
 image: /assets/img/covers/insight-newbuilding-takeover-cover.png
