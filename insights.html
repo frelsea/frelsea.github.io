@@ -62,8 +62,8 @@
 				<!-- MAIN POSTS COLUMN -->
 				<div class="col-md-9 col-sm-12">
 
-					{% for post in site.posts limit:6 %}
-					<div class="blog_post{% unless forloop.first %} wow fadeInUp{% endunless %}">
+					{% for post in site.posts %}
+					<div class="blog_post">
 						{% if post.image %}
 						<a href="{{ post.url }}" class="animsition-link"><img src="{{ post.image }}" alt="{{ post.title }}" style="width:100%;display:block;margin-bottom:20px;"></a>
 						{% endif %}
@@ -76,14 +76,14 @@
 					</div>
 					{% endfor %}
 
-					<!-- pagination -->
-					<div class="blog_pagination wow fadeInUp">
-						<a href="" class="page">
+					<!-- pagination (client-side, paginates the .blog_post cards above) -->
+					<div class="blog_pagination" id="insights_pagination" style="display:none;">
+						<a href="#" class="page" id="ins_prev">
 							<i class="icon ion-arrow-left-c prev"></i>
 							<span>previous</span>
 						</a>
-						<span class="divisor">/</span>
-						<a href="" class="page">
+						<span class="divisor" id="ins_indicator" style="padding:0 16px;">1 / 1</span>
+						<a href="#" class="page" id="ins_next">
 							<span>next</span>
 							<i class="icon ion-arrow-right-c next"></i>
 						</a>
@@ -169,6 +169,34 @@
 	$(window).load(function(){
 		new WOW().init();
 	});
+	</script>
+	<!-- client-side pagination for the insights listing -->
+	<script type="text/javascript">
+	(function(){
+		var PAGE_SIZE = 6;
+		var cards = Array.prototype.slice.call(document.querySelectorAll('.blog_post'));
+		var pag = document.getElementById('insights_pagination');
+		var prev = document.getElementById('ins_prev');
+		var next = document.getElementById('ins_next');
+		var ind = document.getElementById('ins_indicator');
+		if (!cards.length || !pag) return;
+		var pages = Math.ceil(cards.length / PAGE_SIZE);
+		var cur = 1;
+		function render(scroll){
+			cards.forEach(function(c, i){
+				var page = Math.floor(i / PAGE_SIZE) + 1;
+				c.style.display = (page === cur) ? '' : 'none';
+			});
+			ind.textContent = cur + ' / ' + pages;
+			prev.style.visibility = (cur === 1) ? 'hidden' : 'visible';
+			next.style.visibility = (cur === pages) ? 'hidden' : 'visible';
+			if (scroll) window.scrollTo({ top: 0, behavior: 'smooth' });
+		}
+		prev.addEventListener('click', function(e){ e.preventDefault(); if (cur > 1) { cur--; render(true); } });
+		next.addEventListener('click', function(e){ e.preventDefault(); if (cur < pages) { cur++; render(true); } });
+		if (pages > 1) pag.style.display = '';
+		render(false);
+	})();
 	</script>
 </body>
 </html>
