@@ -3,7 +3,7 @@ layout: post
 title: "Week 08: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – February 2026"
 date: 2026-02-26
 description: "Market overview of secondhand dry bulk and tanker S&P activity, newbuilding momentum, and demolition pricing for the week ending February 20, 2026."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report]
 image: /assets/img/covers/2026-w08-cover.png
 key_points:
   - "Crude tanker Singapore Spirit, a 2013-built 318,473 dwt VLCC, sold to Sinokor at USD 84.5 million."

@@ -3,7 +3,7 @@ layout: post
 title: "Week 06: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – February 2026"
 description: "Secondhand markets show steady activity across tanker and bulker segments with VLCC valuations firm and dry bulk transactions spread across multiple tonnage categories."
 date: 2026-02-12
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report]
 image: /assets/img/covers/2026-w06-cover.png
 key_points:
   - "VLCC values held firm: the scrubber-fitted 2007-built 'DHT Bauhinia' 301,000 dwt at USD 51.5 million and the 2009-built 'Asian Lion' 297,000 dwt to Greek interests at USD 60 million."

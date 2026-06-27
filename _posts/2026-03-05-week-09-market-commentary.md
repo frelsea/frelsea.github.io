@@ -4,7 +4,7 @@ title: "Week 09: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report 
 description: "Explosive market activity across VLCCs, Suezmaxes and dry bulk with geopolitical factors driving prices to multi-year highs."
 date: 2026-03-05
 categories: [market-analysis]
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, shipping-markets]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, shipping-markets, market-report]
 image: /assets/img/covers/2026-w09-cover.png
 key_points:
   - "Middle East escalation drove crude freight higher: VLCC TD3C jumped WS163 to WS217, Suezmax TD20 firmed to WS211-220."

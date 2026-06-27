@@ -3,7 +3,7 @@ layout: post
 title: "Week 10: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – March 2026"
 date: 2026-03-12
 description: "Active tanker and dry bulk S&P in Week 10, with Suezmax values reaching USD 65 million and broad Kamsarmax and Handysize trading across all buyer segments."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, vlcc, suezmax, aframax, capesize, kamsarmax, ultramax, supramax, handysize]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, vlcc, suezmax, aframax, capesize, kamsarmax, ultramax, supramax, handysize, market-report]
 image: /assets/img/covers/2026-w10-cover.png
 key_points:
   - "Suezmax pricing stepped up sharply: a 2013-built Samsung 159,039 dwt at USD 63 million, a 2013-built Sumitomo 156,092 dwt to Greeks at USD 65 million."

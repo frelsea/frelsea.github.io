@@ -3,7 +3,7 @@ layout: post
 title: "Week 25: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – June 2026"
 date: 2026-06-24
 description: "Week 25 2026 shipping report: firm VLCC and Suezmax sales, returning Capesize activity, deep Supramax and Handysize turnover, and heavy crude newbuilding."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report]
 image: /assets/img/covers/2026-w25-cover.png
 key_points:
   - "Crude led tanker sales: a 2008-built scrubber-fitted VLCC at USD 79 million, bought by the seller a year earlier at USD 40 million."

@@ -3,7 +3,7 @@ layout: post
 title: "Week 01: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – January 2026"
 date: 2026-01-08
 description: "Second-hand valuations held steady week one as traders evaluated geopolitical risks. A VLCC pair sold at $101.6M en bloc, while Capesize and VLGC units transacted across the curve. Demolition activity picked up with multiple vessels scrapped."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report]
 image: /assets/img/covers/2026-w01-cover.png
 key_points:
   - "Two 2007-built VLCCs, DHT Europe and DHT China (around 317,700 dwt each), went en bloc at $101.6 million with an Exxon charter at $1.1 million per month into Q1 2027."

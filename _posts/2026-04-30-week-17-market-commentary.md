@@ -3,7 +3,7 @@ layout: post
 title: "Week 17: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – April 2026"
 date: 2026-04-30
 description: "Suezmax resales up 21% YoY to $175m and Aframax up 20% to $88.8m in week 17, with active en-bloc activity across tankers and firm Capesize asset values."
-tags: [dry-bulk, tankers, s-and-p, demolition, newbuilding, capesize, suezmax, aframax, mr, lr2, kamsarmax, ultramax, vlcc]
+tags: [dry-bulk, tankers, s-and-p, demolition, newbuilding, capesize, suezmax, aframax, mr, lr2, kamsarmax, ultramax, vlcc, market-report]
 image: /assets/img/covers/2026-w17-cover.png
 key_points:
   - "Tanker values jumped year-on-year: Suezmax resales at $175 million (up 21%), Aframax resales at $88.8 million (up 20%)."

@@ -3,7 +3,7 @@ layout: post
 title: "Week 18: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – May 2026"
 date: 2026-05-07
 description: "Week 18 saw elevated tanker S&P volumes with LR2 and Aframax pricing above benchmark, while dry bulk Kamsarmax and Supramax values remained under pressure."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, suezmax, lr2, aframax, mr-tanker, kamsarmax, supramax, ultramax, handysize, capesize]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, suezmax, lr2, aframax, mr-tanker, kamsarmax, supramax, ultramax, handysize, capesize, market-report]
 image: /assets/img/covers/2026-w18-cover.png
 key_points:
   - "Fleet disposals drove tanker volumes: Frontline's Suezmax pair Front Ull and Front Idun went en bloc at USD 140 million (USD 70 million each) to Greek-affiliated Silk Searoad Maritime."

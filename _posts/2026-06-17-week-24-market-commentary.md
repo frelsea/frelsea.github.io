@@ -3,7 +3,7 @@ layout: post
 title: "Week 24: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – June 2026"
 date: 2026-06-17
 description: "Week 24 2026 shipping report: firm Aframax and Suezmax secondhand sales, steady dry bulk activity, heavy crude newbuilding ordering and a quiet pre-monsoon demolition market."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report]
 image: /assets/img/covers/2026-w24-cover.png
 key_points:
   - "Tanker S&P ran heavy in Aframax and LR2 sizes: a 2009-built coated Aframax at USD 53.5 million and a modern scrubber-fitted LR2 resale at USD 90 million."

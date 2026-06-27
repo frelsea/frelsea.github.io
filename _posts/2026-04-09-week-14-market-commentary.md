@@ -3,7 +3,7 @@ layout: post
 title: "Week 14: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – April 2026"
 date: 2026-04-09
 description: "Suezmax and LR1 sales headlined tanker S&P in Week 14; Capesize and Handysize values edged higher as Bangladeshi demolition prices firmed post-Eid."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, lr1, mr, kamsarmax, supramax, handysize]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, lr1, mr, kamsarmax, supramax, handysize, market-report]
 image: /assets/img/covers/2026-w14-cover.png
 key_points:
   - "Suezmaxes led tanker S&P: the 2006-built 'Seacross' (163,292 dwt) at $43.5 million, with 'Cap Felix' and 'Sienna' en bloc at $95 million combined."

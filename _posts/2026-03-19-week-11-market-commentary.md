@@ -3,7 +3,7 @@ layout: post
 title: "Week 11: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – March 2026"
 date: 2026-03-19
 description: "Middle East conflict disrupted tanker logistics while dry bulk saw moderate activity. Secondhand values remained stable, newbuilding prices steady, demolition markets firmed."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, week-11, 2026]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, week-11, 2026, market-report]
 image: /assets/img/covers/2026-w11-cover.png
 key_points:
   - "Tanker S&P stayed thin, with the 2011-built 320,000 dwt VLCC Long Wind at USD 68 million and the 2018-built Aframax Green Attitude to Greeks at USD 71 million."

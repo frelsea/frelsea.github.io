@@ -3,7 +3,7 @@ layout: post
 title: "Week 15: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – April 2026"
 date: 2026-04-16
 description: "A scrubber-fitted Suezmax sold at high $60m in Week 15; MR transactions were numerous, dry bulk values held flat, and demolition firmed in Bangladesh."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, lr1, lr2, mr, kamsarmax, ultramax, supramax, handysize]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, lr1, lr2, mr, kamsarmax, ultramax, supramax, handysize, market-report]
 image: /assets/img/covers/2026-w15-cover.png
 key_points:
   - "The scrubber-fitted Suezmax 'Stena Surprise' (158,491 dwt, 2012) sold at high $60 million; the coated LR2 'P. Aliki' went to Trafigura at $42.65 million."

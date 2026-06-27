@@ -3,7 +3,7 @@ layout: post
 title: "Week 03: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – January 2026"
 date: 2026-01-22
 description: "Week 3 secondhand and newbuilding markets showed broad activity across tankers and dry bulk. VLCC values firmed sharply on geopolitical shifts in crude distribution. Dry bulk capesize S&P steady despite lower freight rates. Demolition prices stable across India, Bangladesh, and Pakistan."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, vlcc, suezmax, aframax, capesize, kamsarmax]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, secondhand, vlcc, suezmax, aframax, capesize, kamsarmax, market-report]
 image: /assets/img/covers/2026-w03-cover.png
 key_points:
   - "Trafigura took three modern VLCCs en bloc: the 2022-built Spherical at USD 130 million and the 2021-built sisters Hunter and Serendipity for USD 250 million combined."

@@ -3,7 +3,7 @@ layout: post
 title: "Week 13: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – March 2026"
 date: 2026-04-02
 description: "Sinokor acquired four Suezmaxes at $82m each and a VLCC at $78.4m in Week 13; dry bulk values held flat and Bangladesh led demolition market gains."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, mr, capesize, kamsarmax, ultramax, handysize]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, aframax, mr, capesize, kamsarmax, ultramax, handysize, market-report]
 image: /assets/img/covers/2026-w13-cover.png
 key_points:
   - "Sinokor took four Suezmaxes at $82 million each plus the scrubber-fitted 2012-built VLCC 'Kondor' (296,714 dwt) at $78.4 million."

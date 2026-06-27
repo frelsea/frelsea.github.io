@@ -4,7 +4,7 @@ title: "What Drives Second-Hand Dry Bulk Values"
 date: 2026-02-24
 published: true
 description: "Second-hand bulker values are anchored to newbuilding cost, tilted by earnings, pressed at the margin by financing, and temporarily displaced by shocks that fade. How those forces rank, and what the premium over newbuilding signals for timing an acquisition."
-tags: [dry-bulk, s-and-p, newbuilding]
+tags: [analysis, dry-bulk, s-and-p, newbuilding]
 image: /assets/img/covers/insight-ship-values-cover.png
 key_points:
   - "Newbuilding (replacement) cost is the long-run anchor for second-hand values, which track it closely over a full cycle at a discount that reflects age."

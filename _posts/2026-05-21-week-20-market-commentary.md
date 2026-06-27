@@ -3,7 +3,7 @@ layout: post
 title: "Week 20: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – May 2026"
 date: 2026-05-21
 description: "Tanker S&P firm despite Hormuz-driven freight moderation. Heavy Kamsarmax and Handymax resale activity in dry bulk. Subcontinent demolition remained quiet."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, kamsarmax, ultramax, supramax, handymax]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, vlcc, suezmax, kamsarmax, ultramax, supramax, handymax, market-report]
 image: /assets/img/covers/2026-w20-cover.png
 key_points:
   - "Tanker S&P held firm despite freight easing off the March peaks; sister VLCCs C. Innovator and C. Progress sold en bloc at USD 120.6 million with charters attached."

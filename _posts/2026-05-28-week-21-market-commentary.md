@@ -3,7 +3,7 @@ layout: post
 title: "Week 21: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – May 2026"
 date: 2026-05-28
 description: "Week 21 saw heavy MR resale activity, Teekay take a Suezmax pair, Norden buy four Handy newbuilds en bloc, and Subcontinent demo prices hold steady ahead of the monsoon."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, mr2, suezmax, kamsarmax, handysize]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, mr2, suezmax, kamsarmax, handysize, market-report]
 image: /assets/img/covers/2026-w21-cover.png
 key_points:
   - "MR2 led tanker S&P: four CS-series 50,000 dwt resales en bloc to Greek interests at USD 198 million with 12-month charters attached."

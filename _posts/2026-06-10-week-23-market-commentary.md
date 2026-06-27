@@ -3,7 +3,7 @@ layout: post
 title: "Week 23: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – June 2026"
 date: 2026-06-10
 description: "Week 23 2026 shipping market report: handysize and small tanker sales lead secondhand activity, a heavy tanker and gas newbuilding orderbook, and firm but supply-short demolition."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, market-report]
 image: /assets/img/covers/2026-w23-cover.png
 key_points:
   - "Crude S&P was quiet up top, with a 2011-built scrubber-fitted 297,000 dwt VLCC to Korean buyers at USD 82 million for Q1 2027 delivery."

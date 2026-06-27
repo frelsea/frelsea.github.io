@@ -4,7 +4,7 @@ title: "What the Order Book Signals for Returns"
 date: 2026-06-16
 published: true
 description: "Four decades of dry bulk data show that a heavy order book forecasts low returns on ships bought at the peak, while heavy demolition precedes high returns."
-tags: [dry-bulk, s-and-p, market-cycles]
+tags: [analysis, dry-bulk, s-and-p, market-cycles]
 image: /assets/img/covers/insight-shipping-cycle-cover.png
 key_points:
   - "Charter earnings mean-revert strongly: monthly earnings are 96 percent correlated with the next month and 20 percent with a year earlier."

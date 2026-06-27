@@ -3,7 +3,7 @@ layout: post
 title: "Week 19: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – May 2026"
 date: 2026-05-13
 description: "Week 19 market review covering tanker and dry bulk S&P activity for 1–8 May 2026, including Suezmax, LR2, Kamsarmax, Supramax and Handysize transactions."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, suezmax, lr2, kamsarmax, supramax, handysize]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, suezmax, lr2, kamsarmax, supramax, handysize, market-report]
 image: /assets/img/covers/2026-w19-cover.png
 key_points:
   - "Suezmax and LR2 values firmed on Middle East trade disruption; Teekay sold Baker Spirit at $53 million to Greek buyers and the scrubber-fitted Gladiator changed hands at $65 million."

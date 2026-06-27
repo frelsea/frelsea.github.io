@@ -3,7 +3,7 @@ layout: post
 title: "Week 05: Dry Bulk and Tanker Sales, Purchase & Demolition Market Report – January 2026"
 date: 2026-02-05
 description: "Market snapshot for Week 05: secondhand tankers reach triple-digit USD millions on structural trade flows, dry bulk S&P accelerates on strong earnings, demolition values holding firm across South Asian markets."
-tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, sales-purchase]
+tags: [tankers, dry-bulk, demolition, newbuilding, s-and-p, sales-purchase, market-report]
 image: /assets/img/covers/2026-w05-cover.png
 key_points:
   - "Secondhand tankers hit multi-year highs: a 300,000 dwt VLCC at USD 90 million and a 2009-built 298,000 dwt Suezmax at USD 60 million."
