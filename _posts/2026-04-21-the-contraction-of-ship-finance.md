@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Contraction of Ship Finance"
-date: 2026-06-23
-published: false
+date: 2026-04-21
+published: true
 description: "Bank ship finance has contracted nearly 38 percent since 2011, with Chinese leasing filling the gap and concentrating the market. What the narrowing means for independent owners."
 tags: [ship-finance, newbuilding, s-and-p]
 image: /assets/img/covers/insight-ship-finance-cover.png

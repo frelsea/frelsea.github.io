@@ -1,0 +1,100 @@
+<div class="fr-viz" id="fr-obret-viz">
+  <div class="fr-viz__head">
+    <div class="fr-viz__eyebrow">Data</div>
+    <div class="fr-viz__title">The order book and the return that followed</div>
+    <div class="fr-viz__sub">Industry investment against the realised one-year return on a five-year-old Panamax. Source: Greenwood and Hanson (2015), from Clarksons monthly data, 1976 to 2011.</div>
+  </div>
+
+  <div class="fr-viz__chart">
+    <svg viewBox="0 0 760 430" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Chart showing that a heavier industry order book precedes lower subsequent returns on ships, with the August 2008 peak preceding a 76 percent decline">
+      <defs>
+        <marker id="fr-ob-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M0,0 L10,5 L0,10 z" fill="#999999"></path>
+        </marker>
+      </defs>
+
+      <!-- quadrant tints -->
+      <rect class="fr-ob-good" x="110" y="70" width="280" height="145"></rect>
+      <rect class="fr-ob-bad" x="390" y="215" width="280" height="145"></rect>
+
+      <!-- horizontal gridlines -->
+      <g class="fr-grid">
+        <line x1="110" y1="99" x2="670" y2="99"></line>
+        <line x1="110" y1="157" x2="670" y2="157"></line>
+        <line x1="110" y1="273" x2="670" y2="273"></line>
+        <line x1="110" y1="331" x2="670" y2="331"></line>
+      </g>
+      <!-- zero line -->
+      <line class="fr-ob-zero" x1="110" y1="215" x2="670" y2="215"></line>
+
+      <!-- y axis labels -->
+      <g class="fr-ylab">
+        <text x="102" y="103">+80%</text>
+        <text x="102" y="161">+40%</text>
+        <text x="102" y="219">0</text>
+        <text x="102" y="277">&#8722;40%</text>
+        <text x="102" y="335">&#8722;80%</text>
+      </g>
+      <text class="fr-ob-axtitle" x="34" y="215" transform="rotate(-90 34 215)" text-anchor="middle">Subsequent one-year return</text>
+
+      <!-- x axis -->
+      <line class="fr-ob-axis" x1="110" y1="360" x2="670" y2="360"></line>
+      <g class="fr-xlab">
+        <text x="110" y="380">0</text>
+        <text x="250" y="380">20</text>
+        <text x="390" y="380">40</text>
+        <text x="530" y="380">60</text>
+        <text x="670" y="380">80</text>
+      </g>
+      <text class="fr-ob-axtitle" x="390" y="404" text-anchor="middle">Industry order book (% of fleet)</text>
+
+      <!-- relationship line -->
+      <line class="fr-ob-trend" x1="166" y1="135" x2="656" y2="322"></line>
+
+      <!-- quadrant captions -->
+      <text class="fr-ob-cap" x="258" y="182" text-anchor="middle">thin book,</text>
+      <text class="fr-ob-cap" x="258" y="198" text-anchor="middle">strong forward returns</text>
+      <text class="fr-ob-cap" x="530" y="296" text-anchor="middle">heavy book,</text>
+      <text class="fr-ob-cap" x="530" y="312" text-anchor="middle">weak forward returns</text>
+
+      <!-- 2001 reference -->
+      <line class="fr-ob-guide" x1="166" y1="70" x2="166" y2="360"></line>
+      <text class="fr-ob-note" x="172" y="114">Dec 2001: order book below 10%</text>
+
+      <!-- +86% reference tick -->
+      <line class="fr-ob-tick" x1="110" y1="90" x2="124" y2="90"></line>
+      <text class="fr-ob-note" x="130" y="94">+86% best 12 months (to Jun 1979)</text>
+
+      <!-- Aug 2008 real point -->
+      <circle class="fr-ob-dot" cx="642" cy="325" r="6"></circle>
+      <line class="fr-ob-leader" x1="642" y1="325" x2="470" y2="345"></line>
+      <text class="fr-ob-note" x="466" y="349" text-anchor="end">Aug 2008: order book above 75%,</text>
+      <text class="fr-ob-note" x="466" y="364" text-anchor="end">then &#8722;76% in the year to Dec 2008</text>
+
+      <!-- correlation annotation -->
+      <text class="fr-ob-corr" x="664" y="98" text-anchor="end">Investment vs 2-year forward return:</text>
+      <text class="fr-ob-corr" x="664" y="114" text-anchor="end">correlation &#8776; &#8722;0.35</text>
+    </svg>
+  </div>
+
+  <div class="fr-viz__note">The marked points and the return extremes are figures reported in the study. The sloping line shows the documented negative relationship between industry investment, measured as deliveries net of demolitions, and subsequent returns. High demolition activity carries the opposite sign and precedes high returns.</div>
+</div>
+
+<style>
+#fr-obret-viz .fr-ob-good{fill:#eaf6fd;}
+#fr-obret-viz .fr-ob-bad{fill:#f4f4f6;}
+#fr-obret-viz .fr-grid line{stroke:#ececf0;stroke-width:1;}
+#fr-obret-viz .fr-ob-zero{stroke:#b9b9c2;stroke-width:1.2;stroke-dasharray:5 4;}
+#fr-obret-viz .fr-ob-axis{stroke:#cfcfd6;stroke-width:1;}
+#fr-obret-viz .fr-ylab text{fill:#999999;font-size:11px;text-anchor:end;font-family:"Open sans",sans-serif;}
+#fr-obret-viz .fr-xlab text{fill:#999999;font-size:11px;text-anchor:middle;font-family:"Open sans",sans-serif;}
+#fr-obret-viz .fr-ob-axtitle{fill:#999999;font-size:11px;text-transform:uppercase;letter-spacing:1px;font-family:"Montserrat",sans-serif;font-weight:700;}
+#fr-obret-viz .fr-ob-trend{stroke:#66ccff;stroke-width:2.5;stroke-dasharray:7 5;stroke-linecap:round;}
+#fr-obret-viz .fr-ob-cap{fill:#8a8a94;font-size:11.5px;font-family:"Open sans",sans-serif;}
+#fr-obret-viz .fr-ob-guide{stroke:#cfcfd6;stroke-width:1;stroke-dasharray:2 4;}
+#fr-obret-viz .fr-ob-tick{stroke:#999999;stroke-width:1.5;}
+#fr-obret-viz .fr-ob-note{fill:#60606e;font-size:11.5px;font-family:"Open sans",sans-serif;}
+#fr-obret-viz .fr-ob-dot{fill:#3aa6e0;stroke:#ffffff;stroke-width:1.5;}
+#fr-obret-viz .fr-ob-leader{stroke:#cfcfd6;stroke-width:1;}
+#fr-obret-viz .fr-ob-corr{fill:#60606e;font-size:12px;font-weight:700;font-family:"Montserrat",sans-serif;}
+</style>

@@ -1,0 +1,69 @@
+<div class="fr-viz" id="fr-loop-viz">
+  <div class="fr-viz__head">
+    <div class="fr-viz__eyebrow">Model</div>
+    <div class="fr-viz__title">Why the fleet overshoots</div>
+  </div>
+
+  <div class="fr-viz__chart">
+    <svg viewBox="0 0 760 470" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Schematic of the shipping investment cycle, from a demand rise through a charter rate spike, higher prices, heavier ordering, fleet growth, and disappointing returns, then repeating">
+      <defs>
+        <marker id="fr-loop-arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7.5" markerHeight="7.5" orient="auto-start-reverse">
+          <path d="M0,0 L10,5 L0,10 z" fill="#9a9aa4"></path>
+        </marker>
+      </defs>
+
+      <!-- down arrows between steps -->
+      <g class="fr-loop-conn">
+        <line x1="210" y1="72" x2="210" y2="96" marker-end="url(#fr-loop-arrow)"></line>
+        <line x1="210" y1="146" x2="210" y2="170" marker-end="url(#fr-loop-arrow)"></line>
+        <line x1="210" y1="220" x2="210" y2="244" marker-end="url(#fr-loop-arrow)"></line>
+        <line x1="210" y1="294" x2="210" y2="318" marker-end="url(#fr-loop-arrow)"></line>
+        <line x1="210" y1="368" x2="210" y2="392" marker-end="url(#fr-loop-arrow)"></line>
+      </g>
+
+      <!-- feedback arrow back to top -->
+      <path class="fr-loop-feedback" d="M382,416 C545,416 545,48 384,48" marker-end="url(#fr-loop-arrow)"></path>
+      <text class="fr-loop-rep" x="556" y="228" text-anchor="middle">the cycle</text>
+      <text class="fr-loop-rep" x="556" y="244" text-anchor="middle">repeats</text>
+
+      <!-- step boxes -->
+      <g class="fr-loop-box">
+        <rect x="40" y="24" width="340" height="48" rx="6"></rect>
+        <rect x="40" y="98" width="340" height="48" rx="6"></rect>
+        <rect x="40" y="172" width="340" height="48" rx="6"></rect>
+        <rect x="40" y="246" width="340" height="48" rx="6"></rect>
+        <rect x="40" y="320" width="340" height="48" rx="6"></rect>
+        <rect x="40" y="394" width="340" height="48" rx="6"></rect>
+      </g>
+
+      <g class="fr-loop-num">
+        <text x="64" y="54">1</text>
+        <text x="64" y="128">2</text>
+        <text x="64" y="202">3</text>
+        <text x="64" y="276">4</text>
+        <text x="64" y="350">5</text>
+        <text x="64" y="424">6</text>
+      </g>
+
+      <g class="fr-loop-txt">
+        <text x="90" y="53">Demand for seaborne transport rises</text>
+        <text x="90" y="127">Charter rates spike, the fleet fixed for now</text>
+        <text x="90" y="201">Secondhand prices rise with earnings</text>
+        <text x="90" y="275">New ordering surges at the yards</text>
+        <text x="90" y="349">Fleet capacity grows, an 18 to 36 month lag</text>
+        <text x="90" y="423">Rates fall below trend, returns disappoint</text>
+      </g>
+    </svg>
+  </div>
+
+  <div class="fr-viz__note">A schematic of the mechanism, with no scale. The lag between an order and its delivery means capacity arrives after the conditions that prompted it have passed. Two expectational errors deepen the swing: owners over-extrapolate the demand shock, and they discount the new capacity that rivals are ordering into the same rates. The fleet overshoots, and ships contracted at the peak deliver into a weaker market.</div>
+</div>
+
+<style>
+#fr-loop-viz .fr-loop-conn line{stroke:#9a9aa4;stroke-width:1.6;}
+#fr-loop-viz .fr-loop-feedback{fill:none;stroke:#9a9aa4;stroke-width:1.6;}
+#fr-loop-viz .fr-loop-rep{fill:#999999;font-size:12px;font-family:"Open sans",sans-serif;}
+#fr-loop-viz .fr-loop-box rect{fill:#f7f9fb;stroke:#d8dde2;stroke-width:1.2;}
+#fr-loop-viz .fr-loop-num text{fill:#66ccff;font-size:15px;font-weight:700;font-family:"Montserrat",sans-serif;text-anchor:middle;}
+#fr-loop-viz .fr-loop-txt text{fill:#60606e;font-size:14px;font-family:"Open sans",sans-serif;}
+</style>
