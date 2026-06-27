@@ -29,7 +29,8 @@ A Frelsea reader is an institutional shipowner or principal allocating significa
 
 Work through these in order. Read the two reference files before writing anything.
 
-- `references/writing-and-seo.md` — the house voice, the AI-trope blacklist, and the exact front-matter / SEO / tag spec. Read it fully; the voice rules are strict and easy to violate.
+- `references/writing-and-seo.md` — the house voice and the exact front-matter / SEO / tag spec. Read it fully; the voice rules are strict and easy to violate.
+- `references/ai-tropes.md` — the complete AI-writing-trope blacklist (negative parallelism, magic adverbs, banned vocabulary, filler transitions, signposted conclusions, and more). Read it fully and scan the finished draft against it. This is the user's standing list and the most common source of revisions; treat it as required, not optional.
 - `references/graphics.md` — the `.fr-viz` figure-card system, the SVG conventions, the grounding rules, and the cover generator. Read it before building any graphic.
 
 ### 1. Ingest the source and pull the real figures

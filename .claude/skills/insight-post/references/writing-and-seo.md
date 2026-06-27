@@ -12,6 +12,8 @@ The reader is an institutional shipowner or principal. Ship sale and purchase is
 
 ## AI-trope blacklist
 
+The most important offenders are below. The COMPLETE list (magic adverbs, banned vocabulary, filler transitions, "serves as/represents", signposted conclusions, anaphora, tricolons, and more) is in `references/ai-tropes.md` — read it and scan the draft against it; do not rely on this short version alone.
+
 These are the tells that make writing read as AI-generated. Scan the draft for each and remove it.
 
 - **Negative parallelism in any form.** This is the most common and most important. Avoid "not X but Y", "X, not Y", and "X rather than Y" reframes. State things positively and directly. Example to avoid: "The price is not a single number, it is a range." Write the positive claim instead.
