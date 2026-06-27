@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px; height: 675px;
+    overflow: hidden;
+    background: #404051;
+    -webkit-font-smoothing: antialiased;
+  }
+  .cover {
+    width: 1200px; height: 675px;
+    display: flex; flex-direction: column;
+    overflow: hidden; position: relative;
+  }
+  .top-bar { height: 6px; background: #66ccff; flex-shrink: 0; }
+  .bg-logo {
+    position: absolute;
+    right: -80px; top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+  .body {
+    flex: 1; display: flex; flex-direction: column;
+    justify-content: center; padding: 0 80px;
+    position: relative; z-index: 1;
+  }
+  .rule { width: 72px; height: 4px; background: #66ccff; margin-bottom: 30px; }
+  .title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700; font-size: 72px;
+    color: #fff; line-height: 1.12; letter-spacing: -0.02em;
+    max-width: 1000px;
+  }
+  .footer {
+    background: #66ccff; display: flex; align-items: center;
+    justify-content: space-between; padding: 0 80px;
+    height: 84px; flex-shrink: 0;
+  }
+  .fb {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700; font-size: 36px;
+    color: #fff; letter-spacing: 0.06em;
+  }
+  .ft {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700; font-size: 36px;
+    text-transform: uppercase; letter-spacing: 0.06em;
+    color: rgba(255,255,255,0.88);
+  }
+</style>
+</head>
+<body>
+<div class="cover">
+  <div class="top-bar"></div>
+  <div class="bg-logo">
+    <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" width="560" height="560">
+      <polygon fill="rgba(255,255,255,0.05)" points="76 19 76 0 0 0 0 100 24 100 24 64 70 64 70 45 24 45 24 19 76 19"/>
+      <path fill="rgba(102,204,255,0.18)" d="m86.14,100c-3.81,0-7.07-1.31-9.78-3.92s-4.07-5.93-4.07-9.93,1.36-7.57,4.07-10.14c2.71-2.58,5.97-3.86,9.78-3.86s7.19,1.28,9.86,3.86c2.66,2.57,4,5.95,4,10.14s-1.34,7.31-4,9.93c-2.67,2.62-5.95,3.92-9.86,3.92Z"/>
+    </svg>
+  </div>
+  <div class="body">
+    <div class="rule"></div>
+    <div class="title">{{TITLE}}</div>
+  </div>
+  <div class="footer">
+    <span class="fb">FRELSEA</span>
+    <span class="ft">Maritime Advisory</span>
+  </div>
+</div>
+</body>
+</html>
